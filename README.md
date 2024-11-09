@@ -36,22 +36,23 @@
       - e.g., Raspberry pi, mother board
       - n-core CPU: put n-different processors on one little chip and it works together.
 - Electricity generates heat in the CPU while it works. 
-- Methods to move heat:
-      1) Passive: relies on air. Uses copper or aluminium structure called heat sinks that help heat dissipate into air.
-      2) Active: using some kind of device to push or pull heat away from computing components e.g., fans/case fans (pull heat out into the air) or liquid cooling (pulls heat into fluid).
-- Random Access Memory (RAM) is measured in gigabytes.
-      1) Function: holds all active programming on a computer that includes OS running apps, and data. Only temporarily stores data.
-      2) Capacity: The amount of usable RAM is called system memory. Using too much will slow it down not die.
-      3) Adding More: Can add more RAM or replace with bigger RAM stick in bigger computers to increase the overall memory capacity.
-      4) 32-bit only supports 4GB RAM.
-      5) www.crucial.com: to find the right RAM for your device
- - Motherboard a.k.a. (Micro) Advanced Technology Extended (ATX) enables connectivity among devices directly or indirectly. Every computing device has a motherboard.
- - Power supplies:
-      1) Power grid runs on alternating current (AC)
-      2) Computing devices run on direct current (DC) so it relies on batteries for power.
-      3) Power adapter: a.k.a. an AC adapter or charger, is a device that converts AC power from a wall outlet into DC power for a device.
-      4) Power brick: a small, rectangular, external power supply that converts AC to DC to power electronic devices (for small devices).
-      5) Power supply unit (PSU): a computer hardware component that converts AC from an electrical outlet into DC for a computer's internal components (for big devices).
+- Methods to move heat:<br>
+      &emsp;1) Passive: relies on air. Uses copper or aluminium structure called heat sinks that help heat dissipate into air.<br>
+      &emsp;2) Active: using some kind of device to push or pull heat away from computing components e.g., fans/case fans (pull heat out into the air) or liquid cooling (pulls heat into fluid).<br>
+- Random Access Memory (RAM) is measured in gigabytes.<br>
+      &emsp;1) Function: holds all active programming on a computer that includes OS running apps, and data. Only temporarily stores data.<br>
+      &emsp;2) Capacity: The amount of usable RAM is called system memory. Using too much will slow it down not die.<br>
+      &emsp;3) Adding More: Can add more RAM or replace with bigger RAM stick in bigger computers to increase the overall memory capacity.<br>
+      &emsp;4) 32-bit only supports 4GB RAM.<br>
+      &emsp;5) www.crucial.com: to find the right RAM for your device.<br>
+ - Motherboard a.k.a. (Micro) Advanced Technology Extended (ATX) enables connectivity among devices directly or indirectly. Every computing device has a motherboard.<br>
+![motherboard](https://github.com/user-attachments/assets/66fcdc8f-6786-450e-8650-81d68a892167)
+ - Power supplies:<br>
+      &emsp;1) Power grid runs on alternating current (AC)<br>
+      &emsp;2) Computing devices run on direct current (DC) so it relies on batteries for power.<br>
+      &emsp;3) Power adapter: a.k.a. an AC adapter or charger, is a device that converts AC power from a wall outlet into DC power for a device.<br>
+      &emsp;4) Power brick: a small, rectangular, external power supply that converts AC to DC to power electronic devices (for small devices).<br>
+      &emsp;5) Power supply unit (PSU): a computer hardware component that converts AC from an electrical outlet into DC for a computer's internal components (for big devices).<br>
 - Intel vs AMD vs ARM processor:
     - Intel: expensive but awesome
     - AMD: great but less expensive
@@ -71,9 +72,8 @@
 - Computing devices come in many forms.
 - I/O devices: touchscreens (input because of the touch function and output because of the screen monitor), keyboards, monitors, mice.
 - Video cards can be added to desktop.
-- VGA vs DVI vs HDMI: differences in quality of signal they carry and type of signals they carry.
-        1) VGA - Default standard, supports a decent size resolution and only carries only video signals.
-        2) DVI - Handles much better definition, carries only video signals.
-        3) High Definition Multimedia Interface - carries high definition of audio and video.
+- VGA vs DVI vs HDMI: differences in quality of signal they carry and type of signals they carry.<br>
+        &emsp;1) VGA - Default standard, supports a decent size resolution and only carries only video signals.<br>
+        &emsp;2) DVI - Handles much better definition, carries only video signals.<br>
+        &emsp;3) High Definition Multimedia Interface - carries high definition of audio and video.<br>
 - Buying a 5 bucks may or may not get the perfect connectivity and speed that the original cable provides.
-- 
