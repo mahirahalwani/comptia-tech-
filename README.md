@@ -9,18 +9,51 @@
 6.0 - Security
 
 ## 1.0 - IT CONCEPTS AND TERMINOLOGY
-- Computer Literacy: the ability to use computers and related technology efficiently, including understanding how they work and operate- Computer systems work similarly hence knowing one system helps learn another.
+- Computer Literacy: the ability to use computers and related technology efficiently, including understanding how they work and operate.
+- Computer systems work similarly hence knowing one system helps learn another.
 - Computing Process: Input, Processing, Output, Storage (same for every device)
-- Input/Output devices enable communication with a computer.
+- Input/Output devices enable communication with a computer enhancing capabilities of computers.
 - Processing components handle commands.
 - Storage devices save data and programs for later use.
-- General-purpose computing devices, e.g., PCs, tablets, laptops, smartphones enable a variety of tasks.
+- General-purpose computing devices, e.g., PCs, tablets, laptops, smartphones are adaptable, increasing their functionality and enables them to be more useful.
 - Users can add apps to enable more functionality.
 - Local Area Network (LAN): a basic computer network that connects devices within a limited area via switch. Local and usually small. Much faster. Server uses LAN to provide network.
 - Wide Area Network (WAN): Routers connect one or more LANs into a WAN.
 - Internet: LAN combined with WAN together.
+- LANs, WANs, and the Internet are paths to reach remotely-accessed computer systems.
 - Remotely-Accessed Computer Systems: allow users to access a computer from a distance, either for work or other purposes enhancing local capabilities.
 - Remote Server: a computer that stores and processes information, and is accessible over the internet, e.g., web servers, database servers, file servers.
-- Online applications enable lighter (resource-wise) local machines.
+- Online applications enable lighter (resource-wise) local machines and it resides in the remotely-accessed computer systems.
 - Online storage and systems protects data from local crashes.
-- Specialized Computer Systems: computers that are designed to perform specific tasks, rather than a wide range of tasks e.g., POS System, ATM, GPS, 
+- Specialized Computer Systems: computers that are designed to perform specific tasks, rather than a wide range of tasks e.g., POS System, ATM, GPS, printers, joysticks, multifunction devices.
+
+## 2.0 - SYSTEM HARDWARE
+- Central Processing Unit (CPU) is not smart but very fast. It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.
+- CPU's characteristic:
+      - Speed: how many things it can do in one second under perfect condition. Measured in gigahertz (Hertz: 1 cycle per sec)
+      - Complexity:
+      - 32-bit or 64-bit processor
+      - e.g., Raspberry pi, mother board
+      - n-core CPU: put n-different processors on one little chip and it works together.
+- Electricity generates heat in the CPU while it works. 
+- Methods to move heat:
+    1) Passive: relies on air. Uses copper or aluminium structure called heat sinks that help heat dissipate into air.
+    2) Active: using some kind of device to push or pull heat away from computing components e.g., fans (pull heat out into the air) or liquid cooling (pulls heat into fluid).
+- Random Access Memory (RAM) is measured in gigabytes.
+    1) Function: holds all active programming on a computer that includes OS running apps, and data. Only temporarily stores data. 
+    2) Capacity: The amount of usable RAM is called system memory. Using too much will slow it down not die. 
+    3) Adding More: Can add more RAM or replace with bigger RAM stick in bigger computers to increase the overall memory capacity.
+    4) 32-bit only supports 4GB RAM.
+    5) www.crucial.com: to find the right RAM for your device
+ - Motherboard a.k.a. (Micro) Advanced Technology Extended (ATX) enables connectivity among devices directly or indirectly. Every computing device has a motherboard.
+ - Power supplies:
+     1) Alternating current (AC)
+     2) Computing devices run on direct current (DC) so it relies on batteries for power.
+     3) Power adapter: a.k.a. an AC adapter or charger, is a device that converts AC power from a wall outlet into DC power for a device. 
+     4) Power brick: a small, rectangular, external power supply that converts AC to DC to power electronic devices (for small devices).
+     5) Power supply unit (PSU): a computer hardware component that converts AC from an electrical outlet into DC for a computer's internal components (for big devices).
+- Intel vs AMD vs ARM processor:
+    - Intel: expensive but awesome
+    - AMD: great but less expensive
+    - ARM: in little devices like smartphones
+- 
