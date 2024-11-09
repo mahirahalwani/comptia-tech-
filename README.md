@@ -52,7 +52,7 @@
       &emsp;2) Computing devices run on direct current (DC) so it relies on batteries for power.<br>
       &emsp;3) Power adapter: a.k.a. an AC adapter or charger, is a device that converts AC power from a wall outlet into DC power for a device.<br>
       &emsp;4) Power brick: a small, rectangular, external power supply that converts AC to DC to power electronic devices (for small devices).<br>
-      &emsp;5) Power supply unit (PSU): a computer hardware component that converts AC from an electrical outlet into DC for a computer's internal components (for big devices).<br>
+      &emsp;5) Power supply unit (PSU): a computer hardware component that converts AC from an electrical outlet into DC for a computer's internal components (for big devices).
 - Intel vs AMD vs ARM processor:
     - Intel: expensive but awesome
     - AMD: great but less expensive
