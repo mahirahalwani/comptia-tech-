@@ -1,6 +1,6 @@
 # comptia-itf
 
-##EXAM DOMAINS
+## EXAM DOMAINS
 1.0 - IT Concepts and Terminology
 2.0 - Infrastructure
 3.0 - Applications and Software
