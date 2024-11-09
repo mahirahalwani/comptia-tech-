@@ -1,12 +1,12 @@
 # comptia-itf
 
 ## EXAM DOMAINS
-1.0 - IT Concepts and Terminology
-2.0 - Infrastructure
-3.0 - Applications and Software
-4.0 - Software Development
-5.0 - Database Fundamentals
-6.0 - Security
+1.0 - IT Concepts and Terminology<br>
+2.0 - Infrastructure<br>
+3.0 - Applications and Software<br>
+4.0 - Software Development<br>
+5.0 - Database Fundamentals<br>
+6.0 - Security<br>
 
 ## 1.0 - IT CONCEPTS AND TERMINOLOGY
 - Computer Literacy: the ability to use computers and related technology efficiently, including understanding how they work and operate.
