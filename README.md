@@ -79,21 +79,22 @@
 - Buying a 5 bucks may or may not get the perfect connectivity and speed that the original cable provides.
 
 ## 4.0 - DATA STORAGE AND SHARING
-- Computing devices use wire and electricity to count in binary (base 2)
-- 1 = ON, 0 = OFF
-- every wire we added doubles the complexity
-- modern operator comes in 32-bit and 64-bit
-- 32-bit CPU/OS can hanfle up to 4GB of RAM
-- RAM is volatile; it will erase its memory once it is off
+- Computing devices use wire and electricity to count in binary. (base 2)<br>
+- 1 = ON, 0 = OFF<br>
+- Every wire we added doubles the complexity.<br>
+- Modern operator comes in 32-bit and 64-bit.<br>
+- 32-bit CPU/OS can hanfle up to 4GB of RAM.<br>
+- RAM is volatile; it will erase its memory once it is off.<br>
 - Mass storage device:<br>
-      &emps;- It comes in many form each with variety of purposes, e.g., hard drive.
-      &emsp;- Can be built into a computer, like an internal HDD or SSD
-      &emsp;- Can attach storage devices, such as thumb drive or external HDD
-      &emsp;- The internet hosts cloud storage options, such as iCloud and Dropbox
-- Hard Drive: a device that provides long term storage. The data will be erased only if it is deleted or the hard drive dies and its capacity is measured in GBs and TBs.
-- 1 digit = 1 bit, 8 bits = 1 byte, 1,204 bytes = 1 kilobyte, 1,024 KB = 1 MB, 1,024 MB = 1GB, 1,024 GB = 1TB
-- Computing purpose determines capacisty needs, e.g. word processing apps do not take a lot of space while video editing does.
-- Examples of Mass Storage Devices
+      &emps;- It comes in many form each with variety of purposes, e.g., hard drive.<br>
+      &emsp;- Can be built into a computer, like an internal HDD or SSD.<br>
+      &emsp;- Can attach storage devices, such as thumb drive or external HDD.<br>
+      &emsp;- The internet hosts cloud storage options, such as iCloud and Dropbox.<br>
+- Hard Drive: a device that provides long term storage. The data will be erased only if it is deleted or the hard drive dies and its capacity is measured in GBs and TBs.<br>
+- Hard drives are described as how much data they can store (capacity) and how fast the data can be accessed (speed). <br>
+- 1 digit = 1 bit, 8 bits = 1 byte, 1,204 bytes = 1 kilobyte, 1,024 KB = 1 MB, 1,024 MB = 1GB, 1,024 GB = 1TB.<br>
+- Computing purpose determines capacisty needs, e.g. word processing apps do not take a lot of space while video editing does.<br>
+- Examples of Mass Storage Devices<br>
       &emps;1) Internal Hard Drive: a storage device that's installed inside a computer's case and is directly connected to the motherboard and power supply, e.g., SSD (fast) or HDD.<br>
       &emps;2) Portable External Hard Drive: a storage device that can be connected to a computer or other device to provide extra storage space. Slower than SDD but portable and when need more space, it can be replaced with a bigger space.<br>
       &emps;3) Optical Media: a type of storage medium that uses a laser to read and write data on discs, e.g., CD, DVD, Blue-ray discs.<br>
@@ -101,8 +102,30 @@
       &emps;5) Cloud Storage: a service that allows users to store data online and access it from any location using the internet or a private network, e.g. iCloud, dropbox.<br>
 - Local storage vs network-attached storage:
       &emps;1) Local s
-      &emps;2) Network-Attached Storage (NAS): it has its own OS because it has internet. The only dropback
+      &emps;2) Network-Attached Storage (NAS): storage accessed via a network and has its own OS because it has internet. 
 - External hard drive works pretty much the same.
 - It matters which port you connect the USB to because the speed is different.
 - CD's: 700MB, DVD: 4.7 or 8.5GB, Blue-Ray: 50GB.
+
+## 5.0 - UNDERSTANDING OPERATING SYSTEMS
+- Every computing device has an operating system (OS), e.g., windows, macOS, Chrome OS, Linux, iOS, Androids.<br>
+- OS provides user interface (a way to interact with the OS), coordination among hardware, monitors health and way to store and retrieve data.<br>
+- HWMonitor: help you keep tabs on various hardware parameters in your computer system.<br>
+- Most OS have similar user interfaces, but use different names, e.g., Windows has Start Screen and taskbar; macOS has the Dock; Windows uses File Explore, macOS uses Finder.<br>
+- Boot camp is used for dual-boot machine but can only be downloaded on mac.<br>
+- Without an OS, the computing device can't run any software or other programs.<br>
+- Firefox is a third-party browser.<br>
+- System applet: where you can find what version of Windows is running on a computer.<br>
+- Desktop: where files, folders and shortcuts to files and programs can be seen.<br>
+- Devices and printers: where you can see which printers are available for use, and documents is where files you created can be stored.<br>
+
+## 6.0 - SETTING UP AND CONFIGURING A PC
+- For overall comfort, the ideal temperature is 72 Fahrenheit and 50% humidity.<br>
+- Monitor should be 16-24 inches away from the user.<br>
+- The top of the monitor should be lined up with your eye level.<br>
+- Make sure your wrists aren't bend awkwardly.<br>
+- Set chair height so legs bend at 90 degrees.<br>
+- Setup starts with hardware connectivity.<br>
+- Personalization: tells us where you live for the time zone. <br>
+- Window Defender is automatically installed for security purposes.<br>
 - 
