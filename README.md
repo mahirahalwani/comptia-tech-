@@ -101,3 +101,8 @@
       &emps;5) Cloud Storage: a service that allows users to store data online and access it from any location using the internet or a private network, e.g. iCloud, dropbox.<br>
 - Local storage vs network-attached storage:
       &emps;1) Local s
+      &emps;2) Network-Attached Storage (NAS): it has its own OS because it has internet. The only dropback
+- External hard drive works pretty much the same.
+- It matters which port you connect the USB to because the speed is different.
+- CD's: 700MB, DVD: 4.7 or 8.5GB, Blue-Ray: 50GB.
+- 
