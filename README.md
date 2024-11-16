@@ -86,7 +86,7 @@
 - 32-bit CPU/OS can hanfle up to 4GB of RAM.<br>
 - RAM is volatile; it will erase its memory once it is off.<br>
 - Mass storage device:<br>
-      &emps;- It comes in many form each with variety of purposes, e.g., hard drive.<br>
+      &emsp;- It comes in many form each with variety of purposes, e.g., hard drive.<br>
       &emsp;- Can be built into a computer, like an internal HDD or SSD.<br>
       &emsp;- Can attach storage devices, such as thumb drive or external HDD.<br>
       &emsp;- The internet hosts cloud storage options, such as iCloud and Dropbox.<br>
@@ -95,14 +95,14 @@
 - 1 digit = 1 bit, 8 bits = 1 byte, 1,204 bytes = 1 kilobyte, 1,024 KB = 1 MB, 1,024 MB = 1GB, 1,024 GB = 1TB.<br>
 - Computing purpose determines capacisty needs, e.g. word processing apps do not take a lot of space while video editing does.<br>
 - Examples of Mass Storage Devices<br>
-      &emps;1) Internal Hard Drive: a storage device that's installed inside a computer's case and is directly connected to the motherboard and power supply, e.g., SSD (fast) or HDD.<br>
-      &emps;2) Portable External Hard Drive: a storage device that can be connected to a computer or other device to provide extra storage space. Slower than SDD but portable and when need more space, it can be replaced with a bigger space.<br>
-      &emps;3) Optical Media: a type of storage medium that uses a laser to read and write data on discs, e.g., CD, DVD, Blue-ray discs.<br>
-      &emps;4) Mailing Flash Drive: sending a small, rectangular data storage device that uses flash memory through the mail.<br>
-      &emps;5) Cloud Storage: a service that allows users to store data online and access it from any location using the internet or a private network, e.g. iCloud, dropbox.<br>
+      &emsp;1) Internal Hard Drive: a storage device that's installed inside a computer's case and is directly connected to the motherboard and power supply, e.g., SSD (fast) or HDD.<br>
+      &emsp;2) Portable External Hard Drive: a storage device that can be connected to a computer or other device to provide extra storage space. Slower than SDD but portable and when need more space, it can be replaced with a bigger space.<br>
+      &emsp;3) Optical Media: a type of storage medium that uses a laser to read and write data on discs, e.g., CD, DVD, Blue-ray discs.<br>
+      &emsp;4) Mailing Flash Drive: sending a small, rectangular data storage device that uses flash memory through the mail.<br>
+      &emsp;5) Cloud Storage: a service that allows users to store data online and access it from any location using the internet or a private network, e.g. iCloud, dropbox.<br>
 - Local storage vs network-attached storage:
-      &emps;1) Local s
-      &emps;2) Network-Attached Storage (NAS): storage accessed via a network and has its own OS because it has internet. 
+      &emsp;1) Local s
+      &emsp;2) Network-Attached Storage (NAS): storage accessed via a network and has its own OS because it has internet. 
 - External hard drive works pretty much the same.
 - It matters which port you connect the USB to because the speed is different.
 - CD's: 700MB, DVD: 4.7 or 8.5GB, Blue-Ray: 50GB.
@@ -154,6 +154,8 @@
 - When you drag and drop between two different drives, it becomes a copy action.<br>
 - Backups data manually or use a program to do it for you.<br>
 - Back up to locally attached storage, network attached storage (NAS) and cloud storage.<br>
-- Always verify backups.
-- Run regularly scheduled backups through default or 3rd party tools.
-- Make sure to do backups once a week or at least once a month.
+- Always verify backups.<br>
+- Run regularly scheduled backups through default or 3rd party tools.<br>
+- Make sure to do backups once a week or at least once a month.<br>
+- Indexing: keep tracks of all the files in system not just by date or author but also by contents of the files.<br>
+- Hotkeys: combination you can use on the keyboard both in the OS and apps
