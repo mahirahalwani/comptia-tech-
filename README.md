@@ -33,7 +33,7 @@
       &emsp;- Speed: how many things it can do in one second under perfect condition. Measured in gigahertz (Hertz: 1 cycle per sec)<br>
       &emsp;- Complexity:<br>
       &emsp;- 32-bit or 64-bit processor (Bits: amount fo data a CPU can process)<br>
-      &emsp; - e.g., Raspberry pi, mother board<br>
+      &emsp;- e.g., Raspberry pi, mother board<br>
       &emsp;- n-core CPU: put n-different processors on one little chip and it works together.<br>
 - Electricity generates heat in the CPU while it works.<br>
 - Methods to move heat:<br>
@@ -94,9 +94,10 @@
 - 1 digit = 1 bit, 8 bits = 1 byte, 1,204 bytes = 1 kilobyte, 1,024 KB = 1 MB, 1,024 MB = 1GB, 1,024 GB = 1TB
 - Computing purpose determines capacisty needs, e.g. word processing apps do not take a lot of space while video editing does.
 - Examples of Mass Storage Devices
-      &emps;1) Internal Hard Drive: SSD that is very fast
-      &emps;2) Portable External Hard Drive: slowrr than SDD but need more sp[ace, teplace it with a bigger space. can connect to a nw compueter asn acces the data.
-      &emps;3) Optcial Media
-      &emps;4) Mailing Flash Drive:
-      &emps;5) Local storgae vs netowrk-attached storage
-      &emps;6) Cloud Storage: e.g. iCloud, dropbox
+      &emps;1) Internal Hard Drive: a storage device that's installed inside a computer's case and is directly connected to the motherboard and power supply, e.g., SSD (fast) or HDD.<br>
+      &emps;2) Portable External Hard Drive: a storage device that can be connected to a computer or other device to provide extra storage space. Slower than SDD but portable and when need more space, it can be replaced with a bigger space.<br>
+      &emps;3) Optical Media: a type of storage medium that uses a laser to read and write data on discs, e.g., CD, DVD, Blue-ray discs.<br>
+      &emps;4) Mailing Flash Drive: sending a small, rectangular data storage device that uses flash memory through the mail.<br>
+      &emps;5) Cloud Storage: a service that allows users to store data online and access it from any location using the internet or a private network, e.g. iCloud, dropbox.<br>
+- Local storage vs network-attached storage:
+      &emps;1) Local s
