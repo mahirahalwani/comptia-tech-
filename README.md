@@ -128,4 +128,32 @@
 - Setup starts with hardware connectivity.<br>
 - Personalization: tells us where you live for the time zone. <br>
 - Window Defender is automatically installed for security purposes.<br>
-- 
+- Power strip:  a block of electrical sockets that attaches to the end of a flexible cable (typically with a mains plug on the other end), allowing multiple electrical devices to be powered from a single electrical socket.<br>
+- Surge protector: protect electronic equipment from unwanted power surges or "spikes."<br>
+- Uninterruptable Power Supply: device that keeps electronics powered on when there is a power failure. A UPS typically has a charged battery that supplies power when there is a power outage.<br>
+- Brown Out: a reduction in or restriction on the availability of electrical power in a particular area.<br>
+- Black Out: a failure of electrical power supply.<br>
+- It is important to have the OS up-to-date to make sure any security holes have been filled and any previous issues (bugs) have been fixed. <br>
+
+## 7.0 - SETTING UP AND CONFIGURING A MOBILE DEVICE
+- Accept the EULA.<br>
+- End-User License Agreement (EULA) explains what you can or cannot do on a device or with a piece of software and must be agreed to in order to use the device or software.<br>
+- Connect to the Internet and update the device's firmware and OS.<br>
+- Customize device by adding e-mail and apps.<br>
+- Storage: capacity to store files, whatever you bought, you get it with Apple but with Android you can add more because it comes with a SD card.<br>
+- Data Usage: how much info is flowing from the cell phone company to your device.<br>
+- What you get from LG can be different from what you can get from Samsung because every company who uses Android can customize the OS accordingly.<br>
+- Apple devices are in their own ecosystem which provides seamless interataction between its devices.<br>
+- Reasons why apps crash: the app is poorly written, the app was written with a specific Android in mind.<br>
+- How to solve: wait for a patch, check for the updated versions.<br>
+- Synchronize all the apps in the device to the laptop.<br>
+- Resolution: the pixels that make up the screen. the finer the pixels, the higher the resolution and vice versa.<br>
+
+## 8.0 - MANAGING FILES
+- You can create, copy, paste, move, cut, delete, and permanently delete files.<br>
+- When you drag and drop between two different drives, it becomes a copy action.<br>
+- Backups data manually or use a program to do it for you.<br>
+- Back up to locally attached storage, network attached storage (NAS) and cloud storage.<br>
+- Always verify backups.
+- Run regularly scheduled backups through default or 3rd party tools.
+- Make sure to do backups once a week or at least once a month.
