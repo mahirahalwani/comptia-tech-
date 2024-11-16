@@ -29,13 +29,13 @@
 
 ## 2.0 - SYSTEM HARDWARE
 - Central Processing Unit (CPU) is not smart but very fast. It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.
-- CPU's characteristic:
-      - Speed: how many things it can do in one second under perfect condition. Measured in gigahertz (Hertz: 1 cycle per sec)
-      - Complexity:
-      - 32-bit or 64-bit processor (Bits: amount fo data a CPU can process)
-      - e.g., Raspberry pi, mother board
-      - n-core CPU: put n-different processors on one little chip and it works together.
-- Electricity generates heat in the CPU while it works. 
+- CPU's characteristic:<br>
+      &emsp;- Speed: how many things it can do in one second under perfect condition. Measured in gigahertz (Hertz: 1 cycle per sec)<br>
+      &emsp;- Complexity:<br>
+      &emsp;- 32-bit or 64-bit processor (Bits: amount fo data a CPU can process)<br>
+      &emsp; - e.g., Raspberry pi, mother board<br>
+      &emsp;- n-core CPU: put n-different processors on one little chip and it works together.<br>
+- Electricity generates heat in the CPU while it works.<br>
 - Methods to move heat:<br>
       &emsp;1) Passive: relies on air. Uses copper or aluminium structure called heat sinks that help heat dissipate into air.<br>
       &emsp;2) Active: using some kind of device to push or pull heat away from computing components e.g., fans/case fans (pull heat out into the air) or liquid cooling (pulls heat into fluid).<br>
@@ -77,3 +77,26 @@
         &emsp;2) DVI - Handles much better definition, carries only video signals.<br>
         &emsp;3) High Definition Multimedia Interface - carries high definition of audio and video.<br>
 - Buying a 5 bucks may or may not get the perfect connectivity and speed that the original cable provides.
+
+## 4.0 - DATA STORAGE AND SHARING
+- Computing devices use wire and electricity to count in binary (base 2)
+- 1 = ON, 0 = OFF
+- every wire we added doubles the complexity
+- modern operator comes in 32-bit and 64-bit
+- 32-bit CPU/OS can hanfle up to 4GB of RAM
+- RAM is volatile; it will erase its memory once it is off
+- Mass storage device:<br>
+      &emps;- It comes in many form each with variety of purposes, e.g., hard drive.
+      &emsp;- Can be built into a computer, like an internal HDD or SSD
+      &emsp;- Can attach storage devices, such as thumb drive or external HDD
+      &emsp;- The internet hosts cloud storage options, such as iCloud and Dropbox
+- Hard Drive: a device that provides long term storage. The data will be erased only if it is deleted or the hard drive dies and its capacity is measured in GBs and TBs.
+- 1 digit = 1 bit, 8 bits = 1 byte, 1,204 bytes = 1 kilobyte, 1,024 KB = 1 MB, 1,024 MB = 1GB, 1,024 GB = 1TB
+- Computing purpose determines capacisty needs, e.g. word processing apps do not take a lot of space while video editing does.
+- Examples of Mass Storage Devices
+      &emps;1) Internal Hard Drive: SSD that is very fast
+      &emps;2) Portable External Hard Drive: slowrr than SDD but need more sp[ace, teplace it with a bigger space. can connect to a nw compueter asn acces the data.
+      &emps;3) Optcial Media
+      &emps;4) Mailing Flash Drive:
+      &emps;5) Local storgae vs netowrk-attached storage
+      &emps;6) Cloud Storage: e.g. iCloud, dropbox
