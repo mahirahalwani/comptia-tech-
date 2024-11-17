@@ -158,4 +158,5 @@
 - Run regularly scheduled backups through default or 3rd party tools.<br>
 - Make sure to do backups once a week or at least once a month.<br>
 - Indexing: keep tracks of all the files in system not just by date or author but also by contents of the files.<br>
-- Hotkeys: combination you can use on the keyboard both in the OS and apps
+- Hotkeys: combination you can use on the keyboard both in the OS and apps to reduce time consuming by using the mouse.<br>
+- 
