@@ -159,4 +159,39 @@
 - Make sure to do backups once a week or at least once a month.<br>
 - Indexing: keep tracks of all the files in system not just by date or author but also by contents of the files.<br>
 - Hotkeys: combination you can use on the keyboard both in the OS and apps to reduce time consuming by using the mouse.<br>
+
+## 9.0 - USING AND MANAGING APPLICATION SOFTWARE
+- Programming: creating an apps to enable users to do stuff.<br>
+- Life cycles of application: Install, update, uninstall.<br>
+- Installation: insert an optical disk or download the apps from the Internet.<br>
+- User Account Control: security feature in Windows to stop malicious software from installing without permission.<br>
+- Security Patches:<br>
+- Check for Updates: from the application<br>
+- Uninstall: control panels > programs and features (Windows)<br>
+- File Association:<br>
+- File Extension: extension that relates with the associate program. e.g.: .docx, .xlsx, .pptx, .eml, .jpg or .jpe, .tif or .png, .zip, .exe (executable files), .mp4 or .avi or .mpg<br>
+- Compression Files: squish a big file to a smaller file<br>
+- Well known office productivity Apps: Microsoft Office 365, GoogleSuite, OpenOffice<br>
+- OneDrive enables sharing and real-time document editing in an online workspace.<br>
+- it is open source: programmer has created and shared it for free use, not commercially use. We can change it the code and implement it if we share it.<br>
+- Open source may not have the newest feature and not updated frequently.<br>
+- Remote Access Software: allows for remote access to help through the troubleshooting steps when you are having an issue that you can't solve. e.g.: AnyDesk, Remote Desktop, Connectwise<br>
+- If possible you must update as frequent as possible. Microsoft makes update every first Tuesday of the month.<br>
+- Browsers: to allow browsing the internet. Each browser generally have default search engine. You can change your preferred search engine. e.g.: Safari -> Google , Chrome -> Google, Brave -> Brave<br>
+- Profile Synchronization: When you can go to any device and log in and see your themes, bookmarks, items, and features. It creates a seamless and wonderful user experience from one device to another.<br>
+- Extension: embedded application to enhance functionality of the browsers. Extension comes in all size and shape depending on the feature you're looking for, there probably is an extension for it.<br>
+- Clearing cache or temporary memory is crucial. Cache stores your cookie files that storing your interaction with different websites, settigns, features. Although it provides enhance user experience, attacker can use to be able to gather information. Browser history shoudl be cleared out periodically.<br>
+- Nothing is completely private but we can increase privacy by using private browsing like incognito window.<br>
+- Pop-up Blocker is enabled by default. It stops potentially annoying or even potentially malicious pop-up from taking your internet browsing experience.<br>
+- Artifical Intelligence: can analyse data, make suggestions, create contents, solve problems, and make decisions. It is a combination of different components of CS, Maths. and cognitive science and other disciplines.<br>
+- Machine Learnign: ability of the machine to learn and grow. Made up of three componnents: representation, evaluation, timization.<br>
+- Natural Language Processing: Ability to understand human language. Consists of understanding, processing and communication.<br>
+- AI Chatbot: a conversational agent. Does not design to do complex features and functions. Can ony handle simple tasks that is mostly pre-design.<br>
+- AI Virtual Assistants: can complete more comprehensive assistance and complex activities. Can carry more "real" conversations. e.g.: Siri, Google Assistant<br>
+- Generative AI: an AI-created content. e.g.: ChatGPT, Bard. It really increases the speed and efficiency.<br>
+- AI-Generated Code: a programming that is written in different programming language.<br>
+- AI-Generated Content: using natural language processing, machine learning, and deep learning.<br>
+- Deep Learning: a deeper lever of machine learning.<br>
+
+## 10.0 - SETTING UP AND CONFIGURNG A MOBILE DEVICE
 - 
