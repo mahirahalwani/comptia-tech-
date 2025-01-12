@@ -1,4 +1,4 @@
-# comptia-itf
+# comptia-tech+ (FC0-U71)
 
 ## EXAM DOMAINS
 1.0 - IT Concepts and Terminology<br>
@@ -101,7 +101,7 @@
       &emsp;4) Mailing Flash Drive: sending a small, rectangular data storage device that uses flash memory through the mail.<br>
       &emsp;5) Cloud Storage: a service that allows users to store data online and access it from any location using the internet or a private network, e.g. iCloud, dropbox.<br>
 - Local storage vs network-attached storage:
-      &emsp;1) Local s
+      &emsp;1) Locals.
       &emsp;2) Network-Attached Storage (NAS): storage accessed via a network and has its own OS because it has internet. 
 - External hard drive works pretty much the same.
 - It matters which port you connect the USB to because the speed is different.
