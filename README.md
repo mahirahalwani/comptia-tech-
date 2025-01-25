@@ -9,23 +9,25 @@
 6.0 - Security<br>
 
 ## 1.0 - IT CONCEPTS AND TERMINOLOGY
-- Computer Literacy: the ability to use computers and related technology efficiently, including understanding how they work and operate.
-- Computer systems work similarly hence knowing one system helps learn another.
-- Computing Process: Input, Processing, Output, Storage (same for every device)
-- Input/Output devices enable communication with a computer enhancing capabilities of computers.
-- Processing components handle commands.
-- Storage devices save data and programs for later use.
-- General-purpose computing devices, e.g., PCs, tablets, laptops, smartphones are adaptable, increasing their functionality and enables them to be more useful.
-- Users can add apps to enable more functionality.
-- Local Area Network (LAN): a basic computer network that connects devices within a limited area via switch. Local and usually small. Much faster. Server uses LAN to provide network.
-- Wide Area Network (WAN): Routers connect one or more LANs into a WAN.
-- Internet: LAN combined with WAN together.
-- LANs, WANs, and the Internet are paths to reach remotely-accessed computer systems.
-- Remotely-Accessed Computer Systems: allow users to access a computer from a distance, either for work or other purposes enhancing local capabilities.
-- Remote Server: a computer that stores and processes information, and is accessible over the internet, e.g., web servers, database servers, file servers.
-- Online applications enable lighter (resource-wise) local machines and it resides in the remotely-accessed computer systems.
-- Online storage and systems protects data from local crashes.
-- Specialized Computer Systems: computers that are designed to perform specific tasks, rather than a wide range of tasks e.g., POS System, ATM, GPS, printers, joysticks, multifunction devices.
+- Computer Literacy: the ability to use computers and related technology efficiently, including understanding how they work and operate.<br>
+- Computer systems work similarly hence knowing one system helps learn another.<br>
+- Computing Process: Input, Processing, Output, Storage (same for every device)<br>
+- Input/Output devices enable communication with a computer enhancing capabilities of computers.<br>
+- Processing components handle commands.<br>
+- Storage devices save data and programs for later use.<br>
+- General-purpose computing devices, e.g., PCs, tablets, laptops, smartphones are adaptable, increasing their functionality and enables them to be more useful.<br>
+- Users can add apps to enable more functionality.<br>
+- Local Area Network (LAN): a basic computer network that connects devices within a limited area via switch. Local and usually small. Much faster. Server uses LAN to provide network.<br>
+- LAN Charateristics: Small, local, connected groups of devices. e.g.: P2P, small offices.<br>
+- Wide Area Network (WAN): Routers connect one or more LANs into a WAN.<br>
+- WAN Characteristics: Devices on different networks connect. e.g.: A company's global offices connecting to each other.<br>
+- Internet: LAN combined with WAN together.<br>
+- LANs, WANs, and the Internet are paths to reach remotely-accessed computer systems.<br>
+- Remotely-Accessed Computer Systems: allow users to access a computer from a distance, either for work or other purposes enhancing local capabilities.<br>
+- Remote Server: a computer that stores and processes information, and is accessible over the internet, e.g., web servers, database servers, file servers.<br>
+- Online applications enable lighter (resource-wise) local machines and it resides in the remotely-accessed computer systems.<br>
+- Online storage and systems protects data from local crashes.<br>
+- Specialized Computer Systems: computers that are designed to perform specific tasks, rather than a wide range of tasks e.g., POS System, ATM, GPS, printers, joysticks, multifunction devices.<br>
 
 ## 2.0 - SYSTEM HARDWARE
 - Central Processing Unit (CPU) is not smart but very fast. It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.
@@ -193,5 +195,44 @@
 - AI-Generated Content: using natural language processing, machine learning, and deep learning.<br>
 - Deep Learning: a deeper lever of machine learning.<br>
 
-## 10.0 - SETTING UP AND CONFIGURNG A MOBILE DEVICE
-- 
+## 10.0 - CONFIGURING NETWORK AND INTERNET CONNECTIVITY
+- Networking is all about communciating.<br>
+- Computing devices can comminucate across great distances if they have the correct information. Proper routing of the data to the right device is important.<br>
+- How to accomplish this:<br>
+      &emsp;1) Media Access Control (MAC) Address: a 12 digit hexadecimal number assign by the manifacturer that is unique to the network interface of the device. Can be checked through ipconfig /all command -> Physical Address<br>
+      &emsp;2) Internet Protocol (IP) Address: like a phone number of the device. Made of 4 sets of numbers separated by dots. Private IP is IP address allocated to the local network.<br>
+      &emsp;3) Ports. There is 66,535 ports altogether. Ports 0-1,023 are assigned to specific services. Ports 1,024-65,535 are ephemeral ports with various uses; can be used for many different things and they are very flexible and versatile. <br>
+      &emsp;4) Peer-to-Peer (P2P) Networks: A home network. A very specific type of LAN, where each devices equals and share resources. Smaller and does not requires a server.<br>
+      &emsp;5) Client-Server Model: devices access shared resources within the same LAN. e.g.: Shared office printer.<br>
+- Without the RJ45 cable, there is no networking.<br>
+- RJ45 standards: Category (cat) 5, 6, and 7.<br>
+- The only visible difference is the marking ont he casing.<br>
+- Cat 6 and 7 are generally faster and more resistant to interference and can even support two-way communication, while cat 5 is slower and can only support one-way communication.<br>
+- Things use for cabling: Cable crimpers, RJ45 ends, and cable testers.<br>
+- Main devices that we need to create networks:<br>
+      &emsp;1) Modulator/Demodulator: converts from analog to digital and digital to analog. Allows computer to connect to the internet.<br>
+      &emsp;2) Switch: a device that connects multiple devices in the network. e.g.: printers, computers, servers on the LANs.<br>
+      &emsp;3) Firewalls: it protects from the bad of internets. Can be customised to open and close specific ports, allowing or disallowing specific types of network traffics, in and out of the network. It uses the access control lists to define what traffic is allowed in and out of the network.<br>
+      &emsp;4) Access Point: connecting Wi-Fi to the wired network.<br>
+- Three different internet access options:<br>
+      &emsp;1) Wired: where you plugged in the device into the wall by RJ45.<br>
+      &emsp;2) Wireless: Wi-Fi.<br>
+      &emsp;3) Cellular: using cellular telephone network.<br>
+- Reasons to determine the best home-network: mobility, availability, reliability, throughput, connection delay, latency, number of concurrent connections, and level of security.<br>
+- Internet Access Considerations:
+      &emsp;1) Mobility: how far you can travel and still can access the network resources.<br>
+      &emsp;2) Availability: Probability that a system will be functional.<br>
+      &emsp;3) Reliability: Quality of data received and the error checking and correcting capabilities of the technology.<br>
+      &emsp;4) Throughput: data transfer rate. e.g.: How quickly does your email download.<br>
+      &emsp;5) Latency: connection delay between the reiuqest and the response to the request.<br>
+      &emsp;6) Number of Concurrect Connections: number of the simultaneous users who can connect to the internet.<br>
+      &emsp;7) Level of Security: How resistant is this connection to some sort of internet base attack.<br>
+- Wired always beats wireless and cellular except mobility. <br>
+- Internet Connectors:<br>
+      &emsp;- RJ45: standard ethernet connector.<br>
+      &emsp;- Small Form-Factor Pluggable (SFP): High-speed ethernet connector utilizes fiber optic cabling.<br>
+- Wired networks do not worry about signal loss or cloud cover. The quality of the data received makes it the most reliable. Data-speed is up to 10GB per sec. Offers the lowest latency, they do not wait for the signal to cross the air, they can be interfered easily. Offers great security as long as you do not let a bad guy plug to the network. <br>
+- Wireless or Wi-Fi generally comes second. The freedom to roam is extremely nice.<br>
+- Most households are going wireless because it is less expensive, easier to install, and supports all of their computing devices.<br>
+- 802.11 is a wireless standard. (Current standard is 802.11ax (Wi-Fi 6)).<br>
+- Older standards are more flexible with older devices. <br>
