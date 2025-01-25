@@ -102,12 +102,12 @@
       &emsp;3) Optical Media: a type of storage medium that uses a laser to read and write data on discs, e.g., CD, DVD, Blue-ray discs.<br>
       &emsp;4) Mailing Flash Drive: sending a small, rectangular data storage device that uses flash memory through the mail.<br>
       &emsp;5) Cloud Storage: a service that allows users to store data online and access it from any location using the internet or a private network, e.g. iCloud, dropbox.<br>
-- Local storage vs network-attached storage:
-      &emsp;1) Locals.
-      &emsp;2) Network-Attached Storage (NAS): storage accessed via a network and has its own OS because it has internet. 
-- External hard drive works pretty much the same.
-- It matters which port you connect the USB to because the speed is different.
-- CD's: 700MB, DVD: 4.7 or 8.5GB, Blue-Ray: 50GB.
+- Local storage vs network-attached storage:<br>
+      &emsp;1) Locals.<br>
+      &emsp;2) Network-Attached Storage (NAS): storage accessed via a network and has its own OS because it has internet. <br>
+- External hard drive works pretty much the same.<br>
+- It matters which port you connect the USB to because the speed is different.<br>
+- CD's: 700MB, DVD: 4.7 or 8.5GB, Blue-Ray: 50GB.<br>
 
 ## 5.0 - UNDERSTANDING OPERATING SYSTEMS
 - Every computing device has an operating system (OS), e.g., windows, macOS, Chrome OS, Linux, iOS, Androids.<br>
@@ -220,7 +220,7 @@
       &emsp;2) Wireless: Wi-Fi.<br>
       &emsp;3) Cellular: using cellular telephone network.<br>
 - Reasons to determine the best home-network: mobility, availability, reliability, throughput, connection delay, latency, number of concurrent connections, and level of security.<br>
-- Internet Access Considerations:
+- Internet Access Considerations:<br>
       &emsp;1) Mobility: how far you can travel and still can access the network resources.<br>
       &emsp;2) Availability: Probability that a system will be functional.<br>
       &emsp;3) Reliability: Quality of data received and the error checking and correcting capabilities of the technology.<br>
