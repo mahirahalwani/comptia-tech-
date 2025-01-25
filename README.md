@@ -237,5 +237,12 @@
 - Wireless or Wi-Fi generally comes second. The freedom to roam is extremely nice.<br>
 - Most households are going wireless because it is less expensive, easier to install, and supports all of their computing devices.<br>
 - 802.11 is a wireless standard. (Current standard is 802.11ax (Wi-Fi 6)).<br>
-- Older standards are more flexible with older devices. <br>
-- 
+- Older standards are more flexible with older devices.<br>
+- 6GHz offers the fastest speed but not all devices are compatible with it. 2.4 GHz and 5GHz offer slower connection but still pretty standard. If the device cannot connects to the 6GHz or 5GHz, it can downstep to the 2.4GHz.<br>
+- Wi-Fi Channels can overlap and lead to interference or slow internet. By default it is probably fine but you need to consider your environment, if the area is is congested, narrow the channel.<br>
+- 6GHz Wi-Fi requires the highest-level security: Wireless Protected Access 3 (WPA3). 2.4 and 5GHz Wi-Fi allow for the lower-security WPA and WPA2. 6GHz does not support WPA2.<br>
+- Selecting the highest level of security ensures no one is piggybacking your Wi-Fi for free.<br>
+- How to connect to printers: Control panels -> Hardware and Sound -> Devices and Printers -> Select the printer you want to share -> Properties -> Sharing<br>
+- Once the printer is shared, it is available to everyone on the network.<br>
+
+
