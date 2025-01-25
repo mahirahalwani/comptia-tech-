@@ -230,9 +230,9 @@
 - Wired always beats wireless and cellular except mobility. <br>
 - Internet Connectors:<br>
       &emsp;- RJ45: standard ethernet connector.<br>
-![image](https://github.com/user-attachments/assets/31c9f324-0228-407f-9323-ff6b43890382)
+![image](https://github.com/user-attachments/assets/31c9f324-0228-407f-9323-ff6b43890382)<br>
       &emsp;- Small Form-Factor Pluggable (SFP): High-speed ethernet connector utilizes fiber optic cabling.<br>
-![image](https://github.com/user-attachments/assets/c037ce0f-f962-4d96-8475-1cc781ed7f3a)
+![image](https://github.com/user-attachments/assets/c037ce0f-f962-4d96-8475-1cc781ed7f3a)<br>
 - Wired networks do not worry about signal loss or cloud cover. The quality of the data received makes it the most reliable. Data-speed is up to 10GB per sec. Offers the lowest latency, they do not wait for the signal to cross the air, they can be interfered easily. Offers great security as long as you do not let a bad guy plug to the network. <br>
 - Wireless or Wi-Fi generally comes second. The freedom to roam is extremely nice.<br>
 - Most households are going wireless because it is less expensive, easier to install, and supports all of their computing devices.<br>
