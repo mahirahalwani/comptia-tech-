@@ -202,8 +202,9 @@
       &emsp;1) Media Access Control (MAC) Address: a 12 digit hexadecimal number assign by the manifacturer that is unique to the network interface of the device. Can be checked through ipconfig /all command -> Physical Address<br>
       &emsp;2) Internet Protocol (IP) Address: like a phone number of the device. Made of 4 sets of numbers separated by dots. Private IP is IP address allocated to the local network.<br>
       &emsp;3) Ports. There is 66,535 ports altogether. Ports 0-1,023 are assigned to specific services. Ports 1,024-65,535 are ephemeral ports with various uses; can be used for many different things and they are very flexible and versatile. <br>
-      &emsp;4) Peer-to-Peer (P2P) Networks: A home network. A very specific type of LAN, where each devices equals and share resources. Smaller and does not requires a server.<br>
-      &emsp;5) Client-Server Model: devices access shared resources within the same LAN. e.g.: Shared office printer.<br>
+      &emsp;4) Network Interface Card (NIC): the physical connection point between a computer and a network.<br>
+      &emsp;5) Peer-to-Peer (P2P) Networks: A home network. A very specific type of LAN, where each devices equals and share resources. Smaller and does not requires a server.<br>
+      &emsp;6) Client-Server Model: devices access shared resources within the same LAN. e.g.: Shared office printer.<br>
 - Without the RJ45 cable, there is no networking.<br>
 - RJ45 standards: Category (cat) 5, 6, and 7.<br>
 - The only visible difference is the marking ont he casing.<br>
