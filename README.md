@@ -254,8 +254,8 @@
 - Dumpster Diving: Make sure to shred any trash that you do not want prying eyes to see.<br>
 - Encryption: an important security concept when connecting with the world throughtout technology.<br>
 - User Data Encryption:<br>
-      &emps;1) Plaintext: easily observe letters and symbols that most peorple can read and understand. Not secure and nothing is hidden.<br>
-      &emps;2) Cyphertext: an encryption in its most basic form. An encryption algorithm is being applied to turn plaintext to cyphertext.<br>
+      &emsp;1) Plaintext: easily observe letters and symbols that most peorple can read and understand. Not secure and nothing is hidden.<br>
+      &emsp;2) Cyphertext: an encryption in its most basic form. An encryption algorithm is being applied to turn plaintext to cyphertext.<br>
 - We need to know what encryption algorithm and what key were used to encrypt the message.<br>
 - Data at Rest: not actively being used.<br>
 - File-Level Encryption: data that is stored in files or folders in an ecrypted state.<br>
@@ -265,8 +265,8 @@
 - Virtual Private Network (VPN): encrypted all data in transit when enabled. It basically creates a tunnel that ensures protection measures are in place all the time. Sacrifices a little bit of speed.<br>
 - Data in Use: information that is being actively processed, accessed, or modified by users, devices, or applications. <br>
 - AAA: Authentication, Authorization, and Accounting. It is a security framework that controls access to the computer's resources, enforces policies, and audits the users.<br>
-      &emps;1) Authentication: a cybersecurity process that verifies user identity before granting access.
-            &emps;- Types of Authentication:
-            &emps;
-      &emps;2) Authorization: 
-      &emps;3) Accounting: 
+      &emsp;1) Authentication: a cybersecurity process that verifies user identity before granting access.
+            &emsp;- Types of Authentication:
+            &emsp;
+      &emsp;2) Authorization: 
+      &emsp;3) Accounting: 
