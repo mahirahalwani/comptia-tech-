@@ -246,4 +246,27 @@
 - How to connect to printers: Control panels -> Hardware and Sound -> Devices and Printers -> Select the printer you want to share -> Properties -> Sharing<br>
 - Once the printer is shared, it is available to everyone on the network.<br>
 
-
+## 11.0 - NETWORK SECURITY CONCEPTS
+- Successful local computer security means protecting access to your stuff from the bad guy. e.g.: piggybacking your Wi-Fi without us knowing.<br>
+- Phishing:
+- Unauthorized Access: lock your computer when you walk away from it even for a short period of time. Make sure your account is password-protected.<br>
+- Shoulder Surfing: always make sure there is no stranger's shoulders surfing behind you.<br>
+- Dumpster Diving: Make sure to shred any trash that you do not want prying eyes to see.<br>
+- Encryption: an important security concept when connecting with the world throughtout technology.<br>
+- User Data Encryption:<br>
+      &emps;1) Plaintext: easily observe letters and symbols that most peorple can read and understand. Not secure and nothing is hidden.<br>
+      &emps;2) Cyphertext: an encryption in its most basic form. An encryption algorithm is being applied to turn plaintext to cyphertext.<br>
+- We need to know what encryption algorithm and what key were used to encrypt the message.<br>
+- Data at Rest: not actively being used.<br>
+- File-Level Encryption: data that is stored in files or folders in an ecrypted state.<br>
+- Disk-Level Encryption: data that is encrypted at a disk-level; which means the entire drive is encrypted rather than just some of the files.<br>
+- Mobile Device Encryption: can encrypt data the same way as the computer. Can only disable the encryption oif factory resets it.<br>
+- Data in Transit: actively being used. Data is moving from one place to another in encrypted form. e.g.: sending an email, uploading it on cloud.<br>
+- Virtual Private Network (VPN): encrypted all data in transit when enabled. It basically creates a tunnel that ensures protection measures are in place all the time. Sacrifices a little bit of speed.<br>
+- Data in Use: information that is being actively processed, accessed, or modified by users, devices, or applications. <br>
+- AAA: Authentication, Authorization, and Accounting. It is a security framework that controls access to the computer's resources, enforces policies, and audits the users.<br>
+      &emps;1) Authentication: a cybersecurity process that verifies user identity before granting access.
+            &emps;- Types of Authentication:
+            &emps;
+      &emps;2) Authorization: 
+      &emps;3) Accounting: 
