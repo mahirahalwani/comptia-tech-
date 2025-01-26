@@ -264,9 +264,82 @@
 - Data in Transit: actively being used. Data is moving from one place to another in encrypted form. e.g.: sending an email, uploading it on cloud.<br>
 - Virtual Private Network (VPN): encrypted all data in transit when enabled. It basically creates a tunnel that ensures protection measures are in place all the time. Sacrifices a little bit of speed.<br>
 - Data in Use: information that is being actively processed, accessed, or modified by users, devices, or applications. <br>
-- AAA: Authentication, Authorization, and Accounting. It is a security framework that controls access to the computer's resources, enforces policies, and audits the users.<br>
+- AAA Framework: Authentication, Authorization, and Accounting. It is a security framework that controls access to the computer's resources, enforces policies, and audits the users.<br>
       &emsp;1) Authentication: a cybersecurity process that verifies user identity before granting access.<br>
-      &emsp;&emsp;- Types of Authentication:<br>
-            &emsp;<br>
-      &emsp;2) Authorization: 
-      &emsp;3) Accounting: 
+      &emsp;&emsp;- Types of Authentication: something that you have (e.g.: a key card), Something that you know (e.g.: password), something you are (e.g.: biometrics)<br>
+      &emsp;&emsp;- Non-Repudiation: cannot deny involvement in the transaction. For example, it is highly likely that it is you. <br>
+      &emsp;2) Authorization: Are you allowed access? You have permission / privileges to be there. There are different ways to set priviliges. <br>
+      &emsp;&emsp;- Single Factor: you only need one item to authenticate. e.g.: one password, one biometric scan.<br>
+      &emsp;&emsp;- Multifactor: two or multiple different ways which increase the likelihood that it is you. e.g.: a key card then the fingerprint.<br>
+      &emsp;&emsp;- Single Sign On: allows you to access multiple apps with one set of credentials. e.g.: Google Account.<br>
+      &emsp;3) Accounting: ability to track and record user activity. e.g.: logs, location tracking, browser history. <br>
+- Least Privilege: users and programs should only have acccess to the minimum amount of resources necessary.<br>
+- Administrator is more trusted.<br>
+- Logs tell whoever wants to know the who, what, when, and why.<br>
+
+## 12.0 - BEHAVIORAL SECURITY
+- Security Awareness<br>
+      &emsp;1) Patching / Updating Software.<br>
+      &emsp;&emsp;- Fixes security flaws.<br>
+      &emsp;&emsp;- Helps block vulnerabilities from attackers.<br>
+      &emsp;&emsp;- Some applications will update automatically, some you have to manually tell them to update.<br>
+      &emsp;&emsp;- Be sure to update your operating system and web browsers. Always install updates as soon as it is available.<br>
+      &emsp;2) Physical Security<br>
+      &emsp;&emsp;- Ensures your devices are secure. e.g.: cable locks, USB locks (can prevent unauthorised access to your data or malware infections through rogue USB devices).<br>
+- Device Best Practices<br>
+      &emsp;1) Licensing: they are several types of software licenses.<br>
+      &emsp;&emsp;- Open source software gives users freedom to modify and share meanwhile proprietary softwarew comes with restrictions.<br>
+      &emsp;&emsp;- Subscription-based gives you access as long as you pay meanwhile One-Time Purchases (perpetual license) means you own the software indefinitely so you have to make sure you track your product keys and serial numbers. They are specific to the product itself and you need it for reinstallation or transfers. <br>
+      &emsp;2) Software Downloads:<br>
+      &emsp;&emsp;- Make sure it is from legitimate stores like Google Play or Apple App Store or direct manufacturer / Original Equipment Manufacturer (OEM) websites.<br>
+      &emsp;&emsp;- Avoid third-party websites as it can expose your system to malicious files.<br>
+      &emsp;&emsp;- Research any unknown sources to make sure it is trustworthy.<br>
+- Software Piracy: unauthorised copying, distribution, or use of software. It is often contains malware which can compromised your systems, steal your personal data. It usually leaves you with no support, updates, or patches putting your securiy at risk.<br>
+- Safe Web Browsing: Website security certificate. You know it is a legit website if there is a padlock symbol at the right of the address bar on top of the browser. If it is invalid, you might get a warning and do not enter any sensitive information as the site is vulnerable to attacks.<br>
+- Privacy Considerations:<br>
+      &emsp;1) Social Networking Sites: be cautious about sharing too much personal information. Adjusts privacy setting to limit who can see your posts. <br>
+      &emsp;2) E-Mail: Phishing scams, where attackers are trying to hook you into downloading malware or giving them your persoinal information. Never click on links or download attachments from unknown senders. <br>
+      &emsp;3) File Sharing: riksy if you do not know the source.<br>
+      &emsp;4) Instant Messaging: avoid sharing sensitive or personally identifiable information. e.g: full name, address.<br>
+- Govenrment Regulations: design to protect privacy and security.<br>
+      &emsp;1) General Data Protection Regulations (GDPR): applies to European Union, focuses on protecting personal data and privacy. It ensures company is transparent about how the collect, use, and store personal data.<br>
+      &emsp;2) Sarbanes-Oxley Act (SOX): US law regulates financial practices and reporting. Includes provision to protect sensitive financial data.<br>
+      &emsp;3) Payment Card Industry Data Security Standard (PCI DSS): global standard helps ensure secure processing of credit card information. e.g: making sure they are actually storing and protecting your data while you are interacting with their environment.<br>
+- With personal computing devices, we stuck with single-factor authentication with your password. <br>
+- Password History: Many organisation enforces policy that prevents you from using your previous password.<br>
+- Complex password: utilizing capital letters, lower cases, numbers, symbols, and it should be relatively random.<br>
+- Password Expiration: regularly changin your password helps minimise the risks of compromised credentials. Make sure update password whenever you feel it has been compromised.<br>
+- Password Reuse: risky habit that can lead to domino affect if one of them is bridged. Definitely want to make sure you are using different password for your e-mail and banking.<br>
+- Password Manager: stores and encrypts your password securely and can even generate complex passwords for you. e.g.: Lastpass, Keypass.<br>
+- Password Privacy: never share your password with anyone, avoid writing them down or storing them on unsecured locations. If must share access, use temporary credentials, or authorised sharing platforms.<br>
+- Secure Password Reset Process: ensures the reset request is legitimate, verify e-mail authenticity, and update immidiately if you suspect a bridge.<br>
+- Change Default Passwords: always change default password as soon as possible. <br>
+- Social Engineering: common tactic use by attackers to trick people into revealing confidential information or performing unsafe actions.<br>
+      &emsp;1) Phishing: the most widespread form where attackers sent fake emails or messages for you to click the malicious link.<br>
+      &emsp;2) Pretexting / Impersonating: someone pretending to be a trusted individual to get information.<br>
+      &emsp;3) Baiting: offering something enticing in exchange for information.<br>
+      &emsp;4) Tailgating: unauthorised person physically follows someone into a secure area.<br>
+      &emsp;5) Dumpster Diving: attacker searches through discarded materials.<br>
+      &emsp;6) Malicious or Compromised Content: beware of fake websites, infected downloads, and phishing links. Only use trusted sources.<br>
+- Securing Devices:<br>
+      &emsp;1) Anti-Malware Software: designs to keep malicious files off your machine. Ensure it is updated. <br>
+      &emsp;2) Firewall Software: ensures you are protected from unauthorised accces to your network or devices. Ensure its updated and active. <br>
+      &emsp;3) Authentication: use strong, unique passwords. Enable multi-factor authentication (MFA).<br>
+      &emsp;4) Remove software that is unwanted, unnecessary, or malicious.<br>
+- Spyware: gathers information about system usage, like websites you visits, or things you buy.<br>
+- Keyloggers: reports the key structure you make, like credit card numbers, expiration date.<br>
+- Ransomware: at a predetermined time, locks up the data. Some will encrypt the entire content of your harddrive, demanding money in exhange of access to your data. Usually piggybacks on infected zip files attached on emails.<br>
+- Anti-Virus Programs: treat older application, both applications and definition files updated.<br>
+- Steps to Recovering from Malware Attacks:<br>
+      &emsp;1) Recognise the symptoms of an infected computer.<br>
+      &emsp;2) Quarantine the computer as soon as you suspect something. Disconnect from any networks.<br>
+      &emsp;3) Run anti-malware software to search and destroy any malware found on the systems.<br>
+      &emsp;4) Remediate, restore any lost files or corrupted operating system files.<br>
+      &emsp;5) Educate all users of the systems about the peril of clicking on unknown files.<br>
+- Spoofing: a type of cybercrime where a criminal disguises their identity to trick someone into sharing personal information, money, or other sensitive data.<br>
+- Piracy Websites: a website that illegally hosts and distributes copyrighted material, such as music, movies, software, or games. <br>
+- A known site is usually a safe site.<br>
+- HTTPS: Hypertext Transfer Protocol Secure that encrypts the communication between a web browser and a website.<br>
+- SSL and TLS: enables you to connect to a website or other internet server with some surity that the communication will not be crackable.<br>
+- Negative Security: a security model that allows most traffic by default, and only blocks traffic that matches a list of known malicious behaviors. <br>
+
