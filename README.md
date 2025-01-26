@@ -1,4 +1,5 @@
 # comptia-tech+ (FC0-U71)
+EXAM DATE: End of May 2025
 
 ## EXAM DOMAINS
 1.0 - IT Concepts and Terminology<br>
