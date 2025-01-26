@@ -265,8 +265,8 @@
 - Virtual Private Network (VPN): encrypted all data in transit when enabled. It basically creates a tunnel that ensures protection measures are in place all the time. Sacrifices a little bit of speed.<br>
 - Data in Use: information that is being actively processed, accessed, or modified by users, devices, or applications. <br>
 - AAA: Authentication, Authorization, and Accounting. It is a security framework that controls access to the computer's resources, enforces policies, and audits the users.<br>
-      &emsp;1) Authentication: a cybersecurity process that verifies user identity before granting access.
-            &emsp;- Types of Authentication:
-            &emsp;
+      &emsp;1) Authentication: a cybersecurity process that verifies user identity before granting access.<br>
+      &emsp;&emsp;- Types of Authentication:<br>
+            &emsp;<br>
       &emsp;2) Authorization: 
       &emsp;3) Accounting: 
