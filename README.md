@@ -12,7 +12,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 5.0 - Database Fundamentals<br>
 6.0 - Security<br>
 
-## 1.0 - IT CONCEPTS AND TERMINOLOGY
+## 1.1 - IT CONCEPTS AND TERMINOLOGY
 - Computer Literacy: the ability to use computers and related technology efficiently, including understanding how they work and operate.<br>
 - Computer systems work similarly hence knowing one system helps learn another.<br>
 - Computing Process: Input, Processing, Output, Storage (same for every device)<br>
@@ -33,10 +33,30 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Online storage and systems protects data from local crashes.<br>
 - Specialized Computer Systems: computers that are designed to perform specific tasks, rather than a wide range of tasks e.g., POS System, ATM, GPS, printers, joysticks, multifunction devices.<br>
 
+## 1.2 - NOTATIONAL SYSTEM
+- Four major number systems; decimal system, binary system, hexadecimal system, and octal system. <br>
+- Decimal System (Base-10)<br>
+      &emsp;- Common number system that uses 10 digits; 0 ~ 9<br>
+      &emsp;- Place value based on powers of 10 and its digit's value is determined by its position.<br>
+      &emsp;- Intuitive for humans however, computers prefer binary system for efficiency.<br>
+- Binary System (Base-2)<br>
+      &emsp;- Uses only two digits; 0 and 1<br>
+      &emsp;- Each binary place value represents a power of 2.<br>
+      &emsp;- Importance: computers use binary because hardware systems operate in two states: on (1) and off (0). It efficiently represents these electrical states, making it ideal for computing.<br>
+- Hexadecimal System (Base-16)<br>
+      &emsp;- Uses 16 symbols; digits 0 ~ 9, letters A ~ F
+      &emsp;- Efficient in computing because it represents large binary numbers. 1 hecadecimal digit = 4 binaru digits (bits).<br>
+      &emsp;- Commonly used to represent memory addresses because it is more compact than binary and provides a straightforward mapping to binary values, making it easier for humans to read and understand. <br>
+- Octal System (Base-8)<br>
+      &emsp;- Uses digits 0 ~ 7<br>
+      &emsp;- Less common todat but used in early computing alongside binary and hexadecimal.<br>
+      &emsp;- Each value represents a power of 8.<br>
+      &emsp;- Why it is used: Easier to convert binary numbers (groups of 3 binary digits = 1 octal digit). Common in earlier systems with 12-but, 24-bit, or 36-bit architecture. It also improved readability and efficiency in specific computing environments.<br>
+
 ## 2.0 - SYSTEM HARDWARE
-- Central Processing Unit (CPU) is not smart but very fast; often referred to as the "brain of the computer". It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.
+- Central Processing Unit (CPU) is not smart but very fast; often referred to as the "brain of the computer". It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.<br>
 - Critical of CPU:<br>
-      &emsp;- Arithmetic Operations: Basic math functions (addition, subtraction, multiplication, division)
+      &emsp;- Arithmetic Operations: Basic math functions (addition, subtraction, multiplication, division)<br>
       &emsp;- Logical Operations: Decision-making based on conditions
 - CPU's characteristic:<br>
       &emsp;- Speed: how many things it can do in one second under perfect condition. Measured in gigahertz (Hertz: 1 cycle per sec)<br>
