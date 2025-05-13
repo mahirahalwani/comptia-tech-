@@ -60,7 +60,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Can be either a 0 or a 1<br>
       &emsp;- Forms the foundation for all digital data.<br>
       &emsp;- Data transfer is measure in bits per second (bps).<br>
-- Byte
+- Byte<br>
       &emsp;- Consists of 8 bits.<br>
       &emsp;- Typically represents a single character (e.g.: letter "A").<br>
       &emsp;- Most data we interact with is measured in bytes.<br>
@@ -75,7 +75,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Equals 1,024 GB or approximately 1 trillion bytes.<br>
 - Petabyte (PB)<br>
       &emsp;- Equals 1,024 TB or approximately 1 quadrillion bytes and often used by data centers and cloud storage providers.<br>
-- Data Transfer Units
+- Data Transfer Units<br>
       &emsp;- Bits per second (bps) is the smallest unit of measuring data transfer speed.<br>
       &emsp;- Kilobits per second (Kbps). <br>
       &emsp; &emsp;- 1Kbps = 1,000 bits per second.<br>
@@ -90,6 +90,27 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Terabytes per second (TBps)<br>
       &emsp; &emsp;- 1TBps = 8Tbps (terabits per second) or 1,000 Gbps.<br>
       &emsp; &emsp;- Found in supercomputing and data center environments for massive data transfer. <br>
+- Hertz (Hz) : measuring frequency and speed. <br>
+      &emsp;- Measures frequency in cycles per second. <br>
+      &emsp;- In computing, it refers to the clock speed or how fast a CPU processes instructions. <br>
+      &emsp;- 1 Hz = one cycle/operation per second. (e.g., a CPU performing 1 operation per second is very slow).<br>
+      &emsp;&emsp;- Kilohertz (kHz) = 1,000 hertz.<br>
+      &emsp;&emsp;- Megahertz (MHz) = 1 million hertz.<br>
+      &emsp;&emsp;- Gigahertz (GHz) = 1 billion hertz.<br>
+      &emsp;- Modern CPU typically measured in GHz which indicates billions of operations per second.<br>
+      &emsp;- Higher clock speeds enable processors to perform more operations per second, generally improving performance. <br>
+- Storage Speed: RPM for Hard Drives.<br>
+      &emsp;- Revolutions per Minute (RPM) measures how fast the platters inside a HDD spin.<br>
+      &emsp;- It directly impacts read/write performance.<br>
+      &emsp;- Higher RPM = faster data access. <br>
+      &emsp;- 5,400 RPM is the standard for low-power and budget HDDs, slower performance while 7,200 RPM is common in mainstream HDDs, offers faster data transfer. <br>
+      &emsp;- SDDs do not use RPM because they do not have moving parts. It is much faster than HDDs in terms of read/write speed due to falsh memory technology.<br>
+- Power Units: Watts (W).<br>
+      &emsp;- Measures the rate of energy transfer in computing devices. <br>
+      &emsp;- It describes how much power a device consumes during operation.<br>
+      &emsp;- Knowing wattage is crucial for selecting appropriate power supplies in computer systems as well as helping to understand and manage energy efficiency.<br>
+
+
 
 ## 2.0 - SYSTEM HARDWARE
 - Central Processing Unit (CPU) is not smart but very fast; often referred to as the "brain of the computer". It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.<br>
