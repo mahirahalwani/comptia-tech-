@@ -1,5 +1,8 @@
 # comptia-tech+ (FC0-U71)
-EXAM DATE: End of May 2025
+EXAM DATE: End of May 2025<br>
+QUESTIONS: 60 max; multiple choice format<br>
+TIME LIMIT: 60 minutes<br>
+PASSING SCORE: 650 out of 900 (72%)<br>
 
 ## EXAM DOMAINS
 1.0 - IT Concepts and Terminology<br>
