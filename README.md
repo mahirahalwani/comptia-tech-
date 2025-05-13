@@ -207,7 +207,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - It uses E-Ink technology to replicate the appearance of printed paper to reduce eye strain even in bright light. It is also energy-efficient, allowing longer battery life compared to other displays.<br>
 - Lightweight and compact design that can store thousands of books, offering convenience for on-the-go reading.<br>
 - Best for avid readers and those who prefer a paper-like feel without carrying physical books.<br>
-![E-Reader](https://www.google.com/search?sca_esv=e46ce00556aae1ee&q=e-readers&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWp5u5rQsC2YJafWTbyNSy6G3Vsi155b_IyTtSTnvQaXi_7dPg2zE7LQfnG3L00jBUa2yy-ASiYjeVWmmgOirbEpQEL_akxAYwSY9B4d3-Tj052YQ3Y4Ofgr6nUhjtASbyDEdUc8XihT8AzAnvMvahlZqGyttLUykl_CZtuRpjCuLU4CcMzLD34vJOX9dHZuYQ89mrvSg&sa=X&ved=2ahUKEwjdvbqY0qGNAxVtUGwGHfN8F3UQtKgLegQIDxAB&biw=709&bih=714&dpr=2#vhid=aNyzSfp3PsMeIM&vssid=mosaic)
+![E-Reader](https://github.com/user-attachments/assets/1dfb0985-34d0-47c2-91c9-1de169ead6c2)
 - **Laptop**: portable personal computer with an integrated screen, keyboard, and trackpad.<br>
 - Purposes of laptops:<br>
       &emsp;1) Portable Computing Power. <br>
