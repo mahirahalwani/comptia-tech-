@@ -182,11 +182,39 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;2) Computing devices run on direct current (DC) so it relies on batteries for power.<br>
       &emsp;3) Power adapter: a.k.a. an AC adapter or charger, is a device that converts AC power from a wall outlet into DC power for a device.<br>
       &emsp;4) Power brick: a small, rectangular, external power supply that converts AC to DC to power electronic devices (for small devices).<br>
-      &emsp;5) Power supply unit (PSU): a computer hardware component that converts AC from an electrical outlet into DC for a computer's internal components (for big devices).
-- Intel vs AMD vs ARM processor:
-    - Intel: expensive but awesome
-    - AMD: great but less expensive
-    - ARM: in little devices like smartphones
+      &emsp;5) Power supply unit (PSU): a computer hardware component that converts AC from an electrical outlet into DC for a computer's internal components (for big devices).<br>
+- Intel vs AMD vs ARM processor:<br>
+    - Intel: expensive but awesome<br>
+    - AMD: great but less expensive<br>
+    - ARM: in little devices like smartphones<br>
+
+## 2.1 - COMPUTING DEVICES
+- **Smartphones**: handheld, portable computing device combining the functionality of a mobile phone and a mini-computer.<br>
+- Key purposes of smartphones:<br>
+      &emsp;1) Communication. <br>
+      &emsp;2) Internet Access and Web Browsing. <br>
+      &emsp;3) App Ecosystem. <br>
+      &emsp;4) Multimedia. <br>
+      &emsp;5) Navigation. <br>
+- Tablets: bridging the gap between smartphones and laptops is a portable touchscreen devices larger than smartphones, offering a balance between mobility and productivity.<br>
+- Key purposes of tablets: <br>
+      &emsp;1) Media Consumption. <br>
+      &emsp;2) Mobile Productivity. <br>
+      &emsp;3) Creative Applications. <br>
+      &emsp;4) Education and Learning. <br>
+- Advantage of tablets: larger screen sizes provide a more immersive visual expereince compared to smartphones.<br>
+- E-Readers: specialized devices for digital reading, supports format such as e-books, digital magazines and newspapers.<br>
+- It uses E-Ink technology to replicate the appearance of printed paper to reduce eye strain even in bright light. It is also energy-efficient, allowing longer battery life compared to other displays.<br>
+- Lightweight and compact design that can store thousands of books, offering convenience for on-the-go reading.<br>
+- Best for avid readers and those who prefer a paper-like feel without carrying physical books.<br>
+- Laptop: portable personal computer with an integrated screen, keyboard, and trackpad.<br>
+- Key purposes of laptops:<br>
+      &emsp;1) Portable Computing Power. <br>
+      &emsp;2) Work and Productivity. <br>
+      &emsp;3) Entertainment. <br>
+- Advantage: combines the power of a desktop with the mobility of a portable device.<br>
+- Workstations: high-performance computer designed for specialized, professional tasks.
+- Pur
 
 ## 3.0 - DEVICE PORTS AND PERIPHERALS
 - Peripheral device: a hardware component that connects to a computer to enhance its functionality, but is not part of the computer's core architecture.
