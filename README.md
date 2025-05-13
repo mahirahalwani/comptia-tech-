@@ -12,7 +12,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 5.0 - Database Fundamentals<br>
 6.0 - Security<br>
 
-## 1.1 - IT CONCEPTS AND TERMINOLOGY
+## 1.0 - IT CONCEPTS AND TERMINOLOGY
 - Computer Literacy: the ability to use computers and related technology efficiently, including understanding how they work and operate.<br>
 - Computer systems work similarly hence knowing one system helps learn another.<br>
 - Computing Process: Input, Processing, Output, Storage (same for every device)<br>
@@ -33,7 +33,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Online storage and systems protects data from local crashes.<br>
 - Specialized Computer Systems: computers that are designed to perform specific tasks, rather than a wide range of tasks e.g., POS System, ATM, GPS, printers, joysticks, multifunction devices.<br>
 
-## 1.2 - NOTATIONAL SYSTEM
+## 1.1 - NOTATIONAL SYSTEM
 - Four major number systems; decimal system, binary system, hexadecimal system, and octal system. <br>
 - Decimal System (Base-10)<br>
       &emsp;- Common number system that uses 10 digits; 0 ~ 9<br>
@@ -44,7 +44,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Each binary place value represents a power of 2.<br>
       &emsp;- Importance: computers use binary because hardware systems operate in two states: on (1) and off (0). It efficiently represents these electrical states, making it ideal for computing.<br>
 - Hexadecimal System (Base-16)<br>
-      &emsp;- Uses 16 symbols; digits 0 ~ 9, letters A ~ F
+      &emsp;- Uses 16 symbols; digits 0 ~ 9, letters A ~ F<br>
       &emsp;- Efficient in computing because it represents large binary numbers. 1 hecadecimal digit = 4 binaru digits (bits).<br>
       &emsp;- Commonly used to represent memory addresses because it is more compact than binary and provides a straightforward mapping to binary values, making it easier for humans to read and understand. <br>
 - Octal System (Base-8)<br>
@@ -52,6 +52,44 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Less common todat but used in early computing alongside binary and hexadecimal.<br>
       &emsp;- Each value represents a power of 8.<br>
       &emsp;- Why it is used: Easier to convert binary numbers (groups of 3 binary digits = 1 octal digit). Common in earlier systems with 12-but, 24-bit, or 36-bit architecture. It also improved readability and efficiency in specific computing environments.<br>
+
+## 1.2 - UNITS OF MEASURE
+- Units of measure in computing: Bit & Byte, Larger Units, Data Transfer Rates, Hertz, RPM, Watts.<br>
+- Bit (binary digit)<br>
+      &emsp;- Smallest unit of data in computing.<br>
+      &emsp;- Can be either a 0 or a 1<br>
+      &emsp;- Forms the foundation for all digital data.<br>
+      &emsp;- Data transfer is measure in bits per second (bps).<br>
+- Byte
+      &emsp;- Consists of 8 bits.<br>
+      &emsp;- Typically represents a single character (e.g.: letter "A").<br>
+      &emsp;- Most data we interact with is measured in bytes.<br>
+      &emsp;- Data storage is measured in bytes.<br>
+- Kilobyte (KB)<br>
+      &emsp;- Equals 1,024 bytes (commonly rounded to 1K bytes for simplicity).<br>
+- Megabyte (MB)<br>
+      &emsp;- Equals 1,024 KB or approximately 1 million bytes.<br>
+- Gigabyte (GB)<br>
+      &emsp;- Equals 1,024 MB or approximately 1 billion bytes.<br>
+- Terabyte (TB)<br>
+      &emsp;- Equals 1,024 GB or approximately 1 trillion bytes.<br>
+- Petabyte (PB)<br>
+      &emsp;- Equals 1,024 TB or approximately 1 quadrillion bytes and often used by data centers and cloud storage providers.<br>
+- Data Transfer Units
+      &emsp;- Bits per second (bps) is the smallest unit of measuring data transfer speed.<br>
+      &emsp;- Kilobits per second (Kbps). <br>
+      &emsp; &emsp;- 1Kbps = 1,000 bits per second.<br>
+      &emsp; &emsp;- Commonly dial-up internet connections. <br>
+      &emsp;- Megabits per second (Mbps).<br>
+      &emsp; &emsp;- 1Mbps = 1,000 Kbps or 1 million bits per second.<br>
+      &emsp; &emsp;- Typical for broadband internet speeds. <br>
+      &emsp; &emsp;- 1 byte = 8 bits, so 100 Mbps = 12.5 MBps (megabytes per second) <br>
+      &emsp;- Gigabits per second (Gbps).<br>
+      &emsp; &emsp;- 1Gbps = 1,000 Mbps or 1 billion bits per second.<br>
+      &emsp; &emsp;- Used in high-speed networks, e.g. fiber optic connections. <br>
+      &emsp;- Terabytes per second (TBps)<br>
+      &emsp; &emsp;- 1TBps = 8Tbps (terabits per second) or 1,000 Gbps.<br>
+      &emsp; &emsp;- Found in supercomputing and data center environments for massive data transfer. <br>
 
 ## 2.0 - SYSTEM HARDWARE
 - Central Processing Unit (CPU) is not smart but very fast; often referred to as the "brain of the computer". It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.<br>
