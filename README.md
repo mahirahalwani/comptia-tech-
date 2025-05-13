@@ -35,6 +35,9 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 
 ## 2.0 - SYSTEM HARDWARE
 - Central Processing Unit (CPU) is not smart but very fast. It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.
+- Critical of CPU:<br>
+      &emsp;- Arithmetic Operations: Basic math functions (addition, subtraction, multiplication, division)
+      &emsp;- Logical Operations: Decision-making based on conditions
 - CPU's characteristic:<br>
       &emsp;- Speed: how many things it can do in one second under perfect condition. Measured in gigahertz (Hertz: 1 cycle per sec)<br>
       &emsp;- Complexity:<br>
@@ -45,7 +48,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Methods to move heat:<br>
       &emsp;1) Passive: relies on air. Uses copper or aluminium structure called heat sinks that help heat dissipate into air.<br>
       &emsp;2) Active: using some kind of device to push or pull heat away from computing components e.g., fans/case fans (pull heat out into the air) or liquid cooling (pulls heat into fluid).<br>
-- Random Access Memory (RAM) is measured in gigabytes.<br>
+- Random Access Memory (RAM) is measured in gigabytes. Temporaroliy holds data for active CPU tasks.<br>
       &emsp;1) Function: holds all active programming on a computer that includes OS running apps, and data. Only temporarily stores data.<br>
       &emsp;2) Capacity: The amount of usable RAM is called system memory. Using too much will slow it down not die.<br>
       &emsp;3) Adding More: Can add more RAM or replace with bigger RAM stick in bigger computers to increase the overall memory capacity.<br>
