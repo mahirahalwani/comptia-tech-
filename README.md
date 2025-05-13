@@ -123,8 +123,35 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Establish a theory of probable cause.<br>
       &emsp;&emsp;- Start with the simplest potential causes before moving to complex ones. <br>
 2) Establish a theory of probable cause.<br>
-      &emsp;- Develop a logical explanation.<br>
-&emsp;- <br>
+      &emsp;- Develop a logical explanation by forming a hypothesis about what might be causing the issue.<br>
+      &emsp;- Start with simple, common causes.<br>
+      &emsp;- Narrow down the possibilities, test the simplest, most likely cause first.<br>
+      &emsp;- Stay systematic, avoid jumping into conclusions and work methodically to build a clear path to the root cause.<br>
+3) Test the theory to determine cause. <br>
+      &emsp;- Begin hands-on testing to confirm or refute your hypothesis. <br>
+      &emsp;- Performs tests based on your theory.<br>
+      &emsp;- If theory is confirmed, move on to the next step, if not return to step 2, form a new theory, and test again.<br>
+4) Establish a plan of action and implement the solution. <br>
+      &emsp;- Plan the fix by identifying the cause and developing a clear, specific plan to resolve it. Consider potential impacts on the system, users and overall business operations.<br>
+      &emsp;- Communicate with users. Address the importance of minimizing downtime and maintaining productivity, especially in a business environment. <br>
+      &emsp;- Backup critical data before implementing the fix. Prioritize data safety, particularly for solutions involving software reinstallation or hardware changes. <br>
+5) Verify full system functionality and implement presentive measures.<br>
+      &emsp;- Test the system thoroughly to confirm the issue is resolved by testing it across multiple devices, applications, and scenarios.<br>
+      &emsp;- Holistic check. Do not just focus on the fixed part, ensure the entire system functions as expected.<br>
+      &emsp;- Identify the root cause to prevent recurrence.<br>
+      &emsp;- Implement specific measures to avoid future issues.<br>
+      &emsp;- Goal: ensure long-term system stability and prevent similar issues from affecting the user.<br>
+6) Document findings, actions, and outcomes.
+      &emsp;- Documentation is critical for understanding what was done and why.<br>
+      &emsp;- Valuable reference if the issue occurs again and enhances communication within teams.<br>
+      &emsp;- Things to include:<br>
+      &emsp;&emsp;- Description of the problem. e.g.: symptoms observed, and how the problem is identified.<br>
+      &emsp;&emsp;- Theory and Cause.<br>
+      &emsp;&emsp;- Solutions implemented. e.g.: detailed planning of actions and steps taken to resolve the problem.<br>
+      &emsp;&emsp;- Verification and preventive measures. Confirm solution effectiveness and outline any preventive steps implemented.<br>
+      &emsp;&emsp;- Outcomes. e.g.: final result, lessons learned, and recommendations for the future.<br>
+      &emsp;- Documentation saves time and effort in future troubleshooting as well as improving team collaboration and knowledge sharing.<br>
+
 
 
 ## 2.0 - SYSTEM HARDWARE
