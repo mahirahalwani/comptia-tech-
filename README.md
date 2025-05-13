@@ -4,6 +4,7 @@ QUESTIONS: 60 max; multiple choice format<br>
 TIME LIMIT: 60 minutes<br>
 PASSING SCORE: 650 out of 900 (72%)<br>
 
+
 ## EXAM DOMAINS
 1.0 - IT Concepts and Terminology<br>
 2.0 - Infrastructure<br>
@@ -11,6 +12,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 4.0 - Software Development<br>
 5.0 - Database Fundamentals<br>
 6.0 - Security<br>
+
 
 ## 1.0 - IT CONCEPTS AND TERMINOLOGY
 - Computer Literacy: the ability to use computers and related technology efficiently, including understanding how they work and operate.<br>
@@ -54,7 +56,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Why it is used: Easier to convert binary numbers (groups of 3 binary digits = 1 octal digit). Common in earlier systems with 12-but, 24-bit, or 36-bit architecture. It also improved readability and efficiency in specific computing environments.<br>
 
 ## 1.2 - UNITS OF MEASURE
-- Units of measure in computing: Bit & Byte, Larger Units, Data Transfer Rates, Hertz, RPM, Watts.<br>
+- Units of measure in computing: Bit & Byte (fundamental building blocks of data), Larger Units, Data Transfer Rates, Hertz, RPM, Watts.<br>
 - Bit (binary digit)<br>
       &emsp;- Smallest unit of data in computing.<br>
       &emsp;- Can be either a 0 or a 1<br>
@@ -109,7 +111,20 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Measures the rate of energy transfer in computing devices. <br>
       &emsp;- It describes how much power a device consumes during operation.<br>
       &emsp;- Knowing wattage is crucial for selecting appropriate power supplies in computer systems as well as helping to understand and manage energy efficiency.<br>
+      &emsp;- Understanding wattage allows for informed decisions when building or upgrading computers, ensures compatibility and prevents underpowered systems. <br>
 
+## 1.4 - TROUBLESHOOTING METHODOLOY
+1) Identify the problem.<br>
+      &emsp;- Gather detailed info from the user.<br>
+      &emsp;- Observe the symptoms.<br>
+      &emsp;&emsp;- Examine error messages, notifications, or abnormal behaviors. <br>
+      &emsp;&emsp;- Check for indicators like light, sounds, or error codes.<br>
+      &emsp;- Replicate the issue to understand it better.<br>
+      &emsp;- Establish a theory of probable cause.<br>
+      &emsp;&emsp;- Start with the simplest potential causes before moving to complex ones. <br>
+2) Establish a theory of probable cause.<br>
+      &emsp;- Develop a logical explanation.<br>
+&emsp;- <br>
 
 
 ## 2.0 - SYSTEM HARDWARE
