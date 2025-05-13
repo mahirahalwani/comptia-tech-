@@ -190,31 +190,63 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 
 ## 2.1 - COMPUTING DEVICES
 - **Smartphones**: handheld, portable computing device combining the functionality of a mobile phone and a mini-computer.<br>
-- Key purposes of smartphones:<br>
+- Purposes of smartphones:<br>
       &emsp;1) Communication. <br>
       &emsp;2) Internet Access and Web Browsing. <br>
       &emsp;3) App Ecosystem. <br>
       &emsp;4) Multimedia. <br>
       &emsp;5) Navigation. <br>
-- Tablets: bridging the gap between smartphones and laptops is a portable touchscreen devices larger than smartphones, offering a balance between mobility and productivity.<br>
-- Key purposes of tablets: <br>
+- **Tablets**: bridging the gap between smartphones and laptops is a portable touchscreen devices larger than smartphones, offering a balance between mobility and productivity.<br>
+- Purposes of tablets: <br>
       &emsp;1) Media Consumption. <br>
       &emsp;2) Mobile Productivity. <br>
       &emsp;3) Creative Applications. <br>
       &emsp;4) Education and Learning. <br>
 - Advantage of tablets: larger screen sizes provide a more immersive visual expereince compared to smartphones.<br>
-- E-Readers: specialized devices for digital reading, supports format such as e-books, digital magazines and newspapers.<br>
+- **E-Readers**: specialized devices for digital reading, supports format such as e-books, digital magazines and newspapers.<br>
 - It uses E-Ink technology to replicate the appearance of printed paper to reduce eye strain even in bright light. It is also energy-efficient, allowing longer battery life compared to other displays.<br>
 - Lightweight and compact design that can store thousands of books, offering convenience for on-the-go reading.<br>
 - Best for avid readers and those who prefer a paper-like feel without carrying physical books.<br>
-- Laptop: portable personal computer with an integrated screen, keyboard, and trackpad.<br>
-- Key purposes of laptops:<br>
+![E-Reader](https://www.google.com/search?sca_esv=e46ce00556aae1ee&q=e-readers&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWp5u5rQsC2YJafWTbyNSy6G3Vsi155b_IyTtSTnvQaXi_7dPg2zE7LQfnG3L00jBUa2yy-ASiYjeVWmmgOirbEpQEL_akxAYwSY9B4d3-Tj052YQ3Y4Ofgr6nUhjtASbyDEdUc8XihT8AzAnvMvahlZqGyttLUykl_CZtuRpjCuLU4CcMzLD34vJOX9dHZuYQ89mrvSg&sa=X&ved=2ahUKEwjdvbqY0qGNAxVtUGwGHfN8F3UQtKgLegQIDxAB&biw=709&bih=714&dpr=2#vhid=aNyzSfp3PsMeIM&vssid=mosaic)
+- **Laptop**: portable personal computer with an integrated screen, keyboard, and trackpad.<br>
+- Purposes of laptops:<br>
       &emsp;1) Portable Computing Power. <br>
       &emsp;2) Work and Productivity. <br>
       &emsp;3) Entertainment. <br>
 - Advantage: combines the power of a desktop with the mobility of a portable device.<br>
-- Workstations: high-performance computer designed for specialized, professional tasks.
-- Pur
+- **Workstations**: high-performance computer designed for specialized, professional tasks.<br>
+- Purposes of workstations:<br>
+      &emsp;1) Professional Applications. <br>
+      &emsp;2) Enhanced Performance. <br>
+      &emsp;3) Reliability & Scability. <br>
+- Target users: professionals needing advanced capabilities beyond typical desktop or laptop performance.<br>
+- **Servers**: specialized computer design to provide data, services, or resources to other computers over a network.<br>
+- Purposes of servers:<br>
+      &emsp;1) Hosting Websites. <br>
+      &emsp;2) Cnetralized file storage and access within an organization. <br>
+      &emsp;3) Database Hosting and Management. <br>
+      &emsp;4) Network Services. <br>
+- Key features:<br>
+      &emsp;1) Designed for reliability and performance to ensure continuous service.<br>
+      &emsp;2) Supports multiple users and devices within a network effectively. <br>
+- **Gaming Consoles**: a specialized computing device built specifically for video gaming.<br>
+- Purposes of gaming consoles:<br>
+      &emsp;1) Optimized Gaming Performance. <br>
+      &emsp;2) Entertaiment & Multimedia Support. <br>
+      &emsp;3) Social & Multiplayer Experiences. <br>
+- **Virtual Reality (VR) Systems**: immerses users in a simulated 3D environment by utilizing head-mounted displays, motion sensors, and controllers.<br>
+- Purposes of VR systems:<br>
+      &emsp;1) Immersive Gaming & Entertainment. <br>
+      &emsp;2) Training & Simulation: used in healthcare, aviation, and military by providing risk-free, controlled environments for realistic training. <br>
+      &emsp;3) Virtual Exploration: enables virtual tourism, education, and exploration for inaccessible environments. <br>
+- **Augmented Reality (AR) Systems**: Overlays digital information onto the real world, enhancing user perception of their surroundings.<br>
+- Purposes of AR Systems:<br>
+      &emsp;1) Enhanced Reality Experience. <br>
+      &emsp;2) Productivity & Navigation. <br>
+      &emsp;3) Industry & Training Applications. <br>
+- **Modern Vehicles**: vehicles today are highly integrated with advanced computing technologies, making them "smart" vehicles.<br>
+- 
+
 
 ## 3.0 - DEVICE PORTS AND PERIPHERALS
 - Peripheral device: a hardware component that connects to a computer to enhance its functionality, but is not part of the computer's core architecture.
