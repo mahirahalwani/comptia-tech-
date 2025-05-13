@@ -34,7 +34,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Specialized Computer Systems: computers that are designed to perform specific tasks, rather than a wide range of tasks e.g., POS System, ATM, GPS, printers, joysticks, multifunction devices.<br>
 
 ## 2.0 - SYSTEM HARDWARE
-- Central Processing Unit (CPU) is not smart but very fast. It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.
+- Central Processing Unit (CPU) is not smart but very fast; often referred to as the "brain of the computer". It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.
 - Critical of CPU:<br>
       &emsp;- Arithmetic Operations: Basic math functions (addition, subtraction, multiplication, division)
       &emsp;- Logical Operations: Decision-making based on conditions
@@ -93,15 +93,22 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Every wire we added doubles the complexity.<br>
 - Modern operator comes in 32-bit and 64-bit.<br>
 - 32-bit CPU/OS can hanfle up to 4GB of RAM.<br>
-- RAM is volatile; it will erase its memory once it is off.<br>
+- Types of storage:
+      &emsp;1) Primary Storage (RAM)<br>
+            &emsp;- Temporary storage used during data processing.<br>
+            &emsp;- Volatile: it will erase its memory once it is off.<br>
+            &emsp;- Fast: crucial for real-time tasks.<br>
+      &emsp;2) Secondary Storage<br>
+            &emsp;- Long-Term Storage: Data persists when the system is off<br>
+            &emsp;- eg: Hard Disk Drives (HDDs), Solid-State Drives (SSDs), Optical Storage, Cloud Storage. <br>
 - Mass storage device:<br>
       &emsp;- It comes in many form each with variety of purposes, e.g., hard drive.<br>
       &emsp;- Can be built into a computer, like an internal HDD or SSD.<br>
       &emsp;- Can attach storage devices, such as thumb drive or external HDD.<br>
       &emsp;- The internet hosts cloud storage options, such as iCloud and Dropbox.<br>
-- Hard Drive: a device that provides long term storage. The data will be erased only if it is deleted or the hard drive dies and its capacity is measured in GBs and TBs.<br>
-- Hard drives are described as how much data they can store (capacity) and how fast the data can be accessed (speed). <br>
+- HDD: a device that provides long term storage. The data will be erased only if it is deleted or the hard drive dies and its capacity is measured in GBs and TBs. Uses magnetic spinning disks for data storage. Is described as how much data they can store (capacity) and how fast the data can be accessed (speed). <br>
 - 1 digit = 1 bit, 8 bits = 1 byte, 1,204 bytes = 1 kilobyte, 1,024 KB = 1 MB, 1,024 MB = 1GB, 1,024 GB = 1TB.<br>
+- SSD: Faster, reliable, flash memory-based.<br>
 - Computing purpose determines capacisty needs, e.g. word processing apps do not take a lot of space while video editing does.<br>
 - Examples of Mass Storage Devices<br>
       &emsp;1) Internal Hard Drive: a storage device that's installed inside a computer's case and is directly connected to the motherboard and power supply, e.g., SSD (fast) or HDD.<br>
@@ -115,6 +122,8 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - External hard drive works pretty much the same.<br>
 - It matters which port you connect the USB to because the speed is different.<br>
 - CD's: 700MB, DVD: 4.7 or 8.5GB, Blue-Ray: 50GB.<br>
+- Modern systems blend fast RAM with larger SSD/HDD for efficient performance.<br>
+- Advancement: Storage devices are becoming faster, more compact, and efficient.<br>
 
 ## 5.0 - UNDERSTANDING OPERATING SYSTEMS
 - Every computing device has an operating system (OS), e.g., windows, macOS, Chrome OS, Linux, iOS, Androids.<br>
