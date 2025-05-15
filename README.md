@@ -1,4 +1,4 @@
-# comptia-tech+ (FC0-U71)
+![image](https://github.com/user-attachments/assets/c52219f7-af5d-4346-9ab9-2516ee6deb61)# comptia-tech+ (FC0-U71)
 EXAM DATE: End of May 2025<br>
 QUESTIONS: 60 max; multiple choice format<br>
 TIME LIMIT: 60 minutes<br>
@@ -245,7 +245,41 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;2) Productivity & Navigation. <br>
       &emsp;3) Industry & Training Applications. <br>
 - **Modern Vehicles**: vehicles today are highly integrated with advanced computing technologies, making them "smart" vehicles.<br>
-- 
+- Purposes of key computing in vehicles:<br>
+      &emsp;1) Navigation & GPS. <br>
+      &emsp;2) Entertainment Systems. <br>
+      &emsp;3) Safety & Monitoring: e.g., controlling airbag deployment, anti-lock braking systems (ABS), and lane departure warnings. <br>
+      &emsp;4) Vehicle Diagnostics. <br>
+- Vehicles are increasingly autonomous, utilizing AI and sensor data to enhance user experience and improve safety.<br>
+- **IP/Security Cameras**: digital video camera that transmits data over an IP network.<br>
+- Purposes of Ip/Security Camera:<br>
+      &emsp;1) Surveillance & Security. <br>
+      &emsp;2) Motion Detection & Alerts. <br>
+      &emsp;3) Remote Monitoring. <br>
+- Advantages over traditional CCTV: higher resolution, easier installation, enhanced remote viewing capabilities.<br>
+- **Streaming Media Devices**: used to access online content like video, music, and digital entertainment. e.g., Roku, Amazon Fire, Apple TV, Smart TVs & Streaming Boxes, Chromecast; mirror content from mobile devices or computers to a television. <br>
+- Key features:<br>
+      &emsp;1) Simplify access to digital content. <br>
+      &emsp;2) User-friendly interfaces. <br>
+      &emsp;3) Enable on-demand media consumption. <br>
+- **Medical Devices in Healthcare**:<br>
+      &emsp;1) Patient Monitoring Systems: continuous tracking of vital signs, equipped with sensors and microprocessors for real-time data collection. <br>
+      &emsp;2) Imaging Devices: use computing technology for capturing, analyzing, and displaying medical images. It is crucial for accurate diagnostics. <br>
+      &emsp;3) Wearable Health Devices: real-time health condition monitoring (e.g., insulin pumps, pacemaker), embedded microcontrollers for ongoing health management. <br>
+      &emsp;4) Telemedicine Devices: enable remote diagnostics and consultations and facilitate data transmission to healthcare providers. <br>
+- Impact: Evolved to assist in diagnostics, monitoring, and real-time intervention as well as improved patient outcomes and accessibility to care. <br>
+- **Smart Exercise Equipment**<br>
+- Examples:<br>
+      &emsp;1) Smart Treadmills & Bikes: offer interactive workouts, track performance metrics, access live or recorded fitness classes, and collect and analyze user data for progress tracking. <br>
+      &emsp;2) Fitness Tracking & Sensors: track metrics like reps, heart rate, and calories burned. Sync with mobile apps for in-depth analysis. <br>
+      &emsp;3) Smart Home Gyms: provide guided workouts and strength training, feature built-in screens and connected sensors, offer personalized coaching and tailored fitness programs. <br>
+- **Wearable Devices**: computing devices worn on the body, commonly for health, fitness, or convenience.<br>
+- Examples:<br>
+      &emsp;1) Smartwatches: track fitness data, display notifications, and run small apps. <br>
+      &emsp;2) Fitness Bands: simpler than smartwatches, focused on activity tracking, monitor exercise habits and basic health metrics. <br>
+      &emsp;3) Smart Glasses & Augmented Reality (AR): provide hands-free acces to information and camera functionality, offer AR overlays for real-world interaction enhancement. <br>
+- It offers quick access to data, notifications, and health tracking for fitness enthusiasts and tech-savvy users.<br>
+
 
 
 ## 3.0 - DEVICE PORTS AND PERIPHERALS
