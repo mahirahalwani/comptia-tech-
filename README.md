@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c52219f7-af5d-4346-9ab9-2516ee6deb61)# comptia-tech+ (FC0-U71)
+## comptia-tech+ (FC0-U71)
 EXAM DATE: End of May 2025<br>
 QUESTIONS: 60 max; multiple choice format<br>
 TIME LIMIT: 60 minutes<br>
@@ -279,6 +279,9 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;2) Fitness Bands: simpler than smartwatches, focused on activity tracking, monitor exercise habits and basic health metrics. <br>
       &emsp;3) Smart Glasses & Augmented Reality (AR): provide hands-free acces to information and camera functionality, offer AR overlays for real-world interaction enhancement. <br>
 - It offers quick access to data, notifications, and health tracking for fitness enthusiasts and tech-savvy users.<br>
+- **Internet of Things (IoT) Devices**: network of interconnected devices that collect, exchange, and act on data. It also makes homes smarter and more efficient.<br>
+- Examples:<br>
+
 
 
 
