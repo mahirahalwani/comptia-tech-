@@ -155,29 +155,53 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 
 
 ## 2.0 - SYSTEM HARDWARE
-- Central Processing Unit (CPU) is not smart but very fast; often referred to as the "brain of the computer". It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.<br>
+- **Central Processing Unit (CPU)** is not smart but very fast; often referred to as the "brain of the computer". It only does what it is asked to do. Needs to give CPU a detailed instruction. Does not have memory, needs a separate memory piece to remember info.<br>
 - Critical of CPU:<br>
       &emsp;- Arithmetic Operations: Basic math functions (addition, subtraction, multiplication, division)<br>
-      &emsp;- Logical Operations: Decision-making based on conditions
+      &emsp;- Logical Operations: Decision-making based on conditions<br>
+- Key Components:<br>
+      &emsp;1) Control Unit (CU): directs operations within CPU.<br>
+      &emsp;2) Arithmetic Logic Unit (ALU): handles arithmetic and logical operations.<br>
 - CPU's characteristic:<br>
-      &emsp;- Speed: how many things it can do in one second under perfect condition. Measured in gigahertz (Hertz: 1 cycle per sec)<br>
+      &emsp;- Speed: how many things it can do in one second under perfect condition. Higher speeds mean more cycles per second. Measured in gigahertz (Hertz: 1 cycle per sec)<br>
       &emsp;- Complexity:<br>
       &emsp;- 32-bit or 64-bit processor (Bits: amount fo data a CPU can process)<br>
       &emsp;- e.g., Raspberry pi, mother board<br>
-      &emsp;- n-core CPU: put n-different processors on one little chip and it works together.<br>
+      &emsp;- Multi-core CPU: enable parallel processing for improved multitasking and performance in demanding applications.<br>
 - Electricity generates heat in the CPU while it works.<br>
 - Methods to move heat:<br>
       &emsp;1) Passive: relies on air. Uses copper or aluminium structure called heat sinks that help heat dissipate into air.<br>
       &emsp;2) Active: using some kind of device to push or pull heat away from computing components e.g., fans/case fans (pull heat out into the air) or liquid cooling (pulls heat into fluid).<br>
-- Random Access Memory (RAM) is measured in gigabytes. Temporaroliy holds data for active CPU tasks.<br>
-      &emsp;1) Function: holds all active programming on a computer that includes OS running apps, and data. Only temporarily stores data.<br>
-      &emsp;2) Capacity: The amount of usable RAM is called system memory. Using too much will slow it down not die.<br>
+- **Graphics Processing Unit (GPU)** is a specialized processor for graphics rendering, image processing, and complex visual tasks.<br>
+- Key Purposes of GPU:<br>
+      &emsp;- Rendering Graphics & Video.<br>
+      &emsp;- Parallel Processing Power.<br>
+- Types of GPUs:<br>
+      &emsp;1) Integrated GPU: built into CPU, shared system memory. Suitable for general tasks like web browsing and streaming.<br>
+      &emsp;2) Dedicated/Discrete GPU: separate component with its own memory (VRAM) and processing power. Designed for high-performance tasks like gaming, video editing, and machine learning.<br>
+- **Random Access Memory (RAM)** is measured in gigabytes. Temporarily holds data for quick access by the CPU.<br>
+      &emsp;1) Function: holds all active programming on a computer that includes OS running apps, and data, allowing quick data retrieval without accessing slower storage drives.<br>
+      &emsp;2) Capacity: The amount of usable RAM is called system memory. Using too much will slow it down. More RAM enables better multitasking and faster performance, increasing the system's ability to handle multiple applications simultaneously.<br>
       &emsp;3) Adding More: Can add more RAM or replace with bigger RAM stick in bigger computers to increase the overall memory capacity.<br>
       &emsp;4) 32-bit only supports 4GB RAM.<br>
       &emsp;5) www.crucial.com: to find the right RAM for your device.<br>
- - Motherboard a.k.a. (Micro) Advanced Technology Extended (ATX) enables connectivity among devices directly or indirectly. Every computing device has a motherboard.<br>
+ - **Motherboard / System Board** a.k.a. (Micro) Advanced Technology Extended (ATX) enables connectivity among devices directly or indirectly. Every computing device has a motherboard. It ensures all components work together harmoniously <br>
+ - Key Purposes of the Motherboard:<br>
+       &emsp;1) Connections & Interfaces: hosts slots and connectors for internal components and provides ports for external devices.<br>
+       &emsp;2) Power Distribution: distributes electrical power from the power supply to components.<br>
+       &emsp;3) Communication Hub: facilitates communication between CPU, RAM, storage, and other components through data buses and chipsets.<br>
+- **Chipsets**:<br>
+        &emsp;- Northbridge: manages high-speed data flow (CPU to RAM).<br>
+        &emsp;- Southbridge: manages lower-speed connections (USB ports, storage drives).<br>
 ![motherboard](https://github.com/user-attachments/assets/66fcdc8f-6786-450e-8650-81d68a892167)
- - Power supplies:<br>
+- **Basic Input/Output System (BIOS)** is a firmware built into the motherboard which is responsible for booting the computer and managing essential hardware settings.<br>
+- Key Purposes of BIOS:<br>
+      &emsp;1) System Initialization: performs the Power-On-Self-Test (POST) during startup to check essential hardware components.<br>
+      &emsp;2) Boot Sequence Control: manages the boot order (e.g., hard drive, USB, network) to find and load the OS.<br>
+      &emsp;3) Hardware Configuration & Management: controls low-level settings like system time, CPU configurations, and memory.<br>
+- Unified Extensible Firmware Interface (UEFI) is a modern alternative to BIOS which offers a graphical interface and supports larger storage drives.<br>
+- BIOS is crucial for starting the computer and providing a bridge between hardware and the OS.<br>
+- **Power supplies**:<br>
       &emsp;1) Power grid runs on alternating current (AC)<br>
       &emsp;2) Computing devices run on direct current (DC) so it relies on batteries for power.<br>
       &emsp;3) Power adapter: a.k.a. an AC adapter or charger, is a device that converts AC power from a wall outlet into DC power for a device.<br>
@@ -187,6 +211,15 @@ PASSING SCORE: 650 out of 900 (72%)<br>
     - Intel: expensive but awesome<br>
     - AMD: great but less expensive<br>
     - ARM: in little devices like smartphones<br>
+- **Network Interface Card (NIC)**: hardware component that enables a computer to connect to a network (LAN or internet).<br>
+- Key Purposes of NIC:<br>
+      &emsp;- Network Connectivity: facilitates communication betweem the computer and other devices over a network. Enables tasks like internet browsing, file sharing, and network printing.<br>
+- Types of NIC:
+      &emsp;1) Wired NIC: connect via Ethernet cable, offers stable and fast netwrok connections.<br>
+      &emsp;2) Wireless NIC: uses WiFi for cable-free network access. Provides mobility but may have lower speeds than wired connections.<br>
+      &emsp;3) Onboard NIC: built into the motherboard.<br>
+      &emsp;4) Expansion Card NIC: added to enhance network capabilities or performance.<br>
+- NIC is essential for network communication and it allows access to local and online resources.<br>
 
 ## 2.1 - COMPUTING DEVICES
 - **Smartphones**: handheld, portable computing device combining the functionality of a mobile phone and a mini-computer.<br>
@@ -281,7 +314,14 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - It offers quick access to data, notifications, and health tracking for fitness enthusiasts and tech-savvy users.<br>
 - **Internet of Things (IoT) Devices**: network of interconnected devices that collect, exchange, and act on data. It also makes homes smarter and more efficient.<br>
 - Examples:<br>
-
+      &emsp;1) Home Appliances: e.g., smart refrigerators, smart washers/dryers.<br>
+      &emsp;2) Home Automation: e.g., smart lights, smart plugs and outlets.<br>
+      &emsp;3) Thermostats.<br>
+      &emsp;4) Security Systems: e.g., smart alarms and sensors, cameras and door sensors.<br>
+      &emsp;5) Home Assistants.<br>
+      &emsp;6) Deadbolts / Door Locks: e.g., smart locks.<br>
+      &emsp;7) Video Doorbells.<br>
+- Benefits: improve home security, enhance energy efficiency, provide convenient control and access to information.<br>
 
 
 
@@ -317,17 +357,17 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;- Volatile: it will erase its memory once it is off.<br>
             &emsp;- Fast: crucial for real-time tasks.<br>
       &emsp;2) Secondary Storage<br>
-            &emsp;- Long-Term Storage: Data persists when the system is off<br>
+            &emsp;- Long-Term Storage: Data persists when the system is off.<br>
             &emsp;- eg: Hard Disk Drives (HDDs), Solid-State Drives (SSDs), Optical Storage, Cloud Storage. <br>
 - Mass storage device:<br>
       &emsp;- It comes in many form each with variety of purposes, e.g., hard drive.<br>
       &emsp;- Can be built into a computer, like an internal HDD or SSD.<br>
       &emsp;- Can attach storage devices, such as thumb drive or external HDD.<br>
       &emsp;- The internet hosts cloud storage options, such as iCloud and Dropbox.<br>
-- HDD: a device that provides long term storage. The data will be erased only if it is deleted or the hard drive dies and its capacity is measured in GBs and TBs. Uses magnetic spinning disks for data storage. Is described as how much data they can store (capacity) and how fast the data can be accessed (speed). <br>
+- **HDD**: a device that provides long term storage. The data will be erased only if it is deleted or the hard drive dies and its capacity is measured in GBs and TBs. Uses magnetic spinning disks for data storage. Is described as how much data they can store (capacity) and how fast the data can be accessed (speed). More storage for the price, suitable for bulk data.<br>
 - 1 digit = 1 bit, 8 bits = 1 byte, 1,204 bytes = 1 kilobyte, 1,024 KB = 1 MB, 1,024 MB = 1GB, 1,024 GB = 1TB.<br>
-- SSD: Faster, reliable, flash memory-based.<br>
-- Computing purpose determines capacisty needs, e.g. word processing apps do not take a lot of space while video editing does.<br>
+- **SSD**: Faster, reliable, flash memory-based. Ideal for OS and frequently used files.<br>
+- Computing purpose determines capacity needs, e.g. word processing apps do not take a lot of space while video editing does.<br>
 - Examples of Mass Storage Devices<br>
       &emsp;1) Internal Hard Drive: a storage device that's installed inside a computer's case and is directly connected to the motherboard and power supply, e.g., SSD (fast) or HDD.<br>
       &emsp;2) Portable External Hard Drive: a storage device that can be connected to a computer or other device to provide extra storage space. Slower than SDD but portable and when need more space, it can be replaced with a bigger space.<br>
