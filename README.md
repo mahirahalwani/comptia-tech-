@@ -354,16 +354,26 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Types of storage:
       &emsp;1) Primary Storage (RAM)<br>
             &emsp;- Temporary storage used during data processing.<br>
-            &emsp;- Volatile: it will erase its memory once it is off.<br>
+            &emsp;- Volatile: requires power to maintain stored data. Data is lost when power is cut off.<br>
             &emsp;- Fast: crucial for real-time tasks.<br>
+            &emsp;- e.g.: Random Access Memory (RAM) .<br>
       &emsp;2) Secondary Storage<br>
-            &emsp;- Long-Term Storage: Data persists when the system is off.<br>
-            &emsp;- eg: Hard Disk Drives (HDDs), Solid-State Drives (SSDs), Optical Storage, Cloud Storage. <br>
+            Non-Volatile: retains data even when power is turned off.<br>
+            &emsp;- e.g.: Hard Disk Drives (HDDs), Solid-State Drives (SSDs), Optical Storage, Cloud Storage, Read-Only Memory (ROM). <br>
 - Mass storage device:<br>
       &emsp;- It comes in many form each with variety of purposes, e.g., hard drive.<br>
       &emsp;- Can be built into a computer, like an internal HDD or SSD.<br>
       &emsp;- Can attach storage devices, such as thumb drive or external HDD.<br>
       &emsp;- The internet hosts cloud storage options, such as iCloud and Dropbox.<br>
+- **Local Storage**: refers to any storage device physically attached to a computer that includes both volatile and non-volatile storage.<br>
+- Types of Local Storage:<br>
+      &emsp;- RAM: volatile storage used for temporary data storage during active tasks. Use case: running OS tasks, apps, and handling multitasking.<br>
+      &emsp;- ROM: non-volatile storage used to store firmware or system-level code. Use case: booting the system and initializing hardware components.<br>
+      &emsp;- HDD: non-volatile, magnetic storage with high capacity, slower access speed.<br>
+      &emsp;- SSD: non-volatile, flash memory storage, faster than HDDs, commonly used for OS and frequently accessed data. Advantages: high speed, low latency, and durability. Use case: best for OS, apps, and scenarios requiring fast boot times and loading speeds.<br>
+      &emsp;- NVMe: high-speed SSD interface, faster than traditional SSDs, optimized for heavy data workloads. Use case: suited for high-performance tasks like gaming, video editing, and virtual machines.<br>
+      &emsp;- Optical Drives: non-volatile storage for media and data, primarily used for reading and writing CDs, DVDs, and Blu-ray discs. Use lasers to read/write data on discs. Use case: archiving data, media distribution, software installation. <br>
+      &emsp;- External Flash Drives (USB): portable, non-volatile storage, used for easy data transfer.Use case: transferring files, temporary backups, portable media storage.<br>
 - **HDD**: a device that provides long term storage. The data will be erased only if it is deleted or the hard drive dies and its capacity is measured in GBs and TBs. Uses magnetic spinning disks for data storage. Is described as how much data they can store (capacity) and how fast the data can be accessed (speed). More storage for the price, suitable for bulk data.<br>
 - 1 digit = 1 bit, 8 bits = 1 byte, 1,204 bytes = 1 kilobyte, 1,024 KB = 1 MB, 1,024 MB = 1GB, 1,024 GB = 1TB.<br>
 - **SSD**: Faster, reliable, flash memory-based. Ideal for OS and frequently used files.<br>
@@ -374,13 +384,46 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;3) Optical Media: a type of storage medium that uses a laser to read and write data on discs, e.g., CD, DVD, Blue-ray discs.<br>
       &emsp;4) Mailing Flash Drive: sending a small, rectangular data storage device that uses flash memory through the mail.<br>
       &emsp;5) Cloud Storage: a service that allows users to store data online and access it from any location using the internet or a private network, e.g. iCloud, dropbox.<br>
-- Local storage vs network-attached storage:<br>
-      &emsp;1) Locals.<br>
-      &emsp;2) Network-Attached Storage (NAS): storage accessed via a network and has its own OS because it has internet. <br>
-- External hard drive works pretty much the same.<br>
 - It matters which port you connect the USB to because the speed is different.<br>
 - CD's: 700MB, DVD: 4.7 or 8.5GB, Blue-Ray: 50GB.<br>
 - Modern systems blend fast RAM with larger SSD/HDD for efficient performance.<br>
+- **Local Network Storage**: refers to a storage system accessibility to multiple devices over a network, rather than being directly attached to a single device. e.g., network attached storage (NAS), file servers.<br>
+- Key Purposes of Local Network Storage:<br>
+      &emsp;- Shared Access: enables multiple users or devices to access the same storage. Files and data are shared across the network without duplicating on individual devices.<br>
+      &emsp;- Centralized Management: easier to manage and back up data from a central point. Ideal for businesses or home networks needing shared data resources.<br>
+      &emsp;- Efficiency: reduces redundancy as the same files do not need to be stored on each device. Improves collaboration by allowing real-time access to files from any connected device.<br>
+- Advantages:<br>
+      &emsp;1) Scalability: storage can be expanded easily without adding more devices.<br>
+      &emsp;2) Cost-Effective: reduces need for individual storage on each device. <br>
+- **Network-Attached Storage (NAS)**: storage device connected to a local network, providing shared access to files for multiple devices or users.<br>
+- Key Features:<br>
+      &emsp;- centralized storage accessible by multiple devices.<br>
+      &emsp;- simplifies file sharing, backup and collaboration.<br>
+      &emsp;- can be managed remotely and configured for specific user permissions.<br>
+- Advantages:<br>
+      &emsp;1) centralizes data storage for easy access and management.<br>
+      &emsp;2) enables seamless file sharing and collaboration across devices.<br>
+      &emsp;3) supports scheduled backups and redundancy for data protection.<br>
+      &emsp;4) scalable storage solution (expandable as needed).<br>
+- Disadvantages:<br>
+      &emsp;1) slower access compared to direct-attached storage (DAS) due to network dependency.<br>
+      &emsp;2) requires proper network configuration and management.<br>
+      &emsp;3) performance reliant on network speed and bandwidth.<br>
+- Use Cases:<br>
+      &emsp;- ideal for small businesses or home users needing shared storage for docs, multimedia, or backups.<br>
+      &emsp;- commonly used for storing media libraries, document archives, or as a network backup solution.<br>
+- **Cloud Storage Devices**: storing data on remote servers managed by a cloud service provider and accessed via the internet.<br>
+- Advantages:<br>
+      &emsp;1) Scalability: easily expand storage capacity as needed.<br>
+      &emsp;2) Remote Access: access data from any location with internet connectivity.<br>
+      &emsp;3) Data Redundancy: data is replicated across multiple servers in different geographical locations for protection and availability.<br> 
+- Disadvantages:<br>
+      &emsp;1) Internet Reliance: data access depends on having a reliable internet connection.<br>
+      &emsp;2) Security & Privacy Concerns: sensitive data may be vulnerable to breaches, unauthorized access, or compliance issues.<br>
+- Use Cases:
+      &emsp;- Backup Solutions: cloud storage is ideal for securely backing up important files.<br>
+      &emsp;- File Sharing: simplifies collaboration by allowing users to share and access files easily.<br>
+      &emsp;- Multi-Device Access: data can be accessed from different devices or locations for personal or business purposes.<br>
 - Advancement: Storage devices are becoming faster, more compact, and efficient.<br>
 
 ## 5.0 - UNDERSTANDING OPERATING SYSTEMS
