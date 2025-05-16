@@ -326,24 +326,26 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 
 
 ## 3.0 - DEVICE PORTS AND PERIPHERALS
-- Peripheral device: a hardware component that connects to a computer to enhance its functionality, but is not part of the computer's core architecture.
-- PS/2 Connector: connects to a very old mice and keyboards.
-- Universal Serial Bus (USB): connects a variety of I/O device. There are 7 types of USB, e.g., USB A (plugs into a computer), USB Type-B (plugs into peripherals), USB Mini-B and USB Micro-B (plugs into smaller peripherals), Micro-B USB 3.0 (10 times faster), USB C (plugs in either way literally universal).
-- eSATA Connector: connects external hard drive
-- Video connector: HDMI, DisplayPort (mainly on Apple and Dell), VGA (for older monitor), and DVI connectors
-- Ethernet (RJ-45) Connecter: connects networks
-- Audio connectors are color coordinated: pink (microphone), black (other devices), green (speakers). It matters which one you plug in.
-- Auto sensing port: automatically detects the connection speed and type of a device on the other end of the connection.
-- On smartphones, all I/O devices are built into the same system.
-- Scaling up devices adds a separation for the processing components.
-- Computing devices come in many forms.
-- I/O devices: touchscreens (input because of the touch function and output because of the screen monitor), keyboards, monitors, mice.
-- Video cards can be added to desktop.
+- **Peripheral Device**: a hardware component that connects to a computer to enhance its functionality, but is not part of the computer's core architecture.<br>
+- PS/2 Connector: connects to a very old mice and keyboards.<br>
+- Universal Serial Bus (USB): connects a variety of I/O device. There are 7 types of USB, e.g., USB A (plugs into a computer), USB Type-B (plugs into peripherals), USB Mini-B and USB Micro-B (plugs into smaller peripherals), Micro-B USB 3.0 (10 times faster), USB C (plugs in either way literally universal).<br>
+- eSATA Connector: connects external hard drive<br>
+- Video connector: HDMI, DisplayPort (mainly on Apple and Dell), VGA (for older monitor), and DVI connectors<br>
+- Ethernet (RJ-45) Connecter: connects networks<br>
+- Audio connectors are color coordinated: pink (microphone), black (other devices), green (speakers). It matters which one you plug in.<br>
+- Auto sensing port: automatically detects the connection speed and type of a device on the other end of the connection.<br>
+- On smartphones, all I/O devices are built into the same system.<br>
+- Scaling up devices adds a separation for the processing components.<br>
+- Computing devices come in many forms.<br>
+- I/O devices: touchscreens (input because of the touch function and output because of the screen monitor), keyboards, monitors, mice.<br>
+- Video cards can be added to desktop.<br>
 - VGA vs DVI vs HDMI: differences in quality of signal they carry and type of signals they carry.<br>
         &emsp;1) VGA - Default standard, supports a decent size resolution and only carries only video signals.<br>
         &emsp;2) DVI - Handles much better definition, carries only video signals.<br>
         &emsp;3) High Definition Multimedia Interface - carries high definition of audio and video.<br>
-- Buying a 5 bucks may or may not get the perfect connectivity and speed that the original cable provides.
+- Buying a 5 bucks may or may not get the perfect connectivity and speed that the original cable provides.<br>
+
+
 
 ## 4.0 - DATA STORAGE AND SHARING
 - Computing devices use wire and electricity to count in binary. (base 2)<br>
