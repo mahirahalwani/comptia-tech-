@@ -368,93 +368,93 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Networking interfaces are essential for connecting devices to a network and it can be wired or wireless.<br>
 - Wired Networking Interfaces:<br>
       &emsp;1) Ethernet connector (RJ-45).<br>
-            &esmp;&emsp;- Widely used for wired network connections (computers, routers, switches).<br>
-            &esmp;&emsp;- Compatible with Cat5e, Cat6, Cat6a cables for data transfer speeds from 100 Mbps to 10 Gbps.<br>
-            &esmp;&emsp;- Reliable for high-speed, low-latency communication over short to medium distances.<br>
-      &esmp;2) Fiber Connector: Small Form-Factor Pluggable (SFP). <br>
-            &esmp;&emsp;- Hot-swappable interface used for fiber optic or copper cable connections.<br>
-            &esmp;&emsp;- Ideal for long-distance communication and environments with electromagnetic interference.<br>
-            &esmp;&emsp;- Supports faster speeds and versatile network configurations.<br>
+            &emsp;&emsp;- Widely used for wired network connections (computers, routers, switches).<br>
+            &emsp;&emsp;- Compatible with Cat5e, Cat6, Cat6a cables for data transfer speeds from 100 Mbps to 10 Gbps.<br>
+            &emsp;&emsp;- Reliable for high-speed, low-latency communication over short to medium distances.<br>
+      &emsp;2) Fiber Connector: Small Form-Factor Pluggable (SFP). <br>
+            &emsp;&emsp;- Hot-swappable interface used for fiber optic or copper cable connections.<br>
+            &emsp;&emsp;- Ideal for long-distance communication and environments with electromagnetic interference.<br>
+            &emsp;&emsp;- Supports faster speeds and versatile network configurations.<br>
 - Wireless Networking Interfaces:<br>
-      &esmp;1) Bluetooth Technology. <br>
-            &esmp;&emsp;- Short-range wireless technology designed for device-to-device communication.<br>
-            &esmp;&emsp;- Commonly used to connect smartphones, wireless keyboards, mice, speakers, and other IoT devices.<br>
-            &esmp;&emsp;- Has an operational range approximately 30 feet (10m).<br>
-            &esmp;&emsp;- Ideal for low-power and low-bandwidth connections, minimizing battery consumption.<br>
-            &esmp;&emsp;- Provides quick pairing between devices and supports seamless data exchange.<br>
-            &esmp;&emsp;- Widely adopted for personal peripherals and smart home solutions due to its flexibility and ease of use.<br>
-      &esmp;2) Near-Field Communication (NFC). <br>
-            &esmp;&emsp;- Short-range wireless technology operating distances up to 4cm.<br>
-            &esmp;&emsp;- Common applications: contactless payments, access controls, data transfer.<br>
-            &esmp;&emsp;- Key benefits: secure communication with limited range, reducing interception risks. Efficient for fast, simple connections with just a tap.<br>
-      &esmp;3) 802.11x (Wi-Fi).<br>
-            &esmp;&emsp;- Family of Wi-Fi standards for high-speed wireless networking. Supports wireless communication between devices over short to medium distances.<br>
-            &esmp;&emsp;- Common versions: 802.11n, 802.11ac, 802.11ax (Wi-Fi 6). <br>
-            &esmp;&emsp;- Indoor range: 100 ~ 500 feet (varies with interference and obstacles). <br>
-            &esmp;&emsp;- Outdoor range: up to 300+ feet in optimal conditions.<br>
-            &esmp;&emsp;- Most common wireless networking technology for homes and businesses. Supports a wide range of devices. High data transfer speeds, essential for modern applications like video streaming and cloud services.<br>
+      &emsp;1) Bluetooth Technology. <br>
+            &emsp;&emsp;- Short-range wireless technology designed for device-to-device communication.<br>
+            &emsp;&emsp;- Commonly used to connect smartphones, wireless keyboards, mice, speakers, and other IoT devices.<br>
+            &emsp;&emsp;- Has an operational range approximately 30 feet (10m).<br>
+            &emsp;&emsp;- Ideal for low-power and low-bandwidth connections, minimizing battery consumption.<br>
+            &emsp;&emsp;- Provides quick pairing between devices and supports seamless data exchange.<br>
+            &emsp;&emsp;- Widely adopted for personal peripherals and smart home solutions due to its flexibility and ease of use.<br>
+      &emsp;2) Near-Field Communication (NFC). <br>
+            &emsp;&emsp;- Short-range wireless technology operating distances up to 4cm.<br>
+            &emsp;&emsp;- Common applications: contactless payments, access controls, data transfer.<br>
+            &emsp;&emsp;- Key benefits: secure communication with limited range, reducing interception risks. Efficient for fast, simple connections with just a tap.<br>
+      &emsp;3) 802.11x (Wi-Fi).<br>
+            &emsp;&emsp;- Family of Wi-Fi standards for high-speed wireless networking. Supports wireless communication between devices over short to medium distances.<br>
+            &emsp;&emsp;- Common versions: 802.11n, 802.11ac, 802.11ax (Wi-Fi 6). <br>
+            &emsp;&emsp;- Indoor range: 100 ~ 500 feet (varies with interference and obstacles). <br>
+            &emsp;&emsp;- Outdoor range: up to 300+ feet in optimal conditions.<br>
+            &emsp;&emsp;- Most common wireless networking technology for homes and businesses. Supports a wide range of devices. High data transfer speeds, essential for modern applications like video streaming and cloud services.<br>
 - Networking Devices and Tools:<br>
-      &esmp;1) Crimpers. <br>
-            &esmp;&emsp;- Tool for attaching connectors to network cables.<br>
-            &esmp;&emsp;- Ensures a solid electrical connection between the cable and connector.<br>
-            &esmp;&emsp;- Critical for reliable data transfer in a network.<br>
-      &esmp;2) Cable Testers.<br>
-            &esmp;&emsp;- Used to verify the integrity and continuity of network cables.<br>
-            &esmp;&emsp;- Identifies issues such as short circuits, cable breaks, or miswiring.<br>
-            &esmp;&emsp;- Speeds up troubleshooting to ensure cables are properly terminated and functioning.<br>
-      &esmp;- Importance: essential for setting up and maintaining network connections as well as ensuring network components work efficiently and reliably. <br>
+      &emsp;1) Crimpers. <br>
+            &emsp;&emsp;- Tool for attaching connectors to network cables.<br>
+            &emsp;&emsp;- Ensures a solid electrical connection between the cable and connector.<br>
+            &emsp;&emsp;- Critical for reliable data transfer in a network.<br>
+      &emsp;2) Cable Testers.<br>
+            &emsp;&emsp;- Used to verify the integrity and continuity of network cables.<br>
+            &emsp;&emsp;- Identifies issues such as short circuits, cable breaks, or miswiring.<br>
+            &emsp;&emsp;- Speeds up troubleshooting to ensure cables are properly terminated and functioning.<br>
+      &emsp;- Importance: essential for setting up and maintaining network connections as well as ensuring network components work efficiently and reliably. <br>
 - Peripheral Devices Interfaces:<br>
-      &esmp;1) Universal Serial Bus (USB). <br>
-            &esmp;&emsp;- Widely used interface standard for connecting external devices to a computer.<br>
-            &esmp;&emsp;- Allows for data transfer, power delivery, and additional functionalities.<br>
-            &esmp;&emsp;1) USB-A: traditional rectangular connector, commonly used for flash drives, keyboards, etc.<br>
-            &esmp;&emsp;2) USB-B: square-shaped connector, often used with printers and external hard drives.<br>
-            &esmp;&emsp;3) USB-C: newer, versatile, reversible connector design, supports faster data transfer, higher power delivery and video output.  <br>
+      &emsp;1) Universal Serial Bus (USB). <br>
+            &emsp;&emsp;- Widely used interface standard for connecting external devices to a computer.<br>
+            &emsp;&emsp;- Allows for data transfer, power delivery, and additional functionalities.<br>
+            &emsp;&emsp;1) USB-A: traditional rectangular connector, commonly used for flash drives, keyboards, etc.<br>
+            &emsp;&emsp;2) USB-B: square-shaped connector, often used with printers and external hard drives.<br>
+            &emsp;&emsp;3) USB-C: newer, versatile, reversible connector design, supports faster data transfer, higher power delivery and video output.  <br>
 ![Types of USBs](https://github.com/user-attachments/assets/a2abf738-b29c-4d1c-b070-1059eff6db17)
-      &esmp;2) Thunderbolt Interface.<br>
-            &esmp;&emsp;- High-speed connection technology combining data transfer, display output, and power delivery.<br>
-            &esmp;&emsp;- Thunderbolt 3 and 4 features use the USB-C connector and support speed up to 40 Gbps. It also allows connection of multiple devices. <br>
-      &esmp;3) Bluetooth Technology. <br>
-            &esmp;&emsp;- Common interface for wireless peripherals.<br>
-            &esmp;&emsp;- No dongle needed, built-in connectivity in modern devices.<br>
-      &esmp;4) Radio Frequency (RF) Technology. <br>
-            &esmp;&emsp;- Primarily used in older wireless peripherals.<br>
-            &esmp;&emsp;- Requires a USB dongle for communication.<br>
-            &esmp;&emsp;- Operates over longer ranges compared to Bluetooth.<br>
-      &esmp;5) Lightning Connector. <br>
-            &esmp;&emsp;- Proprietary standard by Apple.<br>
-            &esmp;&emsp;- Functions: data transfer, charging, device connectivity.<br>
-            &esmp;&emsp;- Expands the range of compatible external devices and offers versatility for multimedia, accessories, and charging needs.<br>
+      &emsp;2) Thunderbolt Interface.<br>
+            &emsp;&emsp;- High-speed connection technology combining data transfer, display output, and power delivery.<br>
+            &emsp;&emsp;- Thunderbolt 3 and 4 features use the USB-C connector and support speed up to 40 Gbps. It also allows connection of multiple devices. <br>
+      &emsp;3) Bluetooth Technology. <br>
+            &emsp;&emsp;- Common interface for wireless peripherals.<br>
+            &emsp;&emsp;- No dongle needed, built-in connectivity in modern devices.<br>
+      &emsp;4) Radio Frequency (RF) Technology. <br>
+            &emsp;&emsp;- Primarily used in older wireless peripherals.<br>
+            &emsp;&emsp;- Requires a USB dongle for communication.<br>
+            &emsp;&emsp;- Operates over longer ranges compared to Bluetooth.<br>
+      &emsp;5) Lightning Connector. <br>
+            &emsp;&emsp;- Proprietary standard by Apple.<br>
+            &emsp;&emsp;- Functions: data transfer, charging, device connectivity.<br>
+            &emsp;&emsp;- Expands the range of compatible external devices and offers versatility for multimedia, accessories, and charging needs.<br>
 - Display Ports:<br>
-      &esmp;- Video Graphics Array (VGA). <br>
-            &esmp;&emsp;- Analog video connector, commonly seen on older devices.<br>
-            &esmp;&emsp;- Blue 15-pin connector.<br>
-            &esmp;&emsp;- Becoming outdated but still used on older monitors and projectors.<br>
-      &esmp;- Digital Visual Interface (DVI). <br>
-            &esmp;&emsp;- Digital video connector for improved quality over VGA.<br>
-            &esmp;&emsp;- DVI-D (digital only), DVI-A (analog only), and DVI-I (supports both).<br>
-            &esmp;&emsp;- Supports HD video but increasingly replaced by newer standards.<br>
+      &emsp;- Video Graphics Array (VGA). <br>
+            &emsp;&emsp;- Analog video connector, commonly seen on older devices.<br>
+            &emsp;&emsp;- Blue 15-pin connector.<br>
+            &emsp;&emsp;- Becoming outdated but still used on older monitors and projectors.<br>
+      &emsp;- Digital Visual Interface (DVI). <br>
+            &emsp;&emsp;- Digital video connector for improved quality over VGA.<br>
+            &emsp;&emsp;- DVI-D (digital only), DVI-A (analog only), and DVI-I (supports both).<br>
+            &emsp;&emsp;- Supports HD video but increasingly replaced by newer standards.<br>
 ![VGA & DVI](https://github.com/user-attachments/assets/bcb6b41d-bec0-48ff-bf8d-99246431d5fe)
 - DisplayPort:<br>
-      &esmp;1) High Definition Multimedia Interface (HDMI).<br>
-            &esmp;&emsp;- widely used for TVs, monitors, and gaming consoles.<br>
-            &esmp;&emsp;- supports high-definition video and audio over a single cable.<br>
-            &esmp;&emsp;- HDMI versions (1.4 to 2.1) offer resolutions up to 4K and beyond.<br>
-      &esmp;2) Display Port. <br>
-            &esmp;&emsp;- primarily used for computer monitors.<br>
-            &esmp;&emsp;- supports high resolutions, high refresh rates, and multi-monitor setups.<br>
-            &esmp;&emsp;- capable of transferring audio and USB data alongside video.<br>
-      &esmp;3) USB-C. <br>
+      &emsp;1) High Definition Multimedia Interface (HDMI).<br>
+            &emsp;&emsp;- widely used for TVs, monitors, and gaming consoles.<br>
+            &emsp;&emsp;- supports high-definition video and audio over a single cable.<br>
+            &emsp;&emsp;- HDMI versions (1.4 to 2.1) offer resolutions up to 4K and beyond.<br>
+      &emsp;2) Display Port. <br>
+            &emsp;&emsp;- primarily used for computer monitors.<br>
+            &emsp;&emsp;- supports high resolutions, high refresh rates, and multi-monitor setups.<br>
+            &emsp;&emsp;- capable of transferring audio and USB data alongside video.<br>
+      &emsp;3) USB-C. <br>
 - Display Technology:<br>
-      &esmp;1) Mirroring. <br>
-            &esmp;&emsp;- duplicates the content from a device onto an external display.<br>
-            &esmp;&emsp;- common in presentations or situations where multiple viewers need to see the same content.<br>
-            &esmp;&emsp;- Wired: HDMI cables, DisplayPort.<br>
-            &esmp;&emsp;- Wireless: Apple AirPlay, Google Cast.<br>
-      &esmp;2) Casting.<br>
-            &esmp;&emsp;- streams content directly to an external display without duplicating the entire device screen.<br>
-            &esmp;&emsp;- allows multitasking.<br>
-            &esmp;&emsp;- common wireless protocols: Google Cast, Miracast, DLNA.<br>
+      &emsp;1) Mirroring. <br>
+            &emsp;&emsp;- duplicates the content from a device onto an external display.<br>
+            &emsp;&emsp;- common in presentations or situations where multiple viewers need to see the same content.<br>
+            &emsp;&emsp;- Wired: HDMI cables, DisplayPort.<br>
+            &emsp;&emsp;- Wireless: Apple AirPlay, Google Cast.<br>
+      &emsp;2) Casting.<br>
+            &emsp;&emsp;- streams content directly to an external display without duplicating the entire device screen.<br>
+            &emsp;&emsp;- allows multitasking.<br>
+            &emsp;&emsp;- common wireless protocols: Google Cast, Miracast, DLNA.<br>
       
 
 ## 4.0 - DATA STORAGE AND SHARING
