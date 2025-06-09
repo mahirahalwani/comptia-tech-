@@ -1,4 +1,4 @@
-## comptia-tech+ (FC0-U71)
+![image](https://github.com/user-attachments/assets/2321f63a-fd69-4175-ba7b-0982155ee35e)## comptia-tech+ (FC0-U71)
 EXAM DATE: End of May 2025<br>
 QUESTIONS: 60 max; multiple choice format<br>
 TIME LIMIT: 60 minutes<br>
@@ -402,8 +402,60 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &esmp;&emsp;- Used to verify the integrity and continuity of network cables.<br>
             &esmp;&emsp;- Identifies issues such as short circuits, cable breaks, or miswiring.<br>
             &esmp;&emsp;- Speeds up troubleshooting to ensure cables are properly terminated and functioning.<br>
-&esmp;1) Crimpers. <br>
-
+      &esmp;- Importance: essential for setting up and maintaining network connections as well as ensuring network components work efficiently and reliably. <br>
+- Peripheral Devices Interfaces:<br>
+      &esmp;1) Universal Serial Bus (USB). <br>
+            &esmp;&emsp;- Widely used interface standard for connecting external devices to a computer.<br>
+            &esmp;&emsp;- Allows for data transfer, power delivery, and additional functionalities.<br>
+            &esmp;&emsp;1) USB-A: traditional rectangular connector, commonly used for flash drives, keyboards, etc.<br>
+            &esmp;&emsp;2) USB-B: square-shaped connector, often used with printers and external hard drives.<br>
+            &esmp;&emsp;3) USB-C: newer, versatile, reversible connector design, supports faster data transfer, higher power delivery and video output.  <br>
+![Types of USBs](https://github.com/user-attachments/assets/a2abf738-b29c-4d1c-b070-1059eff6db17)
+      &esmp;2) Thunderbolt Interface.<br>
+            &esmp;&emsp;- High-speed connection technology combining data transfer, display output, and power delivery.<br>
+            &esmp;&emsp;- Thunderbolt 3 and 4 features use the USB-C connector and support speed up to 40 Gbps. It also allows connection of multiple devices. <br>
+      &esmp;3) Bluetooth Technology. <br>
+            &esmp;&emsp;- Common interface for wireless peripherals.<br>
+            &esmp;&emsp;- No dongle needed, built-in connectivity in modern devices.<br>
+      &esmp;4) Radio Frequency (RF) Technology. <br>
+            &esmp;&emsp;- Primarily used in older wireless peripherals.<br>
+            &esmp;&emsp;- Requires a USB dongle for communication.<br>
+            &esmp;&emsp;- Operates over longer ranges compared to Bluetooth.<br>
+      &esmp;5) Lightning Connector. <br>
+            &esmp;&emsp;- Proprietary standard by Apple.<br>
+            &esmp;&emsp;- Functions: data transfer, charging, device connectivity.<br>
+            &esmp;&emsp;- Expands the range of compatible external devices and offers versatility for multimedia, accessories, and charging needs.<br>
+- Display Ports:<br>
+      &esmp;- Video Graphics Array (VGA). <br>
+            &esmp;&emsp;- Analog video connector, commonly seen on older devices.<br>
+            &esmp;&emsp;- Blue 15-pin connector.<br>
+            &esmp;&emsp;- Becoming outdated but still used on older monitors and projectors.<br>
+      &esmp;- Digital Visual Interface (DVI). <br>
+            &esmp;&emsp;- Digital video connector for improved quality over VGA.<br>
+            &esmp;&emsp;- DVI-D (digital only), DVI-A (analog only), and DVI-I (supports both).<br>
+            &esmp;&emsp;- Supports HD video but increasingly replaced by newer standards.<br>
+![VGA & DVI](https://github.com/user-attachments/assets/bcb6b41d-bec0-48ff-bf8d-99246431d5fe)
+- DisplayPort:<br>
+      &esmp;1) High Definition Multimedia Interface (HDMI).<br>
+            &esmp;&emsp;- widely used for TVs, monitors, and gaming consoles.<br>
+            &esmp;&emsp;- supports high-definition video and audio over a single cable.<br>
+            &esmp;&emsp;- HDMI versions (1.4 to 2.1) offer resolutions up to 4K and beyond.<br>
+      &esmp;2) Display Port. <br>
+            &esmp;&emsp;- primarily used for computer monitors.<br>
+            &esmp;&emsp;- supports high resolutions, high refresh rates, and multi-monitor setups.<br>
+            &esmp;&emsp;- capable of transferring audio and USB data alongside video.<br>
+      &esmp;3) USB-C. <br>
+- Display Technology:<br>
+      &esmp;1) Mirroring. <br>
+            &esmp;&emsp;- duplicates the content from a device onto an external display.<br>
+            &esmp;&emsp;- common in presentations or situations where multiple viewers need to see the same content.<br>
+            &esmp;&emsp;- Wired: HDMI cables, DisplayPort.<br>
+            &esmp;&emsp;- Wireless: Apple AirPlay, Google Cast.<br>
+      &esmp;2) Casting.<br>
+            &esmp;&emsp;- streams content directly to an external display without duplicating the entire device screen.<br>
+            &esmp;&emsp;- allows multitasking.<br>
+            &esmp;&emsp;- common wireless protocols: Google Cast, Miracast, DLNA.<br>
+      
 
 ## 4.0 - DATA STORAGE AND SHARING
 - Computing devices use wire and electricity to count in binary. (base 2)<br>
