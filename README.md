@@ -327,6 +327,21 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 
 ## 3.0 - DEVICE PORTS AND PERIPHERALS
 - **Peripheral Device**: a hardware component that connects to a computer to enhance its functionality, but is not part of the computer's core architecture.<br>
+- Types of Peripherals:<br>
+      &emsp;1) input devices: devices that allow users to interact with the computer.<br>
+      &emsp;2) output devices: devices that output information from the computer.<br>
+      &emsp;3) input/output devices: devices that handle both input and output tasks..<br>
+      &emsp;4) power-related devices.<br>
+- Installation Types:<br>
+      &emsp;1) Plug-and-Play (PnP) Installation.<br>
+            &emsp;&emsp;- Supported by modern OS.<br>
+            &emsp;&emsp;- Automatic detection and setup of devices by the OS.<br>
+            &emsp;&emsp;- No user intervention required for most devices.<br>
+      &emsp;2) Driver Installation.<br>
+            &emsp;&emsp;- Required for devices with advanced functionality.<br>
+            &emsp;&emsp;- Drivers enable OS-to-hardware communication.<br>
+            &emsp;&emsp;- Provided by the manufacturer.<br>
+            &emsp;&emsp;- Installation may include a setup program and management software for additional settings.<br>
 - PS/2 Connector: connects to a very old mice and keyboards.<br>
 - Universal Serial Bus (USB): connects a variety of I/O device. There are 7 types of USB, e.g., USB A (plugs into a computer), USB Type-B (plugs into peripherals), USB Mini-B and USB Micro-B (plugs into smaller peripherals), Micro-B USB 3.0 (10 times faster), USB C (plugs in either way literally universal).<br>
 - eSATA Connector: connects external hard drive<br>
@@ -344,6 +359,10 @@ PASSING SCORE: 650 out of 900 (72%)<br>
         &emsp;2) DVI - Handles much better definition, carries only video signals.<br>
         &emsp;3) High Definition Multimedia Interface - carries high definition of audio and video.<br>
 - Buying a 5 bucks may or may not get the perfect connectivity and speed that the original cable provides.<br>
+- Key Takeaways:<br>
+      &emsp;1) Peripheral setup varies by device type and complexity.<br>
+      &emsp;2) Understanding setup processes is essential for troubleshooting. Helps identify and resolve installation issues quickly and ensures peripherals function properly with your system.<br>
+      &emsp;3) Knowledge of different device setups improves system compatibility.<br>
 
 
 
