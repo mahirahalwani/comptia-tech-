@@ -364,6 +364,32 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;2) Understanding setup processes is essential for troubleshooting. Helps identify and resolve installation issues quickly and ensures peripherals function properly with your system.<br>
       &emsp;3) Knowledge of different device setups improves system compatibility.<br>
 
+## 3.1 - NETWORKING INTERFACES
+- Networking interfaces are essential for connecting devices to a network and it can be wired or wireless.<br>
+- Wired Networking Interfaces:<br>
+      &emsp;1) Ethernet connector (RJ-45).<br>
+            &esmp;&emsp;- Widely used for wired network connections (computers, routers, switches).<br>
+            &esmp;&emsp;- Compatible with Cat5e, Cat6, Cat6a cables for data transfer speeds from 100 Mbps to 10 Gbps.<br>
+            &esmp;&emsp;- Reliable for high-speed, low-latency communication over short to medium distances.<br>
+      &esmp;2) Fiber Connector: Small Form-Factor Pluggable (SFP). <br>
+            &esmp;&emsp;- Hot-swappable interface used for fiber optic or copper cable connections.<br>
+            &esmp;&emsp;- Ideal for long-distance communication and environments with electromagnetic interference.<br>
+            &esmp;&emsp;- Supports faster speeds and versatile network configurations.<br>
+- Wireless Networking Interfaces:<br>
+      &esmp;1) Bluetooth Technology. <br>
+            &esmp;&emsp;- Short-range wireless technology designed for device-to-device communication.<br>
+            &esmp;&emsp;- Commonly used to connect smartphones, wireless keyboards, mice, speakers, and other IoT devices.<br>
+            &esmp;&emsp;- Has an operational range approximately 30 feet (10m).<br>
+            &esmp;&emsp;- Ideal for low-power and low-bandwidth connections, minimizing battery consumption.<br>
+            &esmp;&emsp;- Provides quick pairing between devices and supports seamless data exchange.<br>
+            &esmp;&emsp;- Widely adopted for personal peripherals and smart home solutions due to its flexibility and ease of use.<br>
+      &esmp;2) Near-Field Communication (NFC). <br>
+            &esmp;&emsp;- Short-range wireless technology operating distances up to 4cm.<br>
+            &esmp;&emsp;- Common applications: contactless payments, access controls, data transfer.<br>
+            &esmp;&emsp;- Key benefits: secure communication with limited range, reducing interception risks. Efficient for fast, simple connections with just a tap.<br>
+      &esmp;3) 802.11x (Wi-Fi)<br>
+      
+
 
 
 ## 4.0 - DATA STORAGE AND SHARING
