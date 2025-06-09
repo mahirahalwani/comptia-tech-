@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2321f63a-fd69-4175-ba7b-0982155ee35e)## comptia-tech+ (FC0-U71)
+## comptia-tech+ (FC0-U71)
 EXAM DATE: End of May 2025<br>
 QUESTIONS: 60 max; multiple choice format<br>
 TIME LIMIT: 60 minutes<br>
