@@ -141,7 +141,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Identify the root cause to prevent recurrence.<br>
       &emsp;- Implement specific measures to avoid future issues.<br>
       &emsp;- Goal: ensure long-term system stability and prevent similar issues from affecting the user.<br>
-6) Document findings, actions, and outcomes.
+6) Document findings, actions, and outcomes.<br>
       &emsp;- Documentation is critical for understanding what was done and why.<br>
       &emsp;- Valuable reference if the issue occurs again and enhances communication within teams.<br>
       &emsp;- Things to include:<br>
@@ -387,9 +387,22 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &esmp;&emsp;- Short-range wireless technology operating distances up to 4cm.<br>
             &esmp;&emsp;- Common applications: contactless payments, access controls, data transfer.<br>
             &esmp;&emsp;- Key benefits: secure communication with limited range, reducing interception risks. Efficient for fast, simple connections with just a tap.<br>
-      &esmp;3) 802.11x (Wi-Fi)<br>
-      
-
+      &esmp;3) 802.11x (Wi-Fi).<br>
+            &esmp;&emsp;- Family of Wi-Fi standards for high-speed wireless networking. Supports wireless communication between devices over short to medium distances.<br>
+            &esmp;&emsp;- Common versions: 802.11n, 802.11ac, 802.11ax (Wi-Fi 6). <br>
+            &esmp;&emsp;- Indoor range: 100 ~ 500 feet (varies with interference and obstacles). <br>
+            &esmp;&emsp;- Outdoor range: up to 300+ feet in optimal conditions.<br>
+            &esmp;&emsp;- Most common wireless networking technology for homes and businesses. Supports a wide range of devices. High data transfer speeds, essential for modern applications like video streaming and cloud services.<br>
+- Networking Devices and Tools:<br>
+      &esmp;1) Crimpers. <br>
+            &esmp;&emsp;- Tool for attaching connectors to network cables.<br>
+            &esmp;&emsp;- Ensures a solid electrical connection between the cable and connector.<br>
+            &esmp;&emsp;- Critical for reliable data transfer in a network.<br>
+      &esmp;2) Cable Testers.<br>
+            &esmp;&emsp;- Used to verify the integrity and continuity of network cables.<br>
+            &esmp;&emsp;- Identifies issues such as short circuits, cable breaks, or miswiring.<br>
+            &esmp;&emsp;- Speeds up troubleshooting to ensure cables are properly terminated and functioning.<br>
+&esmp;1) Crimpers. <br>
 
 
 ## 4.0 - DATA STORAGE AND SHARING
