@@ -455,6 +455,29 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;- streams content directly to an external display without duplicating the entire device screen.<br>
             &emsp;&emsp;- allows multitasking.<br>
             &emsp;&emsp;- common wireless protocols: Google Cast, Miracast, DLNA.<br>
+
+## 3.2 - CLOUD COMPUTING
+- **Virtualization**: technology that uses software to emulate hardware resources in order to create virtual versions of systems.<br>
+- Importance of virtualization:<br>
+      &emsp;1) maximizes hardware usage.<br>
+      &emsp;2) reduces cost for organisations.<br>
+      &emsp;3) improves scalability and flexibility.<br>
+      &emsp;4) enhances disaster recovery capabilities.<br>
+      &emsp;5) supports running multiple OS/apps on a single machine.<br>
+- Key components:<br>
+      &emsp;1) Hypervisor.<br>
+            &emsp;&emsp;- software that creates and manages virtual machines (VMs).<br>
+            &emsp;&emsp;- divides physical resources among VMs.<br>
+      &emsp;2) Guest Operating System (OS).<br>
+            &emsp;&emsp;- the virtualized OS running inside a VM.<br>
+            &emsp;&emsp;- operates independently within the virtual environment.<br>
+- **Hypervisor**: software layer that enables virtualization, allowing multiple VMs to share the physical resources of a single machine. Acts as a bridge between physical hardware and VMs.<br>
+- Types of hypervisor:
+      &emsp;1) Type 1 (Bare-Metal Hypervisor).<br>
+            &emsp;&emsp;- runs directly on hardware without a host OS.<br>
+            &emsp;&emsp;- enterprise-grade performance and efficiency.<br>
+            &emsp;&emsp;- ex: VMware ESXi, Microsoft Hyper-V, XenServer.<br>
+- 
       
 
 ## 4.0 - DATA STORAGE AND SHARING
