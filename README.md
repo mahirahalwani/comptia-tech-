@@ -47,7 +47,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Importance: computers use binary because hardware systems operate in two states: on (1) and off (0). It efficiently represents these electrical states, making it ideal for computing.<br>
 - Hexadecimal System (Base-16)<br>
       &emsp;- Uses 16 symbols; digits 0 ~ 9, letters A ~ F<br>
-      &emsp;- Efficient in computing because it represents large binary numbers. 1 hecadecimal digit = 4 binaru digits (bits).<br>
+      &emsp;- Efficient in computing because it represents large binary numbers. 1 hecadecimal digit = 4 binary digits (bits).<br>
       &emsp;- Commonly used to represent memory addresses because it is more compact than binary and provides a straightforward mapping to binary values, making it easier for humans to read and understand. <br>
 - Octal System (Base-8)<br>
       &emsp;- Uses digits 0 ~ 7<br>
@@ -214,7 +214,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - **Network Interface Card (NIC)**: hardware component that enables a computer to connect to a network (LAN or internet).<br>
 - Key Purposes of NIC:<br>
       &emsp;- Network Connectivity: facilitates communication betweem the computer and other devices over a network. Enables tasks like internet browsing, file sharing, and network printing.<br>
-- Types of NIC:
+- Types of NIC:<br>
       &emsp;1) Wired NIC: connect via Ethernet cable, offers stable and fast netwrok connections.<br>
       &emsp;2) Wireless NIC: uses WiFi for cable-free network access. Provides mobility but may have lower speeds than wired connections.<br>
       &emsp;3) Onboard NIC: built into the motherboard.<br>
@@ -407,9 +407,9 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;1) Universal Serial Bus (USB). <br>
             &emsp;&emsp;- Widely used interface standard for connecting external devices to a computer.<br>
             &emsp;&emsp;- Allows for data transfer, power delivery, and additional functionalities.<br>
-            &emsp;&emsp;1) USB-A: traditional rectangular connector, commonly used for flash drives, keyboards, etc.<br>
-            &emsp;&emsp;2) USB-B: square-shaped connector, often used with printers and external hard drives.<br>
-            &emsp;&emsp;3) USB-C: newer, versatile, reversible connector design, supports faster data transfer, higher power delivery and video output.  <br>
+            &emsp;&emsp;a) USB-A: traditional rectangular connector, commonly used for flash drives, keyboards, etc.<br>
+            &emsp;&emsp;b) USB-B: square-shaped connector, often used with printers and external hard drives.<br>
+            &emsp;&emsp;c) USB-C: newer, versatile, reversible connector design, supports faster data transfer, higher power delivery and video output.  <br>
 ![Types of USBs](https://github.com/user-attachments/assets/a2abf738-b29c-4d1c-b070-1059eff6db17)
       &emsp;2) Thunderbolt Interface.<br>
             &emsp;&emsp;- High-speed connection technology combining data transfer, display output, and power delivery.<br>
@@ -472,13 +472,104 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;- the virtualized OS running inside a VM.<br>
             &emsp;&emsp;- operates independently within the virtual environment.<br>
 - **Hypervisor**: software layer that enables virtualization, allowing multiple VMs to share the physical resources of a single machine. Acts as a bridge between physical hardware and VMs.<br>
-- Types of hypervisor:
+- Types of hypervisors:<br>
       &emsp;1) Type 1 (Bare-Metal Hypervisor).<br>
             &emsp;&emsp;- runs directly on hardware without a host OS.<br>
             &emsp;&emsp;- enterprise-grade performance and efficiency.<br>
             &emsp;&emsp;- ex: VMware ESXi, Microsoft Hyper-V, XenServer.<br>
-- 
-      
+      &emsp;2) Type 2 (Hosted Hypervisor). <br>
+            &emsp;&emsp;- runs on top of a host OS.<br>
+            &emsp;&emsp;- easier to set up, commonly used for testing and development.<br>
+            &emsp;&emsp;- ex: Oracle VirtualBox, VMware Workstation.<br>
+- Key functions of a hypervisor:<br>
+      &emsp;- manages VMs, ensuring resource allocation (CPU, memory, storage).<br>
+      &emsp;- ensures isolation and security between VMs for independent operation.<br>
+![Type-1-and-type-2-hypervisors](https://github.com/user-attachments/assets/bf841d5f-8b8a-408f-b8a0-5da2cbd889aa)
+- **Guest Operating System (OS)**: the OS installed within a VM, functions like a traditional OS on a physical computer. <br>
+- Functionality:<br>
+      &emsp;- can install, configure, and run apps on the guest OS<br>
+      &emsp;- each VM can run its own unique OS<br>
+- Isolation:<br>
+      &emsp;- each VM operates independently from others.<br>
+      &emsp;- if one guest OS fails, it does not affect other VMs on the same host.<br>
+- Benefits of VM:<br>
+      &emsp;- Resource Optimization: multiple VMs share hardware resources efficiently<br>
+      &emsp;- Scalability: easy and quick creation of new VMs<br>
+      &emsp;- Isolation: security and stability are ensured as each VM is isolated from others<br>
+- **Cloud**: a network of remote servers hosted on the internet. Enables on-demand access to computing resources (storage, processing, etc.). Users do not need to invest in their own hardware.<br>
+- Key cloud service models:<br>
+      &emsp;1) **Software as a Service (SaaS)** <br>
+            &emsp;&emsp;- cloud-based model where apps are hosted by a third-party provider and accessed over the internet (e.g., Google Workspace, Microsoft 365). <br>
+            &emsp;&emsp;- provider manages infrastructure  while users access software via web browser or client.<br>
+            &emsp;&emsp;- Accessibility: accessible from any device with internet access<br>
+            &emsp;&emsp;- Cost-Effective: no hardware/software installation needed; subscription-based pricing<br>
+            &emsp;&emsp;- Automatic Updates: provider handles updates and maintenance<br>
+            &emsp;&emsp;- ideal for organisations wanting to use apps without managing infrastructure.<br>
+      &emsp;2) **Platform as a Service (PaaS)** <br>
+            &emsp;&emsp;- provides a platform for developers to build, deploy and manage apps without managing the underlying infrastructure, developers focus on writing and deploying code.  (e.g., AWS Elastic, Beanstalk, Google App Engine) <br>
+            &emsp;&emsp;- Development Efficiency: tools and frameworks streamline app development<br>
+            &emsp;&emsp;- Scalability: easily scales with user demand<br>
+            &emsp;&emsp;- Time-Saving: frees developers from managing infrastructure components<br>
+            &emsp;&emsp;- ideal for development teams focused on building and deploying apps without infrastucture management concerns<br>
+      &emsp;3) **Infrastructure as a Service (IaaS)** <br>
+            &emsp;&emsp;- flexible cloud computing model providing virtualised computing resources over the internet (servers, storage, networking) <br>
+            &emsp;&emsp;- Provider manages physical infrastucture while customer manages virtual infrastructure. (e.g., AWS EC2, Microsoft Azure) <br>
+            &emsp;&emsp;- Flexibility and Control: users can configure their environment as needed<br>
+            &emsp;&emsp;- Cost Efficiency: pay for resources as you use them (CPU, storage, bandwidth)<br>
+            &emsp;&emsp;- Scability: easily scale up or down depending on resource demands<br>
+            &emsp;&emsp;- ideal for organisations seeking control over their infrastructure without investing in physical hardware.<br>
+- Control and Flexibility: different levels of control and flexibility across SaaS, PaaS, and IaaS. Users can choose a model based on their specific needs and technical expertise. <br>
+![iaas-paas-saas](https://github.com/user-attachments/assets/bbf073d0-cfd5-4841-95a2-528615ba605c)
+- Deployment Models (Cloud Computing):
+      &emsp;1) **On-Premises (Private Cloud)**: infrastructure is hosted and managed in the organisation's own data center.<br>
+            &emsp;&emsp;- Pros: greater control over data, security, and compliance.<br>
+            &emsp;&emsp;- Cons: high cost and requires continuous management.<br>
+      &emsp;2) **Cloud (Public Cloud)**: resources are hosted by third-party providers like AWS, Azure, or Google Cloud and accessed via the internet.<br>
+            &emsp;&emsp;- Pros: low initial cost, highly scalable, managed by the provider.<br>
+            &emsp;&emsp;- Cons: limited control over data security and compliance.<br>
+      &emsp;3) **Hybrid Cloud**: combines on-premises infrastructure with public cloud services. <br>
+            &emsp;&emsp;- Sensitive data can be stored on-premises for security, while public cloud is used for other workloads.<br>
+            &emsp;&emsp;- Pros: offers cost-efficiency, flexibility, and better control<br>
+
+## 3.3 - INTERNET SERVICE TYPES
+- **Fiber Optic Internet**: transmits data as pulses of light through thin strands of glass or plastic (fiber optic cables). Light signals travel at extremely high speeds for fast data transfer over long distances without significant signal loss.<br>
+- Advantages:<br>
+      &emsp;1. Speed and Bandwidth: capable of ultra-high speeds (up to 1 Gbps or more), supporting many users and devices w/o performance issues.<br>
+      &emsp;2. Reliability: less prone to interference and signal degradation compared to other internet types, offering consistent high-speed connectivity.<br>
+      &emsp;3. Low Latency: data travels as light, resulting in minimal latency - ideal for gaming, streaming, and VoIP services.<br>
+- Drawbacks:<br>
+      &emsp;1. Cost and Availability: laying fiber optic cables is expensive and complex, limiting availability, especially in rural areas.<br>
+- Suited for heavy internet users who need fast, reliable connections, including gamers, streamers, and remote workers using video conferencing or other bandwidth-intensive apps.<br>
+- **Cable Internet**: uses coaxial cables (same as cable TV) for internet connectivity which consists of a central wire surrounded by shielding to transmit data at high speeds. Cable modem connects to coaxial lines to deliver internet to homes and businesses.<br>
+- Advantages:<br>
+      &emsp;1. High Speed: offers speeds up to several hundred Mbps (faster than DSL, slower than fiber)<br>
+      &emsp;2. Wide Availability: accessible in many urban and suburban areas due to cable TV infrasturcture.<br>
+      &emsp;3. Good Bandwidth: ideal for streaming, gaming, and downloading large files <br>
+- Drawbacks:<br>
+      &emsp;1. Shared Bandwidth: speed can slow during peak hours due to shared use <br>
+      &emsp;2. Latency: higher than fiber but lower than DSL, affecting data transmission delay<br>
+- Suitable for households with moderate to heavy internet usage and great for streaming, online gaming and remote work.<br>
+- **Digital Subscriber Line (DSL) Internet**: uses existing telephone lines for internet service. Operates on a higher frequency than phone calls, allowing simultaneous phone and internet usage. Requires a DSL modem to decode signals from the phone line. <br>
+- Advantages:<br>
+      &emsp;1. Availability: widely accessible in areas with phone lines, even in rural regions.<br>
+      &emsp;2. Dedicated Connection: unlike cable internet, DSL provides a consistent connection as it does not share bandwidth with neighbours<br>
+- Drawbacks: <br>
+      &emsp;1. Slower Speeds: typically slower than fiber and cable, with speeds ranging from a few Mbps to up to 100 Mbps.<br>
+      &emsp;2. Distance Sensitivity: performance decreases the further you are from the provider's central office.<br>
+- Ideal for users with lighter internet needs (e.g., web browsing, checking emails, basic streaming) in areas where faster options are unavailable.<br>
+- Wireless Internet Options:<br>
+      &emsp;1. **Radio Frequency (RF) Internet**: transmits data via radio signals between provider's antenna and the customer's receiver. Signals travel through the air.<br>
+            &emsp;&emsp;- Pros: ideal for remote or rural locations lacking DSL or cable infrastructure, faster setup since no physical cables are needed.<br>
+            &emsp;&emsp;- Cons: needs a clear path between the transmitter and receiver.<br>
+            &emsp;&emsp;- Ideal for users in rural areas w/o access to fiber, cable or DSL internet options.<br>
+      &emsp;2. **Satellite Internet**: utilises geostationary satellites to transmit data from space. A satellite dish at the customer's location receives the signals.<br>
+            &emsp;&emsp;- Pros: can reach remote and rural areas where the other internet services cannot.<br>
+            &emsp;&emsp;- Cons: delays due to the long-distance signal travel, susceptible to distruptions from weather conditions.<br>
+            &emsp;&emsp;- Ideal for remote areas where no other internet options are available.<br>
+      &emsp;3. **Cellular Internet**: uses cell towers to deliver internet via mobile networks. Devices like smartphones, mobile hotspots, or 4G/5G modems connect to the nearest cell tower.<br>
+            &emsp;&emsp;- Pros: provides internet access wherever there is a cellular signal, significant speed improvements from 3G to 4G to 5G (comparable speed to fibre optic internet in some cases).<br>
+            &emsp;&emsp;- Cons: many plans have data caps or restrict high-speed data usage, service gaps may occur in rural or remote areas despite widespread coverage.<br>
+            &emsp;&emsp;- Perfect for users needing mobile connectivity or those w/o access ti fixed-line internet services.<br>
 
 ## 4.0 - DATA STORAGE AND SHARING
 - Computing devices use wire and electricity to count in binary. (base 2)<br>
@@ -486,15 +577,15 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Every wire we added doubles the complexity.<br>
 - Modern operator comes in 32-bit and 64-bit.<br>
 - 32-bit CPU/OS can hanfle up to 4GB of RAM.<br>
-- Types of storage:
+- Types of storage:<br>
       &emsp;1) Primary Storage (RAM)<br>
-            &emsp;- Temporary storage used during data processing.<br>
-            &emsp;- Volatile: requires power to maintain stored data. Data is lost when power is cut off.<br>
-            &emsp;- Fast: crucial for real-time tasks.<br>
-            &emsp;- e.g.: Random Access Memory (RAM) .<br>
+            &emsp;&emsp;- Temporary storage used during data processing.<br>
+            &emsp;&emsp;- Volatile: requires power to maintain stored data. Data is lost when power is cut off.<br>
+            &emsp;&emsp;- Fast: crucial for real-time tasks.<br>
+            &emsp;&emsp;- e.g.: Random Access Memory (RAM) .<br>
       &emsp;2) Secondary Storage<br>
-            Non-Volatile: retains data even when power is turned off.<br>
-            &emsp;- e.g.: Hard Disk Drives (HDDs), Solid-State Drives (SSDs), Optical Storage, Cloud Storage, Read-Only Memory (ROM). <br>
+            &emsp;&emsp;Non-Volatile: retains data even when power is turned off.<br>
+            &emsp;&emsp;- e.g.: Hard Disk Drives (HDDs), Solid-State Drives (SSDs), Optical Storage, Cloud Storage, Read-Only Memory (ROM). <br>
 - Mass storage device:<br>
       &emsp;- It comes in many form each with variety of purposes, e.g., hard drive.<br>
       &emsp;- Can be built into a computer, like an internal HDD or SSD.<br>
