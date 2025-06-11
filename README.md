@@ -520,7 +520,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;- ideal for organisations seeking control over their infrastructure without investing in physical hardware.<br>
 - Control and Flexibility: different levels of control and flexibility across SaaS, PaaS, and IaaS. Users can choose a model based on their specific needs and technical expertise. <br>
 ![iaas-paas-saas](https://github.com/user-attachments/assets/bbf073d0-cfd5-4841-95a2-528615ba605c)
-- Deployment Models (Cloud Computing):
+- Deployment Models (Cloud Computing):<br>
       &emsp;1) **On-Premises (Private Cloud)**: infrastructure is hosted and managed in the organisation's own data center.<br>
             &emsp;&emsp;- Pros: greater control over data, security, and compliance.<br>
             &emsp;&emsp;- Cons: high cost and requires continuous management.<br>
