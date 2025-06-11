@@ -15,28 +15,28 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 
 
 ## 1.0 - IT CONCEPTS AND TERMINOLOGY
-- Computer Literacy: the ability to use computers and related technology efficiently, including understanding how they work and operate.<br>
+- **Computer Literacy**: the ability to use computers and related technology efficiently, including understanding how they work and operate.<br>
 - Computer systems work similarly hence knowing one system helps learn another.<br>
-- Computing Process: Input, Processing, Output, Storage (same for every device)<br>
+- **Computing Process**: Input, Processing, Output, Storage (same for every device)<br>
 - Input/Output devices enable communication with a computer enhancing capabilities of computers.<br>
 - Processing components handle commands.<br>
 - Storage devices save data and programs for later use.<br>
 - General-purpose computing devices, e.g., PCs, tablets, laptops, smartphones are adaptable, increasing their functionality and enables them to be more useful.<br>
 - Users can add apps to enable more functionality.<br>
-- Local Area Network (LAN): a basic computer network that connects devices within a limited area via switch. Local and usually small. Much faster. Server uses LAN to provide network.<br>
+- **Local Area Network (LAN)**: a basic computer network that connects devices within a limited area via switch. Local and usually small. Much faster. Server uses LAN to provide network.<br>
 - LAN Charateristics: Small, local, connected groups of devices. e.g.: P2P, small offices.<br>
-- Wide Area Network (WAN): Routers connect one or more LANs into a WAN.<br>
+- **Wide Area Network (WAN)**: Routers connect one or more LANs into a WAN.<br>
 - WAN Characteristics: Devices on different networks connect. e.g.: A company's global offices connecting to each other.<br>
-- Internet: LAN combined with WAN together.<br>
+- **Internet**: LAN combined with WAN together.<br>
 - LANs, WANs, and the Internet are paths to reach remotely-accessed computer systems.<br>
-- Remotely-Accessed Computer Systems: allow users to access a computer from a distance, either for work or other purposes enhancing local capabilities.<br>
-- Remote Server: a computer that stores and processes information, and is accessible over the internet, e.g., web servers, database servers, file servers.<br>
+- **Remotely-Accessed Computer Systems**: allow users to access a computer from a distance, either for work or other purposes enhancing local capabilities.<br>
+- **Remote Server**: a computer that stores and processes information, and is accessible over the internet, e.g., web servers, database servers, file servers.<br>
 - Online applications enable lighter (resource-wise) local machines and it resides in the remotely-accessed computer systems.<br>
 - Online storage and systems protects data from local crashes.<br>
-- Specialized Computer Systems: computers that are designed to perform specific tasks, rather than a wide range of tasks e.g., POS System, ATM, GPS, printers, joysticks, multifunction devices.<br>
+- **Specialized Computer Systems**: computers that are designed to perform specific tasks, rather than a wide range of tasks e.g., POS System, ATM, GPS, printers, joysticks, multifunction devices.<br>
 
 ## 1.1 - NOTATIONAL SYSTEM
-- Four major number systems; decimal system, binary system, hexadecimal system, and octal system. <br>
+- Four major number systems: decimal system, binary system, hexadecimal system, and octal system. <br>
 - Decimal System (Base-10)<br>
       &emsp;- Common number system that uses 10 digits; 0 ~ 9<br>
       &emsp;- Place value based on powers of 10 and its digit's value is determined by its position.<br>
