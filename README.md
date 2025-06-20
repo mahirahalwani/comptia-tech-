@@ -1,4 +1,4 @@
-## comptia-tech+ (FC0-U71)
+![image](https://github.com/user-attachments/assets/3f2e4172-f170-4022-a0ab-ba0b3b020604)## comptia-tech+ (FC0-U71)
 EXAM DATE: End of August 2025<br>
 QUESTIONS: 60 max; multiple choice format<br>
 TIME LIMIT: 60 minutes<br>
@@ -25,7 +25,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Users can add apps to enable more functionality.<br>
 - **Local Area Network (LAN)**: a basic computer network that connects devices within a limited area via switch. Local and usually small. Much faster. Server uses LAN to provide network.<br>
 - LAN Charateristics: Small, local, connected groups of devices. e.g.: P2P, small offices.<br>
-- **Wide Area Network (WAN)**: Routers connect one or more LANs into a WAN.<br>
+- **Wide Area Network (WAN)**: Spans large geographic areas and uses telecommunication lines, satellites, or VPNs to connect multiple LANs accross distances.<br>
 - WAN Characteristics: Devices on different networks connect. e.g.: A company's global offices connecting to each other.<br>
 - **Internet**: LAN combined with WAN together.<br>
 - LANs, WANs, and the Internet are paths to reach remotely-accessed computer systems.<br>
@@ -220,6 +220,8 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;3) Onboard NIC: built into the motherboard.<br>
       &emsp;4) Expansion Card NIC: added to enhance network capabilities or performance.<br>
 - NIC is essential for network communication and it allows access to local and online resources.<br>
+![NIC](https://github.com/user-attachments/assets/6de22b10-ed9e-40f2-b162-90880dcc8982)
+
 
 ## 2.1 - COMPUTING DEVICES
 - **Smartphones**: handheld, portable computing device combining the functionality of a mobile phone and a mini-computer.<br>
@@ -571,6 +573,43 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;- Cons: many plans have data caps or restrict high-speed data usage, service gaps may occur in rural or remote areas despite widespread coverage.<br>
             &emsp;&emsp;- Perfect for users needing mobile connectivity or those w/o access ti fixed-line internet services.<br>
 
+## 3.4 - NETWORKING CONCEPT
+- **Network**: system of interconnected devices (PCs, printers, servers) that share data and resoures.<br>
+- Goal: efficient data and resource sharing.<br>
+- Types of communication:<br>
+      &emsp;1. Wired Communication<br>
+            &emsp;&emsp;- uses physical cables (e.g.: ethernet)<br>
+            &emsp;&emsp;- provides reliable and fast data transfer.<br>
+      &emsp;2. Wireless Communication <br>
+            &emsp;&emsp;- utilizes radio waves (e.g.: Wi-Fi)<br>
+            &emsp;&emsp;- offers convenience but can be slower and more prone to interference than wired connections.<br>
+- **Data transmission**: data is transferred in packets (small chunks of info) and packets travel from the source to the destination across the network.<br>
+- **Protocols**: set of rules governing data transmission. Transmission Control Protocol / Internet Protocol (TCP/IP) is the most common protocol and ensures accurate data transmission.<br>
+- Analogy:
+      &emsp;1. Packets: letter <br>
+      &emsp;2. Protocol: postal system rules <br>
+      &emsp;3. Network: the road on which the letter travels <br>
+- **IP Addresses**: unique identifier for each device on a network. Two versions: IPv4 (4 numbers separated by periods) and IPv6 (8 groups of 4 hexadecimal digits designed to replace IPv4) <br>
+- **Media Access Control (MAC) Address**: unique hardware identifier assigned to network interface cards (NICs). 12-digit hexadecimal number, typically fixed by the manufacturer. Static, unlike IP addresses.<br>
+- **Ports**: logical endpoints for network communication. Services use specific port numbers. e.g.: HTTP (80), HTTPS (443), FTP (21), SMTP (25). Think of ports as dorrs allowing specific traffic types to enter or leave a device.<br>
+- **Secure Web Browsing**: uses Hypertext Transfer Protocol Secure (HTTPS) encrypts data between browser and web server. Essential for online shopping, banking, or handling sensitive info. <br>
+- **File Transfer**: enables moving files across networks. File Transfer Protocol (FTP) for basic file transfers. Secure File Transfer Protocol (SFTP) adds encryption for secure transfers.<br>
+- **Email Services**: utilizes multiple protocols for email functionality. Simple Mail Transfer Protocol (SMTP) for sending emails. Internet Message Access Protocol (IMAP) & Post Office Protocol version 3 (POP3) for receiving emails.<br>
+- **Modem**: converts digital data from computers into analog signals and vice versa. Connects your home network to the Internet Service Provider (ISP). Essential for accessing the internet via phone lines, cable systems, or fiber.<br>
+- **Router**: directs data packets between networks. Uses IP addresses to find the optimal path for data transmission. Provides Network Address Translation (NAT), allowing multiple devices to share one public IP address.<br>
+![modem vs router](https://github.com/user-attachments/assets/7fd2e74e-fc6e-4d07-bb10-2f8068acc12d)
+- **Switch**: connects devices within a local area network (LAN). Uses MAC adddresses to forward data efficiently to the correct device in the network. Enhances internal network communication speed and reliability.<br>
+- **Firewall**: monitors and controls incoming and outgoing network traffic. Can be hardware or software-based. Acts as a security barrier between internal networks and external threats by enforcing security policies.<br>
+- **Small Office Home Office (SOHO) Router**: combines the functionality of a router, switch, access point, and firewall all into one device. Typically used in home or small business environments.<br>
+- **Client / Server Model**: centralized model where servers provide services or resources to clients. Clients request access to services such as file storage, web hosting, and email services.<br>
+- **Peer-to-Peer (P2P) Model**: decentralized model where every device can act as both a client and a server. Devices share resources like files or printers directly with each other. Commonly used for small networks and file-sharing applications.<br>
+
+
+- <br>
+&emsp;1. <br>
+&emsp;- <br>
+&emsp;&emsp;- <br>
+
 ## 4.0 - DATA STORAGE AND SHARING
 - Computing devices use wire and electricity to count in binary. (base 2)<br>
 - 1 = ON, 0 = OFF<br>
@@ -739,7 +778,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Deep Learning: a deeper lever of machine learning.<br>
 
 ## 10.0 - CONFIGURING NETWORK AND INTERNET CONNECTIVITY
-- Networking is all about communciating.<br>
+- Networking is all about communicating.<br>
 - Computing devices can comminucate across great distances if they have the correct information. Proper routing of the data to the right device is important.<br>
 - How to accomplish this:<br>
       &emsp;1) Media Access Control (MAC) Address: a 12 digit hexadecimal number assign by the manifacturer that is unique to the network interface of the device. Can be checked through ipconfig /all command -> Physical Address<br>
@@ -791,7 +830,6 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 
 ## 11.0 - NETWORK SECURITY CONCEPTS
 - Successful local computer security means protecting access to your stuff from the bad guy. e.g.: piggybacking your Wi-Fi without us knowing.<br>
-- Phishing:
 - Unauthorized Access: lock your computer when you walk away from it even for a short period of time. Make sure your account is password-protected.<br>
 - Shoulder Surfing: always make sure there is no stranger's shoulders surfing behind you.<br>
 - Dumpster Diving: Make sure to shred any trash that you do not want prying eyes to see.<br>
