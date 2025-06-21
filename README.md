@@ -604,6 +604,49 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - **Client / Server Model**: centralized model where servers provide services or resources to clients. Clients request access to services such as file storage, web hosting, and email services.<br>
 - **Peer-to-Peer (P2P) Model**: decentralized model where every device can act as both a client and a server. Devices share resources like files or printers directly with each other. Commonly used for small networks and file-sharing applications.<br>
 
+## 3.5 - SMALL WIRELESS NETWORKS
+- IEEE 802.11 Standards: define how wireless devices communicate over a network.<br>
+- Parameters:<br>
+      &emsp;- Speed: data transfer rates<br>
+      &emsp;- Frequency: radio bands used<br>
+      &emsp;- Range: coverage area<br>
+ - Developed to meet increasing demands for faster speeds and better performance over time.<br>
+ - Commonly used standards: 802.11n (WiFi4), 802.11ac (WiFi5), 802.11ax (WiFi6)<br>
+- **802.11 (WiFi4)**:<br>
+      &emsp;- released in 2009: still widely used in home and small business networks.<br>
+      &emsp;- dual-band support: operates on both 2.4GHz and 5GHz frequency bands. Users can select a frequency based on performance or congestion needs.<br>
+      &emsp;- Speeds up to 600 Mbps: significantly faster than previous standards.<br>
+      &emsp;- Multiple Input Multiple Output (MIMO): utilizes multiple antennas for transmitting and receiving data. Improves both speed and range.<br>
+      &emsp;- suitability: basic internet activities (web browsing, video streaming, email)<br>
+      &emsp;- Limitation: outperformed by more recent WiFi standards that offer faster speeds and better network congestion management.<br>
+- **802.11ac (WiFi5)**:<br>
+      &emsp;- introduced in 2014: improved wireless speeds and performance compared to previous standards.<br>
+      &emsp;- faster speeds: capable of up to 3.5Gbps under optimal conditions; over 5 times faster than 802.11n.<br>
+      &emsp;- 5 GHz frequency band focus: primarily operates in the less crowded 5GHz band. Reduced interference and faster data transfer compared to 2.4GHz band.<br>
+      &emsp;- Multi-User MIMO: enhances MIMO technology by enabling multiple devices to receive data simultaneously. Ideal for high-device environments.<br>
+      &emsp;- suitable for: high-definition video streaming, online gaming, multiple device connections.<br>
+      &emsp;- significant improvement: major advancement over 802.11n in speed and performance, though newer standards emerged to meet growing device demands.<br>
+- **802.11ax (WiFi6)**:<br>
+      &emsp;- released in 2019: prioritizes enhanced speed, efficiency, and capacity over previous standards.<br>
+      &emsp;- higher speed: supports speeds up to 9.6Gbps.<br>
+      &emsp;- efficient multi-device management: utilizes Orthogonal Frequency Division Multiple Access (OFDMA); divides channels into smaller allocations for simultaneous device connections to reduce congestion, ideal for high-traffic networks.<br>
+      &emsp;- Target Wake Time (TWT): optimizes power usage for connected devices, allow devices to transmit data only when needed.<br>
+      &emsp;- Multi-Band Operations: operates on 2.4GHz, 5GHz, and 6GHz. Provides backward compatibility and flexibility. Expands to 6GHz for more bandwidth and less interference.<br>
+      &emsp;- suitable for: high-density environments with many devices, stable high-speed connections.<br>
+      &emsp;- designed for modern demands: delivers improved performance in crowded environments. Provides faster and more reliable connections for today's devices.<br>
+- **Interference**: occurs when multiple devices operate on the same frequency band, degrading signal quality. Devices on the 2.4GHz band are especially prone to interference.<br>
+- Common sources of interference: microwaves, baby monitors, Bluetooth devices.<br>
+- **Attenuation**: the weakening of a signal as it travels through air or obstacles. Higher frequency bands, such as 5GHz and 6GHz, are more susceptible to attenuation.<br>
+- Band Options:<br>
+      &emsp;1. **2.4GHz Band**<br>
+            &emsp;&emsp;- Longer Range, Longer Speeds: greater reach, better wall penetration but slower max speeds compared to higher bands. <br>
+            &emsp;&emsp;- Crowded Bands: common in household devices, causing potential interference.<br>
+      &emsp;2. **5GHz Band**<br>
+            &emsp;&emsp;- Higher Speeds, Shorter Range: faster data transfer rates, reduced range.<br>
+            &emsp;&emsp;- Less Interference: fewer devices use this band, leading to less interference.<br>
+      &emsp;3. **6GHz Band**<br>
+            &emsp;&emsp;- New & Efficient: newest frequency band, offering faster speeds and lower latency.<br>
+            &emsp;&emsp;- Less Congestion: fewer devices operate on this band, providing a cleaner experience <br>
 
 - <br>
 &emsp;1. <br>
