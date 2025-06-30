@@ -731,6 +731,16 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Advancement: Storage devices are becoming faster, more compact, and efficient.<br>
 
 ## 5.0 - UNDERSTANDING OPERATING SYSTEMS
+- Every computing device has an operating system (OS), e.g., windows, macOS, Chrome OS, Linux, iOS, Androids.<br>
+- OS provides user interface (a way to interact with the OS), coordination among hardware, monitors health and way to store and retrieve data.<br>
+- HWMonitor: help you keep tabs on various hardware parameters in your computer system.<br>
+- Most OS have similar user interfaces, but use different names, e.g., Windows has Start Screen and taskbar; macOS has the Dock; Windows uses File Explore, macOS uses Finder.<br>
+- Boot camp is used for dual-boot machine but can only be downloaded on mac.<br>
+- Without an OS, the computing device can't run any software or other programs.<br>
+- Firefox is a third-party browser.<br>
+- System applet: where you can find what version of Windows is running on a computer.<br>
+- Desktop: where files, folders and shortcuts to files and programs can be seen.<br>
+- Devices and printers: where you can see which printers are available for use, and documents is where files you created can be stored.<br>
 - **Compression**: reduces file and folder size to save disk space. <br>
 - Types of Filesystem: <br>
       &emsp;1. Lossless Compression: no data loss (e.g., ZIP files).<br>
@@ -792,16 +802,48 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;2. Date Created / Modified: tracks when the file was created and last modified.<br>
       &emsp;3. File Type: indicates the file format, determined by the file extension (e.g., .txt, .exe).<br>
 - Importance: helps manage files efficiently, control access, and track file modifications.<br>
-- Every computing device has an operating system (OS), e.g., windows, macOS, Chrome OS, Linux, iOS, Androids.<br>
-- OS provides user interface (a way to interact with the OS), coordination among hardware, monitors health and way to store and retrieve data.<br>
-- HWMonitor: help you keep tabs on various hardware parameters in your computer system.<br>
-- Most OS have similar user interfaces, but use different names, e.g., Windows has Start Screen and taskbar; macOS has the Dock; Windows uses File Explore, macOS uses Finder.<br>
-- Boot camp is used for dual-boot machine but can only be downloaded on mac.<br>
-- Without an OS, the computing device can't run any software or other programs.<br>
-- Firefox is a third-party browser.<br>
-- System applet: where you can find what version of Windows is running on a computer.<br>
-- Desktop: where files, folders and shortcuts to files and programs can be seen.<br>
-- Devices and printers: where you can see which printers are available for use, and documents is where files you created can be stored.<br>
+
+## 5.1 - OPERATING SYSTEMS PURPOSE
+- Interface Between Apps and Hardware:<br>
+      &emsp;- OS as a bridge: acts as an intermediary between hardware and software apps. Translates app requests into hardware commands, ensuring smooth resource usage.<br>
+      &emsp;- Apps Requests & Hardware Response: apps request resources from the OS, OS uses hardware drivers to manage there requests and access the necessary components.<br>
+      &emsp;- Hardware Independence: apps do not need to understand hardware complexities. OS handles hardware-specific tasks, enabling apps to run on different devices seamlessly.<br>
+- **Disk Management**: invloves how the OS manages data storage, access, and organization on disk drives.<br>
+      &emsp;- Key Components:<br>
+            &emsp;&emsp;1. Partitioning: divides physical storage into multiple logical units (partitions) for organization, e.g., separating OS from personal files.<br>
+            &emsp;&emsp;2. Formatting: prepares partitioned space by creating a file system (e.g., NTFS for Windows, APFS for macOS, ext4 for Linux).<br>
+            &emsp;&emsp;3. File Organization: stores files in directories (folders) and manages their access and retrieval.<br>
+      &emsp;- Additional Functions:<br>
+            &emsp;&emsp;1. Disk Space Monitoring: alerts when storage is low.<br>
+            &emsp;&emsp;2. Maintenance Tools: utilities like Disk Cleanup (windows) to manage and remove unnecessary files.<br>
+- **Task and Process Management**: every action on a computer is carried out as a process, managed by the OS<br>
+      &emsp;1. Multitasking: ability to run multiple processes simultaneously. OS rapidly switches between tasks, creating the illusion of concurrent execution.<br>
+      &emsp;2. Priority Levels: OS assigns priority levels to processes. Critical processes get more CPU time than less important background tasks.<br>
+      &emsp;3. Memory Allocation: OS allocates memory to different apps, preventing data interference. Virtual memory is used to extend physical memory using disk space.<br>
+      &emsp;4. Task Manager (Windows): tool to view running processes, memory usage, CPU utilization. Allows termination of unresponsive apps.<br>
+- **Application Management**: <br>
+      &emsp;1. OS's role: provides a platform for installing, running, and managing software apps.<br>
+      &emsp;2. Software Installation and Removal: installs apps by copying files and configuring them. Supports clean uninstallation, removing all associated files and settings.<br>
+      &emsp;3. Apps Updates: offers centralized update services to keep apps up to date (e.g., Windows Update, macOS App Store).<br>
+      &emsp;4. App Compatibility: ensures proper functioning of apps by supporting backward compatibility with order software versions.<br>
+- **Device Management**: how an OS manages hardware devices connected to the system, ensuring smooth communication between the OS and hardware components.<br>
+      &emsp;- Key Functions:<br>
+            &emsp;&emsp;1. Driver Installation and Updates: OS installs and updates software drivers that enable hardware devices to function correctly. Ensures compatibility and optimal performance of devices.<br>
+            &emsp;&emsp;2. Plug-and-Play: automatically detects and installs drivers for newly connected hardware devices without manual intervention. Simplifies hardware setup and integration.<br>
+            &emsp;&emsp;3. Resource Allocation: OS manages and assigns critical system resources such as I/O ports and memory addresses to devices. Prevents conflicts between devices sharing the same resources.<br>
+      &emsp;- Importance: ensures the computer recognizes and uses hardware components effectively. Without proper device management, devices may fail to function or cause system instability.<br>
+- Access Control in OS: refers to the system's ability to manage and restrict who can access files, folders, and system resources. Protects sensitive data by ensuring users only have the access they need.<br>
+      &emsp;1. User Accounts: the OS allows creation and management of accounts with varying access levels (e.g., admin, standard user, guest).<br>
+      &emsp;2. Permissions: control over actions on files or folders, such as read, write, and execute permissions.<br>
+      &emsp;3. Authentication: verifies user identify via methods like passwords, biometrics, or two-factor auhentication (2FA).<br>
+- Types of OS:<br>
+      &emsp;1. **Mobile Device OS**: designed for smartphones, tablets, and wearables. e.g., iOS (Apple), Android (Google). Optimized for touch input, power efficiency, and app ecosystems. <br>
+      &emsp;2. **Desktop/Workstation OS**: designed for personal computers in homes, offices, and schools. e.g., Windows, macOS, Linux. Supports diverse apps for productivity entertainment, and general use.<br>
+      &emsp;3. **Server OS**: built to manage network resoruces and provide services to multiple users. e.g., Windows Server, Linux Server, UNIX-based systems. Optimized for stability, security, and 24/7 performance with features like virtualization and remote admin.<br>
+      &emsp;4. **Embedded OS**: designed for specific devices requiring real-time or dedicated functionality. e.g., RTOS, Android for IoT, Raspberry Pi OS (Linux-based). Found in devices like smart appliances, industrial machines, and medical equipment.<br>
+
+## 5.2 - COMPUTER SOFTWARE
+
 
 - <br>
 &emsp;1. <br>
