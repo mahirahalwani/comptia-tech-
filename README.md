@@ -843,9 +843,58 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;4. **Embedded OS**: designed for specific devices requiring real-time or dedicated functionality. e.g., RTOS, Android for IoT, Raspberry Pi OS (Linux-based). Found in devices like smart appliances, industrial machines, and medical equipment.<br>
 
 ## 5.2 - COMPUTER SOFTWARE
+- **Productivity Software**:tools designed to enhance efficiency in completing tasks. Widely used in personal and business environments.<br>
+      &emsp;1. Word Processing Software: <br>
+            &emsp;&emsp;- Ex: Microsoft Word, Google Docs, Apple Pages.<br>
+            &emsp;&emsp;- Purpose: create, edit, and format text documents (e.g., letters, reports)<br>
+            &emsp;&emsp;- Features: text formatting, inserting images/tables, spell check.<br>
+            &emsp;&emsp;- Proper Use: ideal for formal documents, use templates for professional consistency, leverage real-time collaboration tools for teamwork.<br>
+      &emsp;2. Spreadsheet Software: <br>
+            &emsp;&emsp;- Ex: Microsoft Excel, Google Sheets.<br>
+            &emsp;&emsp;- Purpose: organize and analyze data (e.g., budgeting, project tracking).<br>
+            &emsp;&emsp;- Features: formulas, functions, data visualization (charts, graphs).<br>
+            &emsp;&emsp;- Proper Use: best for numerical data and alaysis, utilize pivot tables and built-in functions for large datasets.<br>
+      &emsp;3. Presentation Software:<br>
+            &emsp;&emsp;- Ex: Microsoft PowerPoint, Google Slides.<br>
+            &emsp;&emsp;- Purpose: create visual presentations for meetings, seminars, reports.<br>
+            &emsp;&emsp;- Features: slideshows with text, images, and multimedia.<br>
+            &emsp;&emsp;- Proper Use: focus on simplicity, key points per slide. Use animations/transitions to engage the audience.<br>
+      &emsp;4. Visual Diagramming Software:<br>
+            &emsp;&emsp;- Ex: Microsoft Visio, Lucidchart.<br>
+            &emsp;&emsp;- Purpose: illustrates workflows, processes, and system architecture.<br>
+            &emsp;&emsp;- Features: flowcharts, network diagrams, organizational charts.<br>
+            &emsp;&emsp;- Proper Use: simplify complex ideas with visual aids, use appropriate symbols/labels for clarity in diagrams.<br>
+- **Collaboration Software**: essential for modern workplaces, especially with remote and hybrid work environments. Facilitates teamwork, communication, and project management.<br>
+      &emsp;1. Email Client Software:<br>
+            &emsp;&emsp;- Ex: Microsoft Outlook, Gmail, Mozilla Thunderbird.<br>
+            &emsp;&emsp;- Purpose: send, receive, and manage email communications.<br>
+            &emsp;&emsp;- Proper Use: organize emails with folders and filters. Use formal communication etiquette.<br>
+      &emsp;2. Conferencing Software:<br>
+            &emsp;&emsp;- Ex: Zoom, Microsoft Teams, Cisco WebEx.<br>
+            &emsp;&emsp;- Purpose: virtual meetings for remote work, presnetations, webinars, and training.<br>
+            &emsp;&emsp;- Proper Use: test audio/video, use screen sharing, follow meeting agendas.<br>
+      &emsp;3. Online Workspace Software:<br>
+            &emsp;&emsp;- Ex: Microsoft Teams, Slack, Google Workspace.<br>
+            &emsp;&emsp;- Purpose: Real-time collaboration through chat, file sharing, and task management.<br>
+            &emsp;&emsp;- Proper Use: organize workspaces by channels/topics and integrate third-party apps.<br>
+      &emsp;4. Document Sharing Software:<br>
+            &emsp;&emsp;- Ex: Google Drive, Dropbox, OneDrive.<br>
+            &emsp;&emsp;- Purpose: share, edit, and collaborate on documents with version control.<br>
+            &emsp;&emsp;- Proper Use: utilize version history, commenting, and organized file naming.<br>
+- **Instant Messagging (IM) Software**: real-time, text-based communication software.<br>
+      &emsp;- Ex: Microsoft Teams Chat, Slack, WhatApp.<br>
+      &emsp;- Purpose: facilitates quick, informal communication between colleagues or team members. Often replaces email for internal conversations, especially for fast responses to questions and updates.<br>
+      &emsp;- Proper Use: use for short, immediate messages - not for formal discussions or detailed project updates. Keep messages concise and use status indicators to communicate availability. Avoid sending sensitive info unless using secure platform.<br>
+      &emsp;- Benefits: enhances communication speed and accessibility in both workplace and personal settings.<br>
+&emsp;- **Web Browsing Software**: web browsers enable users to access websites, services, and web apps.<br>
+      &emsp;- Ex: Google Chrome, Mozilla Firefox, Microsoft Edge, Safari.<br>
+      &emsp;- Purpose: Navigates the web, facilitating activities like research, online shopping, and streaming. Acts as a platform for accessing a vast range of online resources.<br>
+      &emsp;- Proper Use: use browsers for online content such as research, entertainment, and web-based apps. Be mindful of privacy and security. Use features like incognito mode to prevent tracking, keep browsers and extensions up-to-date to avoid security risks.<br>
+&emsp;- **Remote Support Software**:<br>
+      &emsp;- Ex: TeamViewer, AnyDesk, Remote Desktop.<br>
+      &emsp;- Purpose: allows technicians to access and control computers remotely. Used by IT support teams for troubleshooting and issue resolution without physical presence. Enables remote access for software installation, configuration, and maintenance.<br>
+      &emsp;- Proper Use: assist users in solving technical problems or performing system maintenance. Ensure secure remote access by using encryption and strong authentication methods. Always obtain user permission before accessing their system remotely.<br>
 
-
-- <br>
 &emsp;1. <br>
 &emsp;- <br>
 &emsp;&emsp;- <br>
