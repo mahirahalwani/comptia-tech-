@@ -648,10 +648,6 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;- New & Efficient: newest frequency band, offering faster speeds and lower latency.<br>
             &emsp;&emsp;- Less Congestion: fewer devices operate on this band, providing a cleaner experience <br>
 
-- <br>
-&emsp;1. <br>
-&emsp;- <br>
-&emsp;&emsp;- <br>
 
 ## 4.0 - DATA STORAGE AND SHARING
 - Computing devices use wire and electricity to count in binary. (base 2)<br>
@@ -735,6 +731,67 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Advancement: Storage devices are becoming faster, more compact, and efficient.<br>
 
 ## 5.0 - UNDERSTANDING OPERATING SYSTEMS
+- **Compression**: reduces file and folder size to save disk space. <br>
+- Types of Filesystem: <br>
+      &emsp;1. Lossless Compression: no data loss (e.g., ZIP files).<br>
+      &emsp;2. Lossy Compression: some data may be lost, commonly used for audio/video files.<br>
+- Impact: improves storage efficiency but can affect performance during file access or mofication.<br>
+- **Encryption**: converts files into unreadable formats to protect sensitive info and helps prevent unauthorized access. Common encryption standards includes Advanced Encryption Standard (AES) for secure data protection.<br>
+- Types and extensions: determines how files are named, stored, and accessed.<br>
+- Common filesystem types:<br>
+      &emsp;- New Technology File System (NTFS): used by Windows, supports large files, permissions, encryption, and compression.<br>
+      &emsp;- File Allocation Table 32 (FAT32): compatible with many devices but limited to 4GB max file sizes.<br>
+      &emsp;- Fourth Extended Filesystem (EXT4): used by Linux, supports journaling for data integrity.<br>
+- **File Extensions**: (.txt, .exe, .jpg) indicate file types and dictate how the OS manages each file.<br>
+- **Folders / Directories**: containers used to organize files in a hierarchical structure enabling efficient storage and retrieval of files. Comparable to gile cabinets, where each cabinet contains folders and each folder contains documents.<br>
+- **Permissions**: control access to files and directories, ensuring security.<br>
+      &emsp;- Read: allows viewing file or directory contents.<br>
+      &emsp;- Write: allows modifying or deleting files or directories.<br>
+      &emsp;- Execute: allows running files as programs (especially relevant for scripts or apps).<br>
+- Naming restrictions: varies by OS.<br>
+      &emsp;1. Windows: up to 255 characters, but certain symbols (, /, :, *, ?, ", <, >, |) are prohibited. <br>
+      &emsp;2. Linux / UNIX: case-sensitive, almost any character allowed except / .<br>
+- Importance of File Management:<br>
+      &emsp;- ensures organized data storage.<br>
+      &emsp;- prevents unauthorized access.<br>
+      &emsp;- maintains a clean and efficient system.<br>
+- OS System Apps & Utilities: essential tools provided by OS to manage and maintain the computer.<br>
+- System Apps (Core OS Apps):<br>
+      &emsp;1. File Explorer (Windows) / Finder (macOS): navigate, open, and manage files and folders.<br>
+      &emsp;2. Control Panel (Windows) / Settings (macOS): configure system settings (display network, device management)<br>
+- Utilities (Maintenance Tools):<br>
+      &emsp;1. Disk Cleanup (Windows) / Storage Management (macOS): free up space by removing unnecessary files.<br>
+      &emsp;2. Task Manager (Windows) / Activity Monitor (macOS): monitor running apps, processes, and system performance.<br>
+      &emsp;3. Antivirus / Antimalware Software: protect against malicious software threats.<br>
+- **Services**: also known as "background processes". Programs running in the background to perform specific tasks, which can be started automatically with the OS or manually as needed. e.g., Print Spooler: manages print jobs sent to a printer.<br>
+- **Processes**: any running instance of a program.<br>
+      &emsp;1. Foreground Processes: visible to the user (e.g., web browser, text editor).<br>
+      &emsp;2. Background Processes: hidden, typically system services that support foreground processes.<br>
+- **Drivers**: specialized software that enables communication between the OS and hardware devices.<br>
+      &emsp;- Purpose: act as a translator between hardware components and the OS.<br>
+      &emsp;- e.g., a print driver sends correct print commands when a printer is connected.<br>
+      &emsp;- Functionality: ensure hardware devices function correctly and efficiently.<br>
+      &emsp;- UpdatesL drivers may need to be updated for compatibility with OS and performance improvements or new features.<br>
+- Main Types of Interfaces:<br>
+      &emsp;1. **Console / Command Line Interface (CLI)**: user interacts by typing commands into a console or terminal. Powerful for executing tasks quickly, especially for system adms and power users.<br>
+      &emsp;&emsp;- Windows: Command Prompt or PwerShell.<br>
+      &emsp;&emsp;- macOS/ Linux: Terminal (bash, zsh, etc.)<br>
+      &emsp;2. **Graphical User Interface (GUI)**: provides visual interaction through windows, icons, and menus. User-friendly and commonly used in daily computing.<br>
+      &emsp;&emsp;- Windows Desktop Environment: Start Menu, Taskbar, app windows.<br>
+      &emsp;&emsp;- macOS Finder / Desktop: Dock, file explorer, menu bar.<br>
+      &emsp;&emsp;- Linux: Desktop environments like GNOME, KDE Plasma, XFCE.<br>
+- Use cases:<br>
+      &emsp;1. CLI: efficient command execution, task automation.<br>
+      &emsp;2. GUI: easy navigation, visual interaction.<br>
+- File Attributes:<br>
+      &emsp;1. Read-Only: prevents modification or deletion of the file.<br>
+      &emsp;2. Hidden: makes the file invisible to standard directory listings unless special settings are enabled.<br>
+      &emsp;3. Archive: marks the file for backup, indicating it has been changed.<br>
+- File Properties:<br>
+      &emsp;1. File Size: shows how much disk space the file occupies.<br>
+      &emsp;2. Date Created / Modified: tracks when the file was created and last modified.<br>
+      &emsp;3. File Type: indicates the file format, determined by the file extension (e.g., .txt, .exe).<br>
+- Importance: helps manage files efficiently, control access, and track file modifications.<br>
 - Every computing device has an operating system (OS), e.g., windows, macOS, Chrome OS, Linux, iOS, Androids.<br>
 - OS provides user interface (a way to interact with the OS), coordination among hardware, monitors health and way to store and retrieve data.<br>
 - HWMonitor: help you keep tabs on various hardware parameters in your computer system.<br>
@@ -746,6 +803,10 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Desktop: where files, folders and shortcuts to files and programs can be seen.<br>
 - Devices and printers: where you can see which printers are available for use, and documents is where files you created can be stored.<br>
 
+- <br>
+&emsp;1. <br>
+&emsp;- <br>
+&emsp;&emsp;- <br>
 ## 6.0 - SETTING UP AND CONFIGURING A PC
 - For overall comfort, the ideal temperature is 72 Fahrenheit and 50% humidity.<br>
 - Monitor should be 16-24 inches away from the user.<br>
