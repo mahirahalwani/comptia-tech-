@@ -906,21 +906,49 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 
 ## 5.3 - WEB BROWSERS
 - Browsers: to allow browsing the internet. Each browser generally have default search engine. You can change your preferred search engine. e.g.: Safari -> Google , Chrome -> Google, Brave -> Brave<br>
-
-- Profile Synchronization: when you can go to any device and log in and see your themes, bookmarks, items, and features. It creates a seamless and wonderful user experience from one device to another.<br>
+- **Private Browsing (Icnognito Mode)**: prevents browsing history, cookies, and site data from being saved locally. Known as "Incognito Mode" in Chrome and similar names in other browsers.<br>
+      &emsp;- Use Cases: ideal when shopping for surprise gifts or logging into accounts on shared computers. Prevents other users on the same device from seeing your activity.<br>
+      &emsp;- How to Activate: open a private window by selecting New Incognito Window or New Private Window from the browser menu.<br>
+      &emsp;- Example Scenario: logging into an email account on a public or shared computer, such as in a library. without saving login credentials.<br>
+      &emsp;- Limitations: does not hide activity from Internet Service Providers (ISP) or websites visited.<br>
+- **Browser Add-Ons / Extensions**: small software programs that enhance browser functionality. e.g., Ad blockers, grammar checkers, password managers.<br>
+      &emsp;- adding extensions: access the browser's web store > search for the extension > click Add to Browser <br>
+      &emsp;- managing extensions: navigate to browser settings > view installed extensions > disable or remove as necessary to optimize performance.<br>
+      &emsp;- performance impact: too many extensions can slow down your browser, poorly designed extensions may introduce security risks.<br>
+- **Cache & Clearing Cache**: browsers store copies of web pages, images, and other media. Helps load websites faster on future visits. Clearing cache or temporary memory is crucial and should be done periodically.<br>
+      &emsp;- potential issues with caching: can display outdated content, may cause websites to not load properly or show recent updates. <br>
+      &emsp;- how to clear cache: access the browser's settings menu > navigate to the privacy or history section > select Clear Browsing Data and choose Cache.<br>
+      &emsp;- when to clear cache: if websites are not loading correctly, to display the most recent content.<br>
+      &emsp;- benefits of clearing cache: frees up storage space, improves browser performance.<br>
+- **Pop-Up Blockers**: prevent intrusive ads from appearing, help protect users from malicious websites and unwanted content. It is enabled by default.<br>
+      &emsp;- managing pop-up blockers: most browsers have a built-in pop-up blockers. Control which sites are allowed or blocked from showing pop-ups.<br>
+- **Compatible Browser for Apps**: some web apps are designed to work optimally with specific browsers or versions.<br> 
+      &emsp;- importance of compatibility checks: confirm browser compatibility before using web-based apps, especially for business-critical tools. Prevents issues like poor funtionality or incorrect display of important features. <br>
+- **Profile Synchronization**: synchronizes browser settings, bookmarks, history, and passwords. It creates a seamless and wonderful user experience from one device to another.<br>
+      &emsp;- easy setup: sign in with an account, changes made on one device automatically sync to others where you're logged in.<br>
+      &emsp;- boost productivity: smooth transition between devices without losing browsing data, ensures continuity and convenience throughout the day.<br>
+      &emsp;&emsp;- **Bookmarks**: bookmarks allow you to save and access frequently visited websites quickly. Organized bookmarks improve workflow and reduce time spent searching for important websites.<br>
+- **Default Search Engine**: each browser has a default search engine. Users can customize and change the default based on their preference.<br>
+      &emsp;- changing the search engine: navigate to browser settings > locate the Search Engine section > select from available options.<br>
+      &emsp;- why customize: tailors the browsing experience to personal needs, ensures all searches are routed through the preferred search engine.<br>
 - Extension: embedded application to enhance functionality of the browsers. Extension comes in all size and shape depending on the feature you are looking for, there probably is an extension for it.<br>
-- Clearing cache or temporary memory is crucial. Cache stores cookie files that store interactions with different websites, settings, and preffered features. Although it provides enhance user experience, attacker can use it to be able to gather information. Browser history should be cleared out periodically.<br>
-- Nothing is completely private but we can increase privacy by using private browser like incognito window.<br>
-- Pop-up Blocker: stops potentially annoying or even potentially malicious pop-up from taking your internet browsing experience. It is enabled by default.<br>
-- Artifical Intelligence: can analyse data, make suggestions, create contents, solve problems, and make decisions. It is a combination of different components of Computer Science, Mathematics, Cognitive Science as well as other fields.<br>
-- Machine Learning: ability of the machine to learn and grow. Made up of three components: representation, evaluation, and optimization.<br>
-- Natural Language Processing: ability to understand human language. Consists of understanding, processing, and communication.<br>
-- AI Chatbot: a conversational agent. Does not design to do complex features and functions. Can ony handle simple tasks that is mostly pre-design.<br>
-- AI Virtual Assistants: can complete more comprehensive assistance and complex activities. Can carry more "real" conversations. e.g.: Siri, Google Assistant.<br>
-- Generative AI: an AI-created content. e.g.: ChatGPT, Bard. It can really increase the speed and efficiency.<br>
-- AI-Generated Code: a programming that is written in different programming language.<br>
-- AI-Generated Content: using natural language processing, machine learning, and deep learning.<br>
-- Deep Learning: a deeper lever of machine learning.<br>
+- **Password Management**: browsers save encrypted passwords for websites.<br>
+      &emsp;- best practices: use strong, unique passwords for each account, consider using a dedicated password manager for additional security and convenience.<br>
+      &emsp;- security tip: always verify the encryption of saved passwords within the browser or external manager.<br>
+- **Accessibility Features in Modern Browsers**: ensures inclusivity for users with varying abilities and enhances user experience by making web browsing comfortable for everyone.<br>
+      &emsp;- Key features:<br>
+            &emsp;&emsp;- Text Resizing: allows users to increase or decrease font size for easier reading.<br>
+            &emsp;&emsp;- Screen Readers: assists users with visual impairments by reading aloud web content.<br>
+            &emsp;&emsp;- High-Contrast Mode: improves visibility by enhancing contrast between text and background.<br>
+- **Artifical Intelligence**: can analyse data, make suggestions, create contents, solve problems, and make decisions. It is a combination of different components of Computer Science, Mathematics, Cognitive Science as well as other fields.<br>
+- **Machine Learning**: ability of the machine to learn and grow. Made up of three components: representation, evaluation, and optimization.<br>
+- **Natural Language Processing**: ability to understand human language. Consists of understanding, processing, and communication.<br>
+- **AI Chatbot**: a conversational agent. Does not design to do complex features and functions. Can ony handle simple tasks that is mostly pre-design.<br>
+- **AI Virtual Assistants**: can complete more comprehensive assistance and complex activities. Can carry more "real" conversations. e.g.: Siri, Google Assistant.<br>
+- **Generative AI**: an AI-created content. e.g.: ChatGPT, Bard. It can really increase the speed and efficiency.<br>
+- **AI-Generated Code**: a programming that is written in different programming language.<br>
+- **AI-Generated Content**: using natural language processing, machine learning, and deep learning.<br>
+- **Deep Learning**: a deeper lever of machine learning.<br>
 
 - <br>
 &emsp;1. <br>
