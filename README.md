@@ -752,7 +752,9 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- New Technology File System (NTFS): used by Windows, supports large files, permissions, encryption, and compression.<br>
       &emsp;- File Allocation Table 32 (FAT32): compatible with many devices but limited to 4GB max file sizes.<br>
       &emsp;- Fourth Extended Filesystem (EXT4): used by Linux, supports journaling for data integrity.<br>
-- **File Extensions**: (.txt, .exe, .jpg) indicate file types and dictate how the OS manages each file.<br>
+- **File Association**: a link between a file type and the application that opens it.<br>
+- Compression Files: squish a big file to a smaller file.<br>
+- **File Extensions**: (.txt, .exe, .jpg) extension that relates with the associate program.<br>
 - **Folders / Directories**: containers used to organize files in a hierarchical structure enabling efficient storage and retrieval of files. Comparable to gile cabinets, where each cabinet contains folders and each folder contains documents.<br>
 - **Permissions**: control access to files and directories, ensuring security.<br>
       &emsp;- Read: allows viewing file or directory contents.<br>
@@ -821,10 +823,15 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;2. Priority Levels: OS assigns priority levels to processes. Critical processes get more CPU time than less important background tasks.<br>
       &emsp;3. Memory Allocation: OS allocates memory to different apps, preventing data interference. Virtual memory is used to extend physical memory using disk space.<br>
       &emsp;4. Task Manager (Windows): tool to view running processes, memory usage, CPU utilization. Allows termination of unresponsive apps.<br>
+- Programming: creates apps to enable users to do stuff.<br>
+- Life cycles of apps: Install, update, uninstall.<br>
+- **User Account Control**: security feature in Windows to stop malicious software from installing without permission.<br>
+- **Security Patches**: software updates that fix vulnerabilities in a program or OS to prevent cybercriminals from exploiting them.<br>
+- Check for Updates: from the application.<br>
 - **Application Management**: <br>
       &emsp;1. OS's role: provides a platform for installing, running, and managing software apps.<br>
-      &emsp;2. Software Installation and Removal: installs apps by copying files and configuring them. Supports clean uninstallation, removing all associated files and settings.<br>
-      &emsp;3. Apps Updates: offers centralized update services to keep apps up to date (e.g., Windows Update, macOS App Store).<br>
+      &emsp;2. Software Installation and Removal: installs apps by inserting an optical disk or copying files from the Internet and configuring them. Supports clean uninstallation, removing all associated files and settings.<br>
+      &emsp;3. Apps Updates: offers centralized update services to keep apps up to date (e.g., Windows Update, macOS App Store). Need to check updates from the apps.<br>
       &emsp;4. App Compatibility: ensures proper functioning of apps by supporting backward compatibility with order software versions.<br>
 - **Device Management**: how an OS manages hardware devices connected to the system, ensuring smooth communication between the OS and hardware components.<br>
       &emsp;- Key Functions:<br>
@@ -894,7 +901,28 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Ex: TeamViewer, AnyDesk, Remote Desktop.<br>
       &emsp;- Purpose: allows technicians to access and control computers remotely. Used by IT support teams for troubleshooting and issue resolution without physical presence. Enables remote access for software installation, configuration, and maintenance.<br>
       &emsp;- Proper Use: assist users in solving technical problems or performing system maintenance. Ensure secure remote access by using encryption and strong authentication methods. Always obtain user permission before accessing their system remotely.<br>
+- **Open source**: programmer has created and shared it for free use, but not commercially use. We can change and implement the code if we share it. Open source may not have the newest feature and not being updated frequently.<br>
+- Updating an application as frequent as possible is a must. Microsoft makes update every first Tuesday of the month.<br>
 
+## 5.3 - WEB BROWSERS
+- Browsers: to allow browsing the internet. Each browser generally have default search engine. You can change your preferred search engine. e.g.: Safari -> Google , Chrome -> Google, Brave -> Brave<br>
+
+- Profile Synchronization: when you can go to any device and log in and see your themes, bookmarks, items, and features. It creates a seamless and wonderful user experience from one device to another.<br>
+- Extension: embedded application to enhance functionality of the browsers. Extension comes in all size and shape depending on the feature you are looking for, there probably is an extension for it.<br>
+- Clearing cache or temporary memory is crucial. Cache stores cookie files that store interactions with different websites, settings, and preffered features. Although it provides enhance user experience, attacker can use it to be able to gather information. Browser history should be cleared out periodically.<br>
+- Nothing is completely private but we can increase privacy by using private browser like incognito window.<br>
+- Pop-up Blocker: stops potentially annoying or even potentially malicious pop-up from taking your internet browsing experience. It is enabled by default.<br>
+- Artifical Intelligence: can analyse data, make suggestions, create contents, solve problems, and make decisions. It is a combination of different components of Computer Science, Mathematics, Cognitive Science as well as other fields.<br>
+- Machine Learning: ability of the machine to learn and grow. Made up of three components: representation, evaluation, and optimization.<br>
+- Natural Language Processing: ability to understand human language. Consists of understanding, processing, and communication.<br>
+- AI Chatbot: a conversational agent. Does not design to do complex features and functions. Can ony handle simple tasks that is mostly pre-design.<br>
+- AI Virtual Assistants: can complete more comprehensive assistance and complex activities. Can carry more "real" conversations. e.g.: Siri, Google Assistant.<br>
+- Generative AI: an AI-created content. e.g.: ChatGPT, Bard. It can really increase the speed and efficiency.<br>
+- AI-Generated Code: a programming that is written in different programming language.<br>
+- AI-Generated Content: using natural language processing, machine learning, and deep learning.<br>
+- Deep Learning: a deeper lever of machine learning.<br>
+
+- <br>
 &emsp;1. <br>
 &emsp;- <br>
 &emsp;&emsp;- <br>
@@ -939,40 +967,8 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - Indexing: keep tracks of all the files in system not just by date or author but also by contents of the files.<br>
 - Hotkeys: combination you can use on the keyboard both in the OS and apps to reduce time consuming by using the mouse.<br>
 
-## 9.0 - USING AND MANAGING APPLICATION SOFTWARE
-- Programming: creating an apps to enable users to do stuff.<br>
-- Life cycles of application: Install, update, uninstall.<br>
-- Installation: insert an optical disk or download the apps from the Internet.<br>
-- User Account Control: security feature in Windows to stop malicious software from installing without permission.<br>
-- Security Patches: software updates that fix vulnerabilities in a program or operating system to prevent cybercriminals from exploiting them.<br>
-- Check for Updates: from the application.<br>
-- Uninstall: (Windows) control panels > programs and features.<br>
-- File Association: a link between a file type and the application that opens it.<br>
-- File Extension: extension that relates with the associate program. e.g.: .docx, .xlsx, .pptx, .eml, .jpg or .jpe, .tif or .png, .zip, .exe (executable files), .mp4 or .avi or .mpg<br>
-- Compression Files: squish a big file to a smaller file.<br>
-- Well known office productivity applications: Microsoft Office 365, GoogleSuite, OpenOffice<br>
-- OneDrive enables sharing and real-time document editing in an online workspace.<br>
-- Open source: programmer has created and shared it for free use, but not commercially use. We can change and implement the code if we share it.<br>
-- Open source may not have the newest feature and not being updated frequently.<br>
-- Remote Access Software: allows for remote access to help through the troubleshooting steps when you are having an issue that you cannot solve. e.g.: AnyDesk, Remote Desktop, Connectwise<br>
-- Updating an application as frequent as possible is a must. Microsoft makes update every first Tuesday of the month.<br>
-- Browsers: to allow browsing the internet. Each browser generally have default search engine. You can change your preferred search engine. e.g.: Safari -> Google , Chrome -> Google, Brave -> Brave<br>
-- Profile Synchronization: when you can go to any device and log in and see your themes, bookmarks, items, and features. It creates a seamless and wonderful user experience from one device to another.<br>
-- Extension: embedded application to enhance functionality of the browsers. Extension comes in all size and shape depending on the feature you are looking for, there probably is an extension for it.<br>
-- Clearing cache or temporary memory is crucial. Cache stores cookie files that store interactions with different websites, settings, and preffered features. Although it provides enhance user experience, attacker can use it to be able to gather information. Browser history should be cleared out periodically.<br>
-- Nothing is completely private but we can increase privacy by using private browser like incognito window.<br>
-- Pop-up Blocker: stops potentially annoying or even potentially malicious pop-up from taking your internet browsing experience. It is enabled by default.<br>
-- Artifical Intelligence: can analyse data, make suggestions, create contents, solve problems, and make decisions. It is a combination of different components of Computer Science, Mathematics, Cognitive Science as well as other fields.<br>
-- Machine Learning: ability of the machine to learn and grow. Made up of three components: representation, evaluation, and optimization.<br>
-- Natural Language Processing: ability to understand human language. Consists of understanding, processing, and communication.<br>
-- AI Chatbot: a conversational agent. Does not design to do complex features and functions. Can ony handle simple tasks that is mostly pre-design.<br>
-- AI Virtual Assistants: can complete more comprehensive assistance and complex activities. Can carry more "real" conversations. e.g.: Siri, Google Assistant.<br>
-- Generative AI: an AI-created content. e.g.: ChatGPT, Bard. It can really increase the speed and efficiency.<br>
-- AI-Generated Code: a programming that is written in different programming language.<br>
-- AI-Generated Content: using natural language processing, machine learning, and deep learning.<br>
-- Deep Learning: a deeper lever of machine learning.<br>
 
-## 10.0 - CONFIGURING NETWORK AND INTERNET CONNECTIVITY
+## 9.0 - CONFIGURING NETWORK AND INTERNET CONNECTIVITY
 - Networking is all about communicating.<br>
 - Computing devices can comminucate across great distances if they have the correct information. Proper routing of the data to the right device is important.<br>
 - How to accomplish this:<br>
