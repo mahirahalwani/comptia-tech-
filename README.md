@@ -940,14 +940,49 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;- Text Resizing: allows users to increase or decrease font size for easier reading.<br>
             &emsp;&emsp;- Screen Readers: assists users with visual impairments by reading aloud web content.<br>
             &emsp;&emsp;- High-Contrast Mode: improves visibility by enhancing contrast between text and background.<br>
+
+## 5.4 - ARTIFICIAL INTELLIGENCE
 - **Artifical Intelligence**: can analyse data, make suggestions, create contents, solve problems, and make decisions. It is a combination of different components of Computer Science, Mathematics, Cognitive Science as well as other fields.<br>
+- **AI Chatbot**: simulate human conversation through text or voice. Can ony handle simple tasks that is mostly pre-design. Powered by Natural Language Processing (NLP) to understand and respond to user queries. <br>
+      &emsp;- Common uses of AI Chatbots:<br>
+            &emsp;&emsp;1. Customer Service: answer FAQs, track packages, or process transactions.<br>
+            &emsp;&emsp;2. E-Commerce: recommend products, assist with purchases.<br>
+            &emsp;&emsp;3. Healthcare: provide medical advice, triage symptoms, or schedule appointments. <br>
+      &emsp;- Key Benefits:<br>
+            &emsp;&emsp;- 24/7 Availability: always operational, offering uninterupted service.<br>
+            &emsp;&emsp;- Efficiency: handles multiple inquiries simultaneously, reducing wait times.<br>
+            &emsp;&emsp;- Cost Savings: lowers the need for large support teams.<br>
+- **AI Assistants**: advanced virtual assistants integrated into devices that can complete more comprehensive assistance and complex activities. Can carry more "real" conversations. e.g.: Siri, Google Assistant.<br>
+      &emsp;- Functionality: can perform tasks such as controlling smart devices, setting reminders, sending messages, retrieving information from the web. Operate through voice commands, utilizing voice recognition and machine learning.<br>
+      &emsp;- Common Uses:<br>
+            &emsp;&emsp;- smart home control: control lights, thermostat, and locks.<br>
+            &emsp;&emsp;- scheduling and reminders: set appoinments, reminders, or send invites.<br>
+            &emsp;&emsp;- info retrieval: provide real-time info (news, weather, directions)<br>
+      &emsp;- Key Benefits:<br>
+            &emsp;&emsp;- convenience: hands-free operation, ideal for multitasking.<br>
+            &emsp;&emsp;- personalization: tailors responses based on user preferences.<br>
+            &emsp;&emsp;- ease of use: accessible via voice commands, even for less tech-savvy users.<br>
+- **Generative AI**: utilizes machine learning models, such as Generative Adversarial Networks (GANs) and Large Language Models (LLMs). Creates new, original content (text, images, code) from learned patterns in large datasets. e.g.: ChatGPT, Bard. It can really increase the speed and efficiency.<br>
+      &emsp;- **AI-Generated Code**: a programming that is written in different programming language.<br>
+            &emsp;&emsp;- GitHub Copilot: assists developers by suggesting code snippets, automating repetitive tasks, and completing entire functions.<br>
+            &emsp;&emsp;- AI Code Refactoring: analyzes codebases, offering suggestions for performance improvements or readability.<br>
+      &emsp;- Benefits: increased productivity by automating tedious coding tasks, allowing developers to focus on complex problem-solving as well as error reduction.<br>
+      &emsp;- **AI-Generated Content**: using natural language processing, machine learning, and deep learning.<br>
+            &emsp;&emsp;- GPT Models: generate text for blogs, marketing copy and emails.<br>
+            &emsp;&emsp;- DALL-E: creates original images based on text descriptions.<br>
+      &emsp;- Benefits: content creation at scale, cost efficiency by reducing the need for extensive teams of writers, designers, and developers. <br>
+- **AI Predictions**: analyze large datasets to predict future trends, outcomes, or behaviors using statistical models.<br>
+      &emsp;- examples: predictive analytics, healthcare, and financial forecasting.<br>
+      &emsp;- benefits:<br>
+            &emsp;&emsp;1. improved decision-making: data-driven insights enable better decisions in business and healthcare.<br>
+            &emsp;&emsp;2. efficiency: AI processes vast amounts of data faster than humans for real-time predictions.<br>
+- **AI Suggestions**: power recommendation systems for personalized product, service, or action suggestions based on user behavior.<br>
+      &emsp;- examples: E-Commerce, media platforms, search engines.<br>
+      &emsp;- benefits:<br>
+            &emsp;&emsp;1. personalization: AI customizes the user experience, increasing satisfaction and engagement.<br>
+            &emsp;&emsp;2. increased sales and engagement: boosts e-commerce sales and media platform engagement.<br>
 - **Machine Learning**: ability of the machine to learn and grow. Made up of three components: representation, evaluation, and optimization.<br>
 - **Natural Language Processing**: ability to understand human language. Consists of understanding, processing, and communication.<br>
-- **AI Chatbot**: a conversational agent. Does not design to do complex features and functions. Can ony handle simple tasks that is mostly pre-design.<br>
-- **AI Virtual Assistants**: can complete more comprehensive assistance and complex activities. Can carry more "real" conversations. e.g.: Siri, Google Assistant.<br>
-- **Generative AI**: an AI-created content. e.g.: ChatGPT, Bard. It can really increase the speed and efficiency.<br>
-- **AI-Generated Code**: a programming that is written in different programming language.<br>
-- **AI-Generated Content**: using natural language processing, machine learning, and deep learning.<br>
 - **Deep Learning**: a deeper lever of machine learning.<br>
 
 - <br>
