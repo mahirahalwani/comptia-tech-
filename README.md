@@ -985,10 +985,47 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 - **Natural Language Processing**: ability to understand human language. Consists of understanding, processing, and communication.<br>
 - **Deep Learning**: a deeper lever of machine learning.<br>
 
+
+## 6.0 - PROGRAMMING LANGUAGES
+- **Programming Languages**: a means for humans to communicate instructions to computers.<br>
+      &emsp;- Main types: <br>
+            &emsp;&emsp;1. High-Level Languages: easier for humans to read and write. e.g., Python, Java.<br>
+            &emsp;&emsp;2. Low-Level Languages: closer to machine code, offering more control over hardware. e.g., Assembly.<br>
+      &emsp;- Primary Categories:<br>
+            &emsp;&emsp;1. Interpreted Languages<br>
+            &emsp;&emsp;2. Complied Programming Languages<br>
+            &emsp;&emsp;3. Query Languages<br>
+- **Interpreted Languages**: programming languages in which code is executed line-by-line by an interpreter at runtime. Unlike complied languages, they do not require a prior complation step; instead, they are translated on-the-fly as the program runs.<br>
+      &emsp;- Advantages:<br>      
+            &emsp;&emsp;1. flexibility to make changes without recompilation<br>
+            &emsp;&emsp;2. easier debugging since errors are identified at runtime<br>
+            &emsp;&emsp;3. portable across different platforms when an interpreter is available<br>
+      &emsp;- Major Types:<br>
+            &emsp;&emsp;1. Scripting Languages: used to automate tasks, often within larger applications. e.g., Python, JavaScript, Ruby.<br>
+            &emsp;&emsp;2. Markup Languages: used to structure and present data. e.g., HTML, XML.<br>
+      &emsp;1. Scripting Languages: used to write short programs or scripts that automate tasks.<br>
+            &emsp;&emsp;- Execution: interpreted by an interpreter, processing code line-by-line at runtime.<br>
+            &emsp;&emsp;- Common Scripting Languages:<br>
+                  &emsp;&emsp;&emsp;1. **JavaScript**: adds interactive elements to websites. Interpreted by web browsers, enabling dynamic behavior in real-time.<br>
+                  &emsp;&emsp;&emsp;2. **Python**: known for simplicity and readability. Used in web development, automation, AI, etc.<br>
+                  &emsp;&emsp;&emsp;3. **Ruby**: primarily used for web applications. Easy to update code without recompiling.<br>
+                  &emsp;&emsp;&emsp;4. **PHP**: Server-side scripting for dynamic websites and databases.<br>\
+|                        Advantages                                      |                                     Disadvantages                                        |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+|          Easy of use: great for beginners, simple syntax               | Slower performance: interpreted line-by-line, making them slower than compiled language  |
+|   Platform independence: can run on any system with an interpreter     |  Limited system access: less access to system resources compared to compiled languages   |
+|         Flexibility: allows rapid development and changes              |                                                                                          |
+      &emsp;2. <br>
+      
 - <br>
 &emsp;1. <br>
 &emsp;- <br>
 &emsp;&emsp;- <br>
+&emsp;&emsp;1. <br>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ## 6.0 - SETTING UP AND CONFIGURING A PC
 - For overall comfort, the ideal temperature is 72 Fahrenheit and 50% humidity.<br>
 - Monitor should be 16-24 inches away from the user.<br>
