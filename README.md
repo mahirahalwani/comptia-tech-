@@ -1009,7 +1009,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
                   &emsp;&emsp;&emsp;1. **JavaScript**: adds interactive elements to websites. Interpreted by web browsers, enabling dynamic behavior in real-time.<br>
                   &emsp;&emsp;&emsp;2. **Python**: known for simplicity and readability. Used in web development, automation, AI, etc.<br>
                   &emsp;&emsp;&emsp;3. **Ruby**: primarily used for web applications. Easy to update code without recompiling.<br>
-                  &emsp;&emsp;&emsp;4. **PHP**: Server-side scripting for dynamic websites and databases.<br>\
+                  &emsp;&emsp;&emsp;4. **PHP**: Server-side scripting for dynamic websites and databases.<br>
 |                        Advantages                                      |                                     Disadvantages                                        |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 |          Easy of use: great for beginners, simple syntax               | Slower performance: interpreted line-by-line, making them slower than compiled language  |
