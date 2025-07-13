@@ -996,7 +996,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;2. Complied Programming Languages<br>
             &emsp;&emsp;3. Query Languages<br>
 - **Interpreted Languages**: programming languages in which code is executed line-by-line by an interpreter at runtime. Unlike complied languages, they do not require a prior complation step; instead, they are translated on-the-fly as the program runs.<br>
-      &emsp;- Advantages:<br>      
+      &emsp;- Advantages:<br>
             &emsp;&emsp;1. flexibility to make changes without recompilation<br>
             &emsp;&emsp;2. easier debugging since errors are identified at runtime<br>
             &emsp;&emsp;3. portable across different platforms when an interpreter is available<br>
