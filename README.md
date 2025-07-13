@@ -1003,7 +1003,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Major Types:<br>
             &emsp;&emsp;1. Scripting Languages: used to automate tasks, often within larger applications. e.g., Python, JavaScript, Ruby.<br>
             &emsp;&emsp;2. Markup Languages: used to structure and present data. e.g., HTML, XML.<br>
-      &emsp;1. Scripting Languages: used to write short programs or scripts that automate tasks.<br>
+      &emsp;1. **Scripting Languages**: used to write short programs or scripts that automate tasks.<br>
             &emsp;&emsp;- Execution: interpreted by an interpreter, processing code line-by-line at runtime.<br>
             &emsp;&emsp;- Common Scripting Languages:<br>
                   &emsp;&emsp;&emsp;1. **JavaScript**: adds interactive elements to websites. Interpreted by web browsers, enabling dynamic behavior in real-time.<br>
@@ -1016,7 +1016,44 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 | Easy of use: great for beginners, simple syntax  | Slower performance: interpreted line-by-line, making them slower than compiled language  |
 | Platform independence: can run on any system with an interpreter  | Limited system access: less access to system resources compared to compiled languages  |
 | Flexibility: allows rapid development and changes  |   |
-      &emsp;2. <br>
+      &emsp;2. **Markup Languages**: used to define the structure and presentation of text, especially in web development.<br>
+            &emsp;&emsp;- Common Examples:<br>
+                  &emsp;&emsp;&emsp;1. **Hypertext Markup Language (HTML)**: standard language to create and structure web pages. Defines elements like headings, paragraphs, links, etc. Essential for web development.<br>
+                  &emsp;&emsp;&emsp;2. **eXtensible Markup Language (XML)**: stores and transports data. Allows users to define custom tags. Used in web services and configuration files.<br>
+                  &emsp;&emsp;&emsp;3. **Cascading Style Sheets (CSS)**: describes presentation of HTML documents. Controls layout and appearance of web pages. Not a full programming language but crucial for styling. <br>
+| Advantages  | Disadvantages |
+| ------------- | ------------- |
+| Structure & Organization: ideal for structuring data or web content.  | Limited Logic: not designed for complex computations or logic. Focused on formatting and structuring content.  |
+| Separation of Content and Presentation: especially in web development, HTML, and CSS separate content from design, making updates easier.  |   |
+- **Compiled Programming Languages**: source code is translated into machine code (binary) via a compiler before execution. The entire program is compiled in one go, producing an executable file that runs without an interpreter.<br>
+      &emsp;- Examples:<br>
+            &emsp;&emsp;1. **C**: powerful, provides low-level access to system resources; widely used.<br>
+            &emsp;&emsp;2. **C++**: extends C with object-oriented features; used in software, game development, etc.<br>
+            &emsp;&emsp;3. **Java**: compiled to bytecode, runs on JVM, combines compilation with interpretation <br>
+            &emsp;&emsp;4. **Go (Goland)**: developed by Google, efficient for system programming and networking.<br>
+| Advantages  | Disadvantages |
+| ------------- | ------------- |
+| Speed: compiled code runs faster as it is directly in machine code  | Development Time: requires compilation before testing, slowing down the workflow  |
+| Optimization: compilers optimize code for efficiency | Platform Dependency: code may need to be recompiled for different OS  |
+| Full Access to System Resources: ideal for low-level programming |   |
+      &emsp;- Use cases: best for performance-critical apps. e.g., OS, game development, real-time systems.<br>
+- **Query Language**: designed for retrieving, manipulating, and managing data in databases. Commonly used in Database Management Systems (DBMS) to interact with stored data.<br>
+      &emsp;- Examples:<br>
+            &emsp;&emsp;1. **Structured Query Language (SQL)**: most widely used query language. Performs operations like selecting, inserting, updating, and deleting data in relational databases.<br>
+            &emsp;&emsp;2. **GraphQL**: query language for APIs. Allows clients to request specific data, improving efficiency compared to REST APIs.<br>
+            &emsp;&emsp;3. **XPath / Xquery**: used for querying XML data. Helps retrieve and manipulate XML documents.<br>
+| Advantages | Disadvantages |
+| ------------- | ------------- |
+| Specialized for Data Manipulation: efficient for interacting with large datasets in databases  | Limited Use: specialized for database management, not suited for general-purpose programming  |
+| Simplifies Complex Queries: optimized for applying filters and conditions, simplifying the qurying process  |   |
+- **Assembly Programming**: low-level programming language closely aligned with machine code but human-readable.<br>
+      &emsp;- Key Characteristics:<br>
+
+
+
+
+
+
       
 - <br>
 &emsp;1. <br>
