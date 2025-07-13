@@ -585,7 +585,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;- offers convenience but can be slower and more prone to interference than wired connections.<br>
 - **Data transmission**: data is transferred in packets (small chunks of info) and packets travel from the source to the destination across the network.<br>
 - **Protocols**: set of rules governing data transmission. Transmission Control Protocol / Internet Protocol (TCP/IP) is the most common protocol and ensures accurate data transmission.<br>
-- Analogy:
+- Analogy:<br>
       &emsp;1. Packets: letter <br>
       &emsp;2. Protocol: postal system rules <br>
       &emsp;3. Network: the road on which the letter travels <br>
