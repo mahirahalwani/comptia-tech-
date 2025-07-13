@@ -1009,7 +1009,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
                   &emsp;&emsp;&emsp;1. **JavaScript**: adds interactive elements to websites. Interpreted by web browsers, enabling dynamic behavior in real-time.<br>
                   &emsp;&emsp;&emsp;2. **Python**: known for simplicity and readability. Used in web development, automation, AI, etc.<br>
                   &emsp;&emsp;&emsp;3. **Ruby**: primarily used for web applications. Easy to update code without recompiling.<br>
-                  &emsp;&emsp;&emsp;4. **PHP**: Server-side scripting for dynamic websites and databases.<br>                                                                               
+                  &emsp;&emsp;&emsp;4. **PHP**: Server-side scripting for dynamic websites and databases.<br>                                    
 
 | Advantages  | Disadvantages |
 | ------------- | ------------- |
@@ -1032,26 +1032,38 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;2. **C++**: extends C with object-oriented features; used in software, game development, etc.<br>
             &emsp;&emsp;3. **Java**: compiled to bytecode, runs on JVM, combines compilation with interpretation <br>
             &emsp;&emsp;4. **Go (Goland)**: developed by Google, efficient for system programming and networking.<br>
+      &emsp;- Use cases: best for performance-critical apps. e.g., OS, game development, real-time systems.<br>
 
 | Advantages  | Disadvantages |
 | ------------- | ------------- |
 | Speed: compiled code runs faster as it is directly in machine code  | Development Time: requires compilation before testing, slowing down the workflow  |
 | Optimization: compilers optimize code for efficiency | Platform Dependency: code may need to be recompiled for different OS  |
 | Full Access to System Resources: ideal for low-level programming |   |
-      &emsp;- Use cases: best for performance-critical apps. e.g., OS, game development, real-time systems.<br>
+      
 - **Query Language**: designed for retrieving, manipulating, and managing data in databases. Commonly used in Database Management Systems (DBMS) to interact with stored data.<br>
       &emsp;- Examples:<br>
             &emsp;&emsp;1. **Structured Query Language (SQL)**: most widely used query language. Performs operations like selecting, inserting, updating, and deleting data in relational databases.<br>
             &emsp;&emsp;2. **GraphQL**: query language for APIs. Allows clients to request specific data, improving efficiency compared to REST APIs.<br>
             &emsp;&emsp;3. **XPath / Xquery**: used for querying XML data. Helps retrieve and manipulate XML documents.<br>
+            
 | Advantages | Disadvantages |
 | ------------- | ------------- |
 | Specialized for Data Manipulation: efficient for interacting with large datasets in databases  | Limited Use: specialized for database management, not suited for general-purpose programming  |
 | Simplifies Complex Queries: optimized for applying filters and conditions, simplifying the qurying process  |   |
 - **Assembly Programming**: low-level programming language closely aligned with machine code but human-readable.<br>
       &emsp;- Key Characteristics:<br>
+            &emsp;&emsp;1. specific to a particular computer architecture.<br>
+            &emsp;&emsp;2. requires manual memory and processor register management.<br>
+            &emsp;&emsp;3. one step above machine code - very fast and efficient but harder to write.<br>
+      &emsp;- Examples: <br>
+            &emsp;&emsp;1. **x86 Assembly**: used in Intel x86 processors.<br>
+            &emsp;&emsp;2. **ARM Assembly**: common in mobile devices and embedded systems.<br>
+      &emsp;- common uses cases: embedded systems, real-time apps, low-level drivers where performance is critical.<br>
 
-
+| Advantages  | Disadvantages |
+| ------------- | ------------- |
+| High Performance: allows for optimized and efficient hardware interaction  | Complexity: much harder to learn and use than high-level languages  |
+| Control Over System Resource: direct manipulation of processor registers and memory  | Limited Portability: hardware-specific, non-portable across different architectures  |
 
 
 
