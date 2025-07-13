@@ -1021,6 +1021,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
                   &emsp;&emsp;&emsp;1. **Hypertext Markup Language (HTML)**: standard language to create and structure web pages. Defines elements like headings, paragraphs, links, etc. Essential for web development.<br>
                   &emsp;&emsp;&emsp;2. **eXtensible Markup Language (XML)**: stores and transports data. Allows users to define custom tags. Used in web services and configuration files.<br>
                   &emsp;&emsp;&emsp;3. **Cascading Style Sheets (CSS)**: describes presentation of HTML documents. Controls layout and appearance of web pages. Not a full programming language but crucial for styling. <br>
+
 | Advantages  | Disadvantages |
 | ------------- | ------------- |
 | Structure & Organization: ideal for structuring data or web content.  | Limited Logic: not designed for complex computations or logic. Focused on formatting and structuring content.  |
@@ -1031,6 +1032,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;2. **C++**: extends C with object-oriented features; used in software, game development, etc.<br>
             &emsp;&emsp;3. **Java**: compiled to bytecode, runs on JVM, combines compilation with interpretation <br>
             &emsp;&emsp;4. **Go (Goland)**: developed by Google, efficient for system programming and networking.<br>
+
 | Advantages  | Disadvantages |
 | ------------- | ------------- |
 | Speed: compiled code runs faster as it is directly in machine code  | Development Time: requires compilation before testing, slowing down the workflow  |
