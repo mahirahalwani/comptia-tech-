@@ -1026,6 +1026,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 | ------------- | ------------- |
 | Structure & Organization: ideal for structuring data or web content.  | Limited Logic: not designed for complex computations or logic. Focused on formatting and structuring content.  |
 | Separation of Content and Presentation: especially in web development, HTML, and CSS separate content from design, making updates easier.  |   |
+
 - **Compiled Programming Languages**: source code is translated into machine code (binary) via a compiler before execution. The entire program is compiled in one go, producing an executable file that runs without an interpreter.<br>
       &emsp;- Examples:<br>
             &emsp;&emsp;1. **C**: powerful, provides low-level access to system resources; widely used.<br>
@@ -1050,6 +1051,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 | ------------- | ------------- |
 | Specialized for Data Manipulation: efficient for interacting with large datasets in databases  | Limited Use: specialized for database management, not suited for general-purpose programming  |
 | Simplifies Complex Queries: optimized for applying filters and conditions, simplifying the qurying process  |   |
+
 - **Assembly Programming**: low-level programming language closely aligned with machine code but human-readable.<br>
       &emsp;- Key Characteristics:<br>
             &emsp;&emsp;1. specific to a particular computer architecture.<br>
@@ -1065,7 +1067,12 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 | High Performance: allows for optimized and efficient hardware interaction  | Complexity: much harder to learn and use than high-level languages  |
 | Control Over System Resource: direct manipulation of processor registers and memory  | Limited Portability: hardware-specific, non-portable across different architectures  |
 
-
+- Key Differences Between Programming Languages:<br>
+| Interpreted Languages  | Compiled Languages | Query Languages  | Assembly Languages | 
+| ------------- | ------------- | ------------- | ------------- |
+| executed line-by-line at runtime  | translated into machine code before execution  | specialized for database interactions  | low-level control over hardware  |
+| ideal for dynamic, flexible apps  | high performance due to direct machine code execution  | efficient in retrieving and manipulating large datasets  | high efficiency and performance  |
+| slower in performance due to on-the-fly execution  | requires a separate compilation step  |   | complex and less portable across systems  |
 
 
       
