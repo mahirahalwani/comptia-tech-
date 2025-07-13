@@ -1016,6 +1016,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 | Easy of use: great for beginners, simple syntax  | Slower performance: interpreted line-by-line, making them slower than compiled language  |
 | Platform independence: can run on any system with an interpreter  | Limited system access: less access to system resources compared to compiled languages  |
 | Flexibility: allows rapid development and changes  |   |
+
       &emsp;2. **Markup Languages**: used to define the structure and presentation of text, especially in web development.<br>
             &emsp;&emsp;- Common Examples:<br>
                   &emsp;&emsp;&emsp;1. **Hypertext Markup Language (HTML)**: standard language to create and structure web pages. Defines elements like headings, paragraphs, links, etc. Essential for web development.<br>
