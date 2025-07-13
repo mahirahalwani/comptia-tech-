@@ -1017,11 +1017,11 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 | Platform independence: can run on any system with an interpreter  | Limited system access: less access to system resources compared to compiled languages  |
 | Flexibility: allows rapid development and changes  |   |
 
-      &emsp;2. **Markup Languages**: used to define the structure and presentation of text, especially in web development.<br>
-            &emsp;&emsp;- Common Examples:<br>
-                  &emsp;&emsp;&emsp;1. **Hypertext Markup Language (HTML)**: standard language to create and structure web pages. Defines elements like headings, paragraphs, links, etc. Essential for web development.<br>
-                  &emsp;&emsp;&emsp;2. **eXtensible Markup Language (XML)**: stores and transports data. Allows users to define custom tags. Used in web services and configuration files.<br>
-                  &emsp;&emsp;&emsp;3. **Cascading Style Sheets (CSS)**: describes presentation of HTML documents. Controls layout and appearance of web pages. Not a full programming language but crucial for styling. <br>
+&emsp;&emsp;&emsp;2. **Markup Languages**: used to define the structure and presentation of text, especially in web development.<br>
+            &emsp;&emsp;&emsp;- Common Examples:<br>
+                  &emsp;&emsp;&emsp;&emsp;1. **Hypertext Markup Language (HTML)**: standard language to create and structure web pages. Defines elements like headings, paragraphs, links, etc. Essential for web development.<br>
+                  &emsp;&emsp;&emsp;&emsp;2. **eXtensible Markup Language (XML)**: stores and transports data. Allows users to define custom tags. Used in web services and configuration files.<br>
+                  &emsp;&emsp;&emsp;&emsp;3. **Cascading Style Sheets (CSS)**: describes presentation of HTML documents. Controls layout and appearance of web pages. Not a full programming language but crucial for styling. <br>
 
 | Advantages  | Disadvantages |
 | ------------- | ------------- |
