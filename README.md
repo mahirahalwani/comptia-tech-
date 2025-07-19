@@ -1076,7 +1076,46 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 | slower in performance due to on-the-fly execution  | requires a separate compilation step  |   | complex and less portable across systems  |
 
 
-      
+## 6.2 DATA TYPES
+- **Data Types**: defines the kind of data a variable can hold. It is a classification that tells the computer how to interpret the info stored in memory.<br>
+- Purpose of Data Types in Computing: <br>
+      &emsp;1. Operations: defines the operations that can be performed on the data.<br>
+      &emsp;2. Memory Allocation: specifies memory usage, as different types require different amounts of memory.<br>
+      &emsp;3. Error Checking: ensures that operations are performed on compatible types, helping prevent errors.<br>
+- consistency across langauges: core data type concepts remain the same across different programming languages, though implementations may vary.<br>
+- **Character (Char)**: used to store any single letter, number, punctuation mark, or symbol. e.g., A, 1, $.<br>
+      &emsp;- Types of characters stored: alphabet letters, digits, special characters.<br>
+      &emsp;- characteristics:<br>
+            &emsp;&emsp;1. size: typically requires 1 byte of memory; may vary by programming language and encoding <br>
+            &emsp;&emsp;2. representation: characters are enclosed in single quotes. e.g., 'A'.<br>
+            &emsp;&emsp;3. encoding standards: **ASCII**, represents characters as numeric values (e.g., 'A' = 65). **Unicode** extends ASCII to represent more global characters.<br>
+      &emsp;- use case: text processing, essential in apps like word processors, where each typed letter is stored as an individual character.<br>
+- **Strings**: a sequence of characters, allowing us to store multiple characters in a sequence. Unlike a char, a string can represent words, sentences, or entire documents.<br>
+      &emsp;- characteristics of strings:<br>
+            &emsp;&emsp;1. size: depends on character count. e.g., "hello" has 5 characters, requires at least 5 bytes.<br>
+            &emsp;&emsp;2. representation: enclosed in double quotes. e.g., "Hello World!".<br>
+            &emsp;&emsp;3. null-termination: in some languages, strings end with a null characters (/0), indicating the end of the string.<br>
+            &emsp;&emsp;4. immutability: in languages like Python, strings are immutable, meaning their content cannot be changed after creation; operations produce new strings.<br>
+      &emsp;- use case:<br>
+            &emsp;&emsp;1. storing text: ideal for storing user input, file content, or web data.<br>
+            &emsp;&emsp;2. string manipulation: built-in functions support operations like finding length, contatenation, and case conversion.<br>
+- **Integers (int)**: represents whole numbers (positive, negative, or zero) without decimals.<br>
+      &emsp;- characteristics: <br>
+            &emsp;1. size: typically 4 bytes (32 bits), but can vary. e.g., short & long integers <br>
+            &emsp;2. range: depends on size. e.g., 32-bit integers range from -2,147,483,648 to 2,147,483,648.<br>
+            &emsp;3. operations: supports arithmetic operations. e.g., addition, subtraction, multiplication, division.<br>
+      &emsp;- use cases:<br>
+           &emsp;&emsp;- counting & indexes: common in loops for tracking iterations and indexing lists/arrays.<br>
+           &emsp;&emsp;- mathematical calculations: used when calculations involve whole numbers<br>
+- **Floating-Point Numbers (Floats)**: data type representing real numbers with decimal points, which can be positive or negative and allow for fractional values.<br>
+      &emsp;- characteristics:<br>
+            &emsp;&emsp;1. size: typically uses 4 bytes (32 bits) in memory; some languages support a double data type (8 bytes or 64 bits) for greater precision. <br>
+            &emsp;&emsp;2. precision: less precise than integers due to storage limitations; may lead to rounding errors with very large or small numbers.<br>
+            &emsp;&emsp;3. operations: supports arithmetic operations, including decimal-based calculations.<br>
+
+
+
+    
 - <br>
 &emsp;1. <br>
 &emsp;- <br>
