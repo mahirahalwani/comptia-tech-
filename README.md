@@ -1145,7 +1145,31 @@ PASSING SCORE: 650 out of 900 (72%)<br>
       &emsp;- Purpose:<br>
             &emsp;&emsp;1. group related lines of code for better readability and maintainability.<br>
             &emsp;&emsp;2. accept input data, perform operations, and return a result, streamlining complex tasks.<br>
-      Benefit
+      &emsp;- Benefits:<br>
+            &emsp;&emsp;1. code reusability: define once, use multiple times without rewriting.<br>
+            &emsp;&emsp;2. modularity: organize code into manageabke, clear sections, improving clarity.<br>
+            &emsp;&emsp;3. easier maintenance: update functionality in one place; all references are automatically updated.<br>
+      &emsp;- Key Components:<br>
+            &emsp;&emsp;- function parameters: allow data input when calling the function.<br>
+            &emsp;&emsp;- return values: provide the operation result back to the calling code for further use.<br>
+- **Object-Oriented Programming (OOP)** <br>
+      &emsp;1. **Object**: central concept in OOP. Collection of data (attributes) and methods that operate on that data. Objects are instances of classes - classes serve as blueprints, while objects are the real-world instances created from those blueprints.<br>
+
+|   | OBJECT | 
+| ------------- | ------------- |
+| Purpose  | model real-world entities in a structured way<br> organize code for better management and readability, especially in large programs  |
+| Properties & Attributes  | - data stored within an object, representing characteristics or traits.<br> - these properties define specific details of an object.  |
+| Methods  | - actions or functions an object an perform.<br> - defined within the class to operate on the object's attributes.  |
+
+&emsp;&emsp;2. **Methods**: functions within a class that define the actions or behaviors an object can perform.<br>
+
+|   | Methods | 
+| ------------- | ------------- |
+| Purpose  | - allow objects to perform specific actions<br> - utilize or modify the object's properties<br> - accept parameters and return values like standard functions<br> |
+| Key Takeaway  | - methods define the behaviors of an object<br> - every object created from a class has access to that class's methods, allowing each instance to perform the actions defined in its class<br> |
+      
+
+      
       
 
       
