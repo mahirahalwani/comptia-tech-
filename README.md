@@ -1069,6 +1069,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 | Control Over System Resource: direct manipulation of processor registers and memory  | Limited Portability: hardware-specific, non-portable across different architectures  |
 
 - Key Differences Between Programming Languages:<br>
+
 | Interpreted Languages  | Compiled Languages | Query Languages  | Assembly Languages | 
 | ------------- | ------------- | ------------- | ------------- |
 | executed line-by-line at runtime  | translated into machine code before execution  | specialized for database interactions  | low-level control over hardware  |
