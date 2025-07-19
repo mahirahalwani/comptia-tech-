@@ -1077,7 +1077,7 @@ PASSING SCORE: 650 out of 900 (72%)<br>
 | slower in performance due to on-the-fly execution  | requires a separate compilation step  |   | complex and less portable across systems  |
 
 
-## 6.2 DATA TYPES
+## 6.2 - DATA TYPES
 - **Data Types**: defines the kind of data a variable can hold. It is a classification that tells the computer how to interpret the info stored in memory.<br>
 - Purpose of Data Types in Computing: <br>
       &emsp;1. Operations: defines the operations that can be performed on the data.<br>
@@ -1127,13 +1127,35 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;2. control flow: determines program flow in loops and conditional statements based on specific conditions.<br>
 
 
+## 6.3 - PROGRAMMING CONCEPT
+- **Identifiers**: names given to elements in programs, like variables, constants, functions, etc. Used to lavel and track data throghout a program.<br>
+
+|   | VARIABLES | CONSTANTS |
+| ------------- | ------------- | ------------- |
+| Definition  | a storage location that holds data which can change during program execution  | value that remains unchanged throughout the execution of a program. Once assigned, it cannot be modified  |
+| Purpose  | to store temporary data that the program will refer to and manipulate as it runs  | 1. data integrity: ensures important values stay fixed and are not accidentally altered.<br>  2. improved readability: makes code clearer by indicating values that should remain the same.<br> 3. common use cases: mathematical values, configuration settings, and threshold.<br> |
+| Naming Rules  | - must start with a letter (or an underscore in some languages)<br> - cannot contain spaces or special characters<br> - should be descriptive, so the variable's purpose is clear. e.g., length, width<br>  | many languages do not enforce constants, but developers use uppercase naming to denote constant values  |
+
+- **Arrays**: a data structure that holds multiple values in a single variable. Values are tyoically of the same. Stored in contiguous memory locations for efficient data handling.<br>
+      &emsp;- Purpose:<br>
+           &emsp;&emsp;1. ideal for storing collections of data. e.g., lists, sets, series.<br>
+           &emsp;&emsp;2. simplifies data management by storing related items in one structure rather than separate variables.<br>
+      &emsp;- use cases: useful in loops for performing actions on each element<br>
+- **Functions**: organized, reusable code block designed to perform a single, well-defined task. Key building blocks in programming, helping to create modular and manageable code.<br>
+      &emsp;- Purpose:<br>
+            &emsp;&emsp;1. group related lines of code for better readability and maintainability.<br>
+            &emsp;&emsp;2. accept input data, perform operations, and return a result, streamlining complex tasks.<br>
+      Benefit
+      
+
+      
     
 - <br>
 &emsp;1. <br>
 &emsp;- <br>
 &emsp;&emsp;- <br>
 &emsp;&emsp;1. <br>
-| First Header  | Second Header |
+| First Header  | Second Header | 
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
