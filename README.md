@@ -1113,7 +1113,18 @@ PASSING SCORE: 650 out of 900 (72%)<br>
             &emsp;&emsp;1. size: typically uses 4 bytes (32 bits) in memory; some languages support a double data type (8 bytes or 64 bits) for greater precision. <br>
             &emsp;&emsp;2. precision: less precise than integers due to storage limitations; may lead to rounding errors with very large or small numbers.<br>
             &emsp;&emsp;3. operations: supports arithmetic operations, including decimal-based calculations.<br>
-
+      &emsp;- use cases:<br>
+            &emsp;&emsp;1. mathematical calculations with fractions: essential for precision in fields like finance and science simulations where decimal accuracy is critical.<br>
+            &emsp;&emsp;2. measurements: commonly used for handling measurements in programs where fractional values are needed.<br>
+- **Boolean**: represents a binary value with two possible states: true or false.<br>
+      &emsp;- primary use: essential for logical operations and decision-making in programming.<br>
+      &emsp;- characteristics:<br>
+            &emsp;&emsp;1. size: occupies 1 bit of memory sufficient to represent only two values: 1 (true) or 0 (false).<br>
+            &emsp;&emsp;2. logical operations: works in AND, OR, and NOT operations to perform logical comparisons.<br>
+            &emsp;&emsp;3. conditions: utilized in conditional statements like if, while, or for loops in programming languages.<br>
+      &emsp;- use cases:<br>
+            &emsp;&emsp;1. conditional logic: facilitates decision-making processes.<br>
+            &emsp;&emsp;2. control flow: determines program flow in loops and conditional statements based on specific conditions.<br>
 
 
     
